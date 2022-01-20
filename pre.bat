@@ -1,2 +1,3 @@
-git config --global user.name "Lu"
-git config --global user.email ""
+git config user.name "Lu"
+git config user.email ""
+type .git\config
