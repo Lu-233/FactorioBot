@@ -7,7 +7,9 @@ from OfficialTool import get_all_pages
 
 def main():
     """ save all page name """
-    pages = get_all_pages()
+
+    # if you are high privileged user, limit can up to more
+    pages = get_all_pages(one_req_limit=500)
 
     all_page_file = Path("../data/all_page.json")
     json_text = json.dumps(pages, indent=4, ensure_ascii=False)

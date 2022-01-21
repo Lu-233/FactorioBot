@@ -14,28 +14,8 @@ def main():
     """ main func """
     print("hello factorio\n")
 
-    pages = json.loads(Path("../data/all_page.json").read_text("UTF8"))
 
-    session = login()
-
-    for page in pages:
-        title: str = page["title"]
-        if title.endswith("/zh"):
-            print(title)
-            req = session.get(api_url, params={
-                'format': 'json',
-                'action': 'query',
-                'prop': 'revisions',
-                'rvlimit': 20,
-                'rvprop': 'timestamp|user',
-                'titles': title
-            })
-            print(req.json())
-            print(req.text)
-            break
-
-
-def get_all_pages(session=None, apnamespace=0):
+def get_all_pages(session=None, apnamespace=0, one_req_limit=500):
     if session is None:
         session = login()
     data = []
@@ -45,7 +25,7 @@ def get_all_pages(session=None, apnamespace=0):
         'assert': 'user',
         'list': 'allpages',
         'apnamespace': apnamespace,
-        'aplimit': 500
+        'aplimit': one_req_limit
     })
 
     print("first...", req.json())
@@ -60,7 +40,7 @@ def get_all_pages(session=None, apnamespace=0):
                 'apcontinue': continue_data["apcontinue"],
                 'apnamespace': apnamespace,
                 'list': 'allpages',
-                'aplimit': 500
+                'aplimit': one_req_limit
             })
             print("continue...", req.json())
             data += req.json()["query"]["allpages"]
@@ -92,6 +72,7 @@ def get_edit_token():
 def login():
     cfg = load_cfg()["wiki"]
     session = requests.Session()
+    print("try to login...")
     login_token = session.get(api_url, params={
         'format': 'json',
         'action': 'query',
@@ -113,6 +94,7 @@ def login():
     if login.json()['login']['result'] != 'Success':
         raise Exception(login.json())
 
+    print("login success!")
     return session
 
 # The only entrance
