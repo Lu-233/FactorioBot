@@ -1,6 +1,7 @@
 """ compare page history """
 import json
 from pathlib import Path
+from dateutil.parser import isoparse
 
 from tools import load_json
 
@@ -8,6 +9,8 @@ from tools import load_json
 def main():
     """ main func
         compare last modify date for page en-zh
+
+        the output can be handly save to csv file
     """
 
     # json demo : [{'pageid': 123, 'ns': 0, 'title': 'Asd/zh'}, ...]
@@ -42,31 +45,24 @@ def main():
 
         zh_name = en_name + "/zh"
 
+        en_page_info = load_json(page_history_folder / f"{en_page_id}.json")
+        en_datetime = en_page_info["revisions"][0]["timestamp"]
+        en_datetime = isoparse(en_datetime)
+
+        zh_datetime = ""
         if zh_name in zh_page_dict:
             zh_page_id = zh_page_dict[zh_name]
 
-            en_page_info = load_json(page_history_folder / f"{en_page_id}.json")
             zh_page_info = load_json(page_history_folder / f"{zh_page_id}.json")
-            print(json.dumps(en_page_info))
-            print(json.dumps(zh_page_info))
+            zh_datetime = zh_page_info["revisions"][0]["timestamp"]
+            zh_datetime = isoparse(zh_datetime)
 
-            print(en_page_info["revisions"][0]["timestamp"])
-            print(zh_page_info["revisions"][0]["timestamp"])
-
-            # isoformat 2019-11-07T12:43:07Z
-
-            print(zh_name, )
-            # get last update time
-            exit(0)
-
-            # find is need update?
-
-        else:
-            print(zh_name, "Not found===============================")
-
-
-
-
+        print(f"{en_name}\t"
+              f"{zh_name}\t"
+              f"{str(en_datetime).replace('+00:00', '')}\t"
+              f"{str(zh_datetime).replace('+00:00', '')}\t"
+              f"{(en_datetime > zh_datetime) if zh_datetime else 'True'}\t"
+              )
 
 if __name__ == '__main__':
     main()
