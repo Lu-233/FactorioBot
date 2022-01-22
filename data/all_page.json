@@ -5640,6 +5640,11 @@
         "title": "Factorio"
     },
     {
+        "pageid": 48191,
+        "ns": 0,
+        "title": "Factorio HTTP API usage guidelines"
+    },
+    {
         "pageid": 31873,
         "ns": 0,
         "title": "Fast inserter"
@@ -13110,6 +13115,11 @@
         "title": "Prototype/EntityWithHealth"
     },
     {
+        "pageid": 48193,
+        "ns": 0,
+        "title": "Prototype/EntityWithOwner"
+    },
+    {
         "pageid": 43994,
         "ns": 0,
         "title": "Prototype/Equipment"
@@ -14585,6 +14595,11 @@
         "title": "Replay system"
     },
     {
+        "pageid": 48192,
+        "ns": 0,
+        "title": "Replay system/zh"
+    },
+    {
         "pageid": 31882,
         "ns": 0,
         "title": "Requester chest"
@@ -14893,6 +14908,11 @@
         "pageid": 47160,
         "ns": 0,
         "title": "Rock/ru"
+    },
+    {
+        "pageid": 48194,
+        "ns": 0,
+        "title": "Rock/zh"
     },
     {
         "pageid": 31909,

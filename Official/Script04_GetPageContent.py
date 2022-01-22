@@ -5,6 +5,9 @@ from pathlib import Path
 from Official.OfficialTool import login, api_url
 from tools import load_json
 
+out_path = Path("../data/page_content")
+out_path.mkdir(exist_ok=True)
+
 
 def main():
     """ main func
@@ -15,8 +18,6 @@ def main():
 
     en_pages = load_json("../data/en_pages.json")
 
-    out_path = Path("../data/page_content")
-    out_path.mkdir(exist_ok=True)
 
     session = login()
 
@@ -26,24 +27,26 @@ def main():
         pageid: str = str(page["pageid"])
 
         print(f"{i}/{len(en_pages)} getting page: ", title, pageid)
-        req = session.get(api_url, params={
-            'format': 'json',
-            'action': 'query',
-            'prop': 'revisions',
-            'rvlimit': 1,
-            'rvprop': 'timestamp|user|comment|flags|content',
-            'pageids': pageid
-        })
-        data = req.json()
-
-        revision = data["query"]["pages"][pageid]["revisions"][0]
-        revision_text = json.dumps(revision, ensure_ascii=False, indent=4)
-        out_file = out_path / f"{pageid}.json"
-        out_file.write_text(revision_text, encoding="UTF8")
+        save_page(pageid, session)
 
 
+def save_page(pageid, session=None):
+    if session is None:
+        session = login()
 
-
+    req = session.get(api_url, params={
+        'format': 'json',
+        'action': 'query',
+        'prop': 'revisions',
+        'rvlimit': 1,
+        'rvprop': 'timestamp|user|comment|flags|content',
+        'pageids': pageid
+    })
+    data = req.json()
+    revision = data["query"]["pages"][pageid]["revisions"][0]
+    revision_text = json.dumps(revision, ensure_ascii=False, indent=4)
+    out_file = out_path / f"{pageid}.json"
+    out_file.write_text(revision_text, encoding="UTF8")
 
 
 if __name__ == '__main__':

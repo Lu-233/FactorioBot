@@ -1,4 +1,4 @@
-""" get page content, check page is empty or redirect """
+""" get page content, check page is empty or redirect, or exclude """
 import json
 from pathlib import Path
 
@@ -16,9 +16,9 @@ def main():
 
     content_path = Path("../data/page_content")
 
-    redirect_list_file = Path("../data/redirect_page_list.json")
+    exclude_list_file = Path("../data/exclude_page_list.json")
 
-    redirect_page_ids = []
+    exclude_page_ids = []
 
     for i, page in enumerate(en_pages):
 
@@ -29,6 +29,10 @@ def main():
         if not title[0].encode().isalpha():
             continue
 
+        # base on wiki rule, page start with Prototype should not be translate
+        if title.startswith("Prototype"):
+            exclude_page_ids.append(pageid)
+
         # print(f"{i}/{len(en_pages)} getting page: ", title, pageid)
 
         content_file = content_path / f"{pageid}.json"
@@ -37,10 +41,19 @@ def main():
         page_data = json.loads(text)
         content: str = page_data["*"]
 
+        # for redirect page
         if content.startswith("#REDIRECT"):
-            redirect_page_ids.append(pageid)
+            exclude_page_ids.append(pageid)
 
-    redirect_list_file.write_text(json.dumps(redirect_page_ids), encoding="UTF8")
+        # for archive page
+        if content.find("{{archive}}") > 0:
+            exclude_page_ids.append(pageid)
+
+        # for Technical page
+        if content.find("[[Category:Technical]]") > 0:
+            exclude_page_ids.append(pageid)
+
+    exclude_list_file.write_text(json.dumps(exclude_page_ids, indent=4), encoding="UTF8")
 
 
 if __name__ == '__main__':
