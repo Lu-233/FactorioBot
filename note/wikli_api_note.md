@@ -1,6 +1,13 @@
 # api
 
 
+## 需要在41上更新页面内容：
+
+Stack inserter (research)
+Piercing shotgun shells
+Uranium processing (research)
+Defender (research)
+
 ## wiki
 
 链接其他页面： [[page|name]]， [[Electric system|电力]]
