@@ -1,16 +1,17 @@
 import json
 from pathlib import Path
 
-from Official.OfficialTool import login
+from Official.OfficialTool import get_session
 from tools import load_json
 from Script04_GetPageContent import save_page
 from Script03_GetPageHistory import get_page_history
 
-session = login()
+session = get_session()
+
 
 def main():
     """ main func """
-    target_name = "Explosives (research)"
+    target_name = "Uranium rounds magazine"
 
     pages = load_json("../data/all_page.json")
     name2page = {x["title"]: x for x in pages}

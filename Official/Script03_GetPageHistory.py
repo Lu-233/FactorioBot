@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-from Official.OfficialTool import api_url, login
+from Official.OfficialTool import api_url, get_session
 from tools import load_json
 
 his_store = Path("../data/page_history")
@@ -21,7 +21,7 @@ def get_all_history(filepath):
     pages = load_json(filepath)
     # [{'pageid': 23, 'title': 'Acor/zh'}, ... , {'pageid': 2, 'title': 'Acts/zh'}]
 
-    session = login()
+    session = get_session()
 
     for i, page in enumerate(pages):
         print(f"{i}/{len(pages)} get history for: ", page["title"], page["pageid"])
@@ -33,7 +33,7 @@ def get_page_history(page, session=None):
     """ get history """
 
     if session is None:
-        session = login()
+        session = get_session()
 
     pageid = str(page["pageid"])
 
