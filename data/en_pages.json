@@ -105,9 +105,19 @@
         "title": "Ammunition"
     },
     {
+        "pageid": 41708,
+        "ns": 0,
+        "title": "Application Directory/Changing the save directory"
+    },
+    {
         "pageid": 32551,
         "ns": 0,
         "title": "Application directory"
+    },
+    {
+        "pageid": 32307,
+        "ns": 0,
+        "title": "Application directory/Changing the save directory"
     },
     {
         "pageid": 37839,
@@ -248,6 +258,11 @@
         "pageid": 31960,
         "ns": 0,
         "title": "Automated rail transportation (research)"
+    },
+    {
+        "pageid": 39508,
+        "ns": 0,
+        "title": "Automatic control/Virtual signals"
     },
     {
         "pageid": 109,
@@ -1320,6 +1335,11 @@
         "title": "Factorio"
     },
     {
+        "pageid": 48191,
+        "ns": 0,
+        "title": "Factorio HTTP API usage guidelines"
+    },
+    {
         "pageid": 31873,
         "ns": 0,
         "title": "Fast inserter"
@@ -1730,6 +1750,11 @@
         "title": "Install Guide"
     },
     {
+        "pageid": 33446,
+        "ns": 0,
+        "title": "Install Guide/Add Factorio icon to system launcher"
+    },
+    {
         "pageid": 33335,
         "ns": 0,
         "title": "Install guide"
@@ -2123,6 +2148,71 @@
         "pageid": 1,
         "ns": 0,
         "title": "Main Page"
+    },
+    {
+        "pageid": 33814,
+        "ns": 0,
+        "title": "Main Page/Advanced"
+    },
+    {
+        "pageid": 33817,
+        "ns": 0,
+        "title": "Main Page/Beginners"
+    },
+    {
+        "pageid": 33941,
+        "ns": 0,
+        "title": "Main Page/Community"
+    },
+    {
+        "pageid": 33810,
+        "ns": 0,
+        "title": "Main Page/Contribute"
+    },
+    {
+        "pageid": 33815,
+        "ns": 0,
+        "title": "Main Page/Expert"
+    },
+    {
+        "pageid": 33819,
+        "ns": 0,
+        "title": "Main Page/Frequently asked questions"
+    },
+    {
+        "pageid": 33820,
+        "ns": 0,
+        "title": "Main Page/Get the game"
+    },
+    {
+        "pageid": 39615,
+        "ns": 0,
+        "title": "Main Page/Latest versions"
+    },
+    {
+        "pageid": 36241,
+        "ns": 0,
+        "title": "Main Page/Najczęściej zadawane pytania (FAQ)"
+    },
+    {
+        "pageid": 33916,
+        "ns": 0,
+        "title": "Main Page/New content"
+    },
+    {
+        "pageid": 41820,
+        "ns": 0,
+        "title": "Main Page/Novos Conteúdos"
+    },
+    {
+        "pageid": 36255,
+        "ns": 0,
+        "title": "Main Page/Społeczność"
+    },
+    {
+        "pageid": 33821,
+        "ns": 0,
+        "title": "Main Page/sandbox"
     },
     {
         "pageid": 41845,
@@ -2715,6 +2805,21 @@
         "title": "Power production"
     },
     {
+        "pageid": 34418,
+        "ns": 0,
+        "title": "Power production/Dealing with priorities"
+    },
+    {
+        "pageid": 34429,
+        "ns": 0,
+        "title": "Power production/Optimal ratios"
+    },
+    {
+        "pageid": 34432,
+        "ns": 0,
+        "title": "Power production/Special accumulator usages"
+    },
+    {
         "pageid": 37679,
         "ns": 0,
         "title": "Power switch"
@@ -2788,6 +2893,936 @@
         "pageid": 46733,
         "ns": 0,
         "title": "Prototype"
+    },
+    {
+        "pageid": 32056,
+        "ns": 0,
+        "title": "Prototype/Accumulator"
+    },
+    {
+        "pageid": 40946,
+        "ns": 0,
+        "title": "Prototype/Achievement"
+    },
+    {
+        "pageid": 43999,
+        "ns": 0,
+        "title": "Prototype/ActiveDefenseEquipment"
+    },
+    {
+        "pageid": 40964,
+        "ns": 0,
+        "title": "Prototype/AmbientSound"
+    },
+    {
+        "pageid": 32413,
+        "ns": 0,
+        "title": "Prototype/AmmoCategory"
+    },
+    {
+        "pageid": 46684,
+        "ns": 0,
+        "title": "Prototype/AmmoItem"
+    },
+    {
+        "pageid": 44008,
+        "ns": 0,
+        "title": "Prototype/AmmoTurret"
+    },
+    {
+        "pageid": 45995,
+        "ns": 0,
+        "title": "Prototype/Animation"
+    },
+    {
+        "pageid": 44680,
+        "ns": 0,
+        "title": "Prototype/ArithmeticCombinator"
+    },
+    {
+        "pageid": 44066,
+        "ns": 0,
+        "title": "Prototype/ArtilleryFlare"
+    },
+    {
+        "pageid": 44092,
+        "ns": 0,
+        "title": "Prototype/ArtilleryProjectile"
+    },
+    {
+        "pageid": 43863,
+        "ns": 0,
+        "title": "Prototype/ArtilleryTurret"
+    },
+    {
+        "pageid": 44872,
+        "ns": 0,
+        "title": "Prototype/ArtilleryWagon"
+    },
+    {
+        "pageid": 32415,
+        "ns": 0,
+        "title": "Prototype/AssemblingMachine"
+    },
+    {
+        "pageid": 32412,
+        "ns": 0,
+        "title": "Prototype/AutoplaceControl"
+    },
+    {
+        "pageid": 43995,
+        "ns": 0,
+        "title": "Prototype/BatteryEquipment"
+    },
+    {
+        "pageid": 40927,
+        "ns": 0,
+        "title": "Prototype/Beacon"
+    },
+    {
+        "pageid": 43996,
+        "ns": 0,
+        "title": "Prototype/BeltImmunityEquipment"
+    },
+    {
+        "pageid": 44049,
+        "ns": 0,
+        "title": "Prototype/BlueprintBook"
+    },
+    {
+        "pageid": 44050,
+        "ns": 0,
+        "title": "Prototype/BlueprintItem"
+    },
+    {
+        "pageid": 43862,
+        "ns": 0,
+        "title": "Prototype/Boiler"
+    },
+    {
+        "pageid": 40947,
+        "ns": 0,
+        "title": "Prototype/BuildEntityAchievement"
+    },
+    {
+        "pageid": 47168,
+        "ns": 0,
+        "title": "Prototype/BurnerGenerator"
+    },
+    {
+        "pageid": 44055,
+        "ns": 0,
+        "title": "Prototype/Capsule"
+    },
+    {
+        "pageid": 44013,
+        "ns": 0,
+        "title": "Prototype/CargoWagon"
+    },
+    {
+        "pageid": 32074,
+        "ns": 0,
+        "title": "Prototype/Character"
+    },
+    {
+        "pageid": 44091,
+        "ns": 0,
+        "title": "Prototype/CharacterCorpse"
+    },
+    {
+        "pageid": 42713,
+        "ns": 0,
+        "title": "Prototype/CombatRobot"
+    },
+    {
+        "pageid": 40948,
+        "ns": 0,
+        "title": "Prototype/CombatRobotCountAchievement"
+    },
+    {
+        "pageid": 44678,
+        "ns": 0,
+        "title": "Prototype/Combinator"
+    },
+    {
+        "pageid": 44681,
+        "ns": 0,
+        "title": "Prototype/ConstantCombinator"
+    },
+    {
+        "pageid": 40949,
+        "ns": 0,
+        "title": "Prototype/ConstructWithRobotsAchievement"
+    },
+    {
+        "pageid": 44011,
+        "ns": 0,
+        "title": "Prototype/ConstructionRobot"
+    },
+    {
+        "pageid": 32417,
+        "ns": 0,
+        "title": "Prototype/Container"
+    },
+    {
+        "pageid": 45989,
+        "ns": 0,
+        "title": "Prototype/CopyPasteTool"
+    },
+    {
+        "pageid": 42694,
+        "ns": 0,
+        "title": "Prototype/Corpse"
+    },
+    {
+        "pageid": 42055,
+        "ns": 0,
+        "title": "Prototype/CraftingMachine"
+    },
+    {
+        "pageid": 44871,
+        "ns": 0,
+        "title": "Prototype/CurvedRail"
+    },
+    {
+        "pageid": 42727,
+        "ns": 0,
+        "title": "Prototype/CustomInput"
+    },
+    {
+        "pageid": 32414,
+        "ns": 0,
+        "title": "Prototype/DamageType"
+    },
+    {
+        "pageid": 44679,
+        "ns": 0,
+        "title": "Prototype/DeciderCombinator"
+    },
+    {
+        "pageid": 40950,
+        "ns": 0,
+        "title": "Prototype/DeconstructWithRobotsAchievement"
+    },
+    {
+        "pageid": 44094,
+        "ns": 0,
+        "title": "Prototype/DeconstructibleTileProxy"
+    },
+    {
+        "pageid": 44051,
+        "ns": 0,
+        "title": "Prototype/DeconstructionItem"
+    },
+    {
+        "pageid": 45035,
+        "ns": 0,
+        "title": "Prototype/Decorative"
+    },
+    {
+        "pageid": 40951,
+        "ns": 0,
+        "title": "Prototype/DeliverByRobotsAchievement"
+    },
+    {
+        "pageid": 40952,
+        "ns": 0,
+        "title": "Prototype/DontBuildEntityAchievement"
+    },
+    {
+        "pageid": 40953,
+        "ns": 0,
+        "title": "Prototype/DontCraftManuallyAchievement"
+    },
+    {
+        "pageid": 40954,
+        "ns": 0,
+        "title": "Prototype/DontUseEntityInEnergyProductionAchievement"
+    },
+    {
+        "pageid": 45984,
+        "ns": 0,
+        "title": "Prototype/EditorController"
+    },
+    {
+        "pageid": 42701,
+        "ns": 0,
+        "title": "Prototype/ElectricEnergyInterface"
+    },
+    {
+        "pageid": 32420,
+        "ns": 0,
+        "title": "Prototype/ElectricPole"
+    },
+    {
+        "pageid": 44009,
+        "ns": 0,
+        "title": "Prototype/ElectricTurret"
+    },
+    {
+        "pageid": 44674,
+        "ns": 0,
+        "title": "Prototype/EnemySpawner"
+    },
+    {
+        "pageid": 43997,
+        "ns": 0,
+        "title": "Prototype/EnergyShieldEquipment"
+    },
+    {
+        "pageid": 31770,
+        "ns": 0,
+        "title": "Prototype/Entity"
+    },
+    {
+        "pageid": 43861,
+        "ns": 0,
+        "title": "Prototype/EntityGhost"
+    },
+    {
+        "pageid": 47105,
+        "ns": 0,
+        "title": "Prototype/EntityParticle"
+    },
+    {
+        "pageid": 31777,
+        "ns": 0,
+        "title": "Prototype/EntityWithHealth"
+    },
+    {
+        "pageid": 48193,
+        "ns": 0,
+        "title": "Prototype/EntityWithOwner"
+    },
+    {
+        "pageid": 43994,
+        "ns": 0,
+        "title": "Prototype/Equipment"
+    },
+    {
+        "pageid": 44005,
+        "ns": 0,
+        "title": "Prototype/EquipmentCategory"
+    },
+    {
+        "pageid": 44004,
+        "ns": 0,
+        "title": "Prototype/EquipmentGrid"
+    },
+    {
+        "pageid": 44015,
+        "ns": 0,
+        "title": "Prototype/Explosion"
+    },
+    {
+        "pageid": 40955,
+        "ns": 0,
+        "title": "Prototype/FinishTheGameAchievement"
+    },
+    {
+        "pageid": 44061,
+        "ns": 0,
+        "title": "Prototype/FireFlame"
+    },
+    {
+        "pageid": 44016,
+        "ns": 0,
+        "title": "Prototype/FlameThrowerExplosion"
+    },
+    {
+        "pageid": 44095,
+        "ns": 0,
+        "title": "Prototype/FluidStream"
+    },
+    {
+        "pageid": 44007,
+        "ns": 0,
+        "title": "Prototype/FluidTurret"
+    },
+    {
+        "pageid": 44014,
+        "ns": 0,
+        "title": "Prototype/FluidWagon"
+    },
+    {
+        "pageid": 42712,
+        "ns": 0,
+        "title": "Prototype/FlyingRobot"
+    },
+    {
+        "pageid": 42078,
+        "ns": 0,
+        "title": "Prototype/FlyingText"
+    },
+    {
+        "pageid": 42053,
+        "ns": 0,
+        "title": "Prototype/FuelCategory"
+    },
+    {
+        "pageid": 32459,
+        "ns": 0,
+        "title": "Prototype/Furnace"
+    },
+    {
+        "pageid": 34827,
+        "ns": 0,
+        "title": "Prototype/Generator"
+    },
+    {
+        "pageid": 43998,
+        "ns": 0,
+        "title": "Prototype/GeneratorEquipment"
+    },
+    {
+        "pageid": 43856,
+        "ns": 0,
+        "title": "Prototype/GodController"
+    },
+    {
+        "pageid": 40956,
+        "ns": 0,
+        "title": "Prototype/GroupAttackAchievement"
+    },
+    {
+        "pageid": 46814,
+        "ns": 0,
+        "title": "Prototype/GuiStyle"
+    },
+    {
+        "pageid": 45994,
+        "ns": 0,
+        "title": "Prototype/HeatInterface"
+    },
+    {
+        "pageid": 43984,
+        "ns": 0,
+        "title": "Prototype/HeatPipe"
+    },
+    {
+        "pageid": 45991,
+        "ns": 0,
+        "title": "Prototype/HighlightBoxEntity"
+    },
+    {
+        "pageid": 42549,
+        "ns": 0,
+        "title": "Prototype/InfinityContainer"
+    },
+    {
+        "pageid": 45993,
+        "ns": 0,
+        "title": "Prototype/InfinityPipe"
+    },
+    {
+        "pageid": 32422,
+        "ns": 0,
+        "title": "Prototype/Inserter"
+    },
+    {
+        "pageid": 44063,
+        "ns": 0,
+        "title": "Prototype/ItemEntity"
+    },
+    {
+        "pageid": 32410,
+        "ns": 0,
+        "title": "Prototype/ItemGroup"
+    },
+    {
+        "pageid": 44064,
+        "ns": 0,
+        "title": "Prototype/ItemRequestProxy"
+    },
+    {
+        "pageid": 44084,
+        "ns": 0,
+        "title": "Prototype/ItemSubGroup"
+    },
+    {
+        "pageid": 43859,
+        "ns": 0,
+        "title": "Prototype/ItemWithEntityData"
+    },
+    {
+        "pageid": 37618,
+        "ns": 0,
+        "title": "Prototype/ItemWithInventory"
+    },
+    {
+        "pageid": 37616,
+        "ns": 0,
+        "title": "Prototype/ItemWithLabel"
+    },
+    {
+        "pageid": 44053,
+        "ns": 0,
+        "title": "Prototype/ItemWithTags"
+    },
+    {
+        "pageid": 40957,
+        "ns": 0,
+        "title": "Prototype/KillAchievement"
+    },
+    {
+        "pageid": 43895,
+        "ns": 0,
+        "title": "Prototype/LandMine"
+    },
+    {
+        "pageid": 44096,
+        "ns": 0,
+        "title": "Prototype/LeafParticle"
+    },
+    {
+        "pageid": 47842,
+        "ns": 0,
+        "title": "Prototype/LinkedBelt"
+    },
+    {
+        "pageid": 47837,
+        "ns": 0,
+        "title": "Prototype/LinkedContainer"
+    },
+    {
+        "pageid": 47103,
+        "ns": 0,
+        "title": "Prototype/Loader"
+    },
+    {
+        "pageid": 47104,
+        "ns": 0,
+        "title": "Prototype/Loader1x1"
+    },
+    {
+        "pageid": 44480,
+        "ns": 0,
+        "title": "Prototype/Loader1x2"
+    },
+    {
+        "pageid": 32896,
+        "ns": 0,
+        "title": "Prototype/Locomotive"
+    },
+    {
+        "pageid": 32419,
+        "ns": 0,
+        "title": "Prototype/LogisticContainer"
+    },
+    {
+        "pageid": 44012,
+        "ns": 0,
+        "title": "Prototype/LogisticRobot"
+    },
+    {
+        "pageid": 44314,
+        "ns": 0,
+        "title": "Prototype/MapGenPresets"
+    },
+    {
+        "pageid": 46718,
+        "ns": 0,
+        "title": "Prototype/MapSettings"
+    },
+    {
+        "pageid": 44825,
+        "ns": 0,
+        "title": "Prototype/Market"
+    },
+    {
+        "pageid": 32460,
+        "ns": 0,
+        "title": "Prototype/MiningDrill"
+    },
+    {
+        "pageid": 40925,
+        "ns": 0,
+        "title": "Prototype/MiningTool"
+    },
+    {
+        "pageid": 44052,
+        "ns": 0,
+        "title": "Prototype/Module"
+    },
+    {
+        "pageid": 44057,
+        "ns": 0,
+        "title": "Prototype/ModuleCategory"
+    },
+    {
+        "pageid": 45986,
+        "ns": 0,
+        "title": "Prototype/MouseCursor"
+    },
+    {
+        "pageid": 44000,
+        "ns": 0,
+        "title": "Prototype/MovementBonusEquipment"
+    },
+    {
+        "pageid": 44737,
+        "ns": 0,
+        "title": "Prototype/NamedNoiseExpression"
+    },
+    {
+        "pageid": 44002,
+        "ns": 0,
+        "title": "Prototype/NightVisionEquipment"
+    },
+    {
+        "pageid": 32411,
+        "ns": 0,
+        "title": "Prototype/NoiseLayer"
+    },
+    {
+        "pageid": 43985,
+        "ns": 0,
+        "title": "Prototype/OffshorePump"
+    },
+    {
+        "pageid": 44065,
+        "ns": 0,
+        "title": "Prototype/Particle"
+    },
+    {
+        "pageid": 44069,
+        "ns": 0,
+        "title": "Prototype/ParticleSource"
+    },
+    {
+        "pageid": 44826,
+        "ns": 0,
+        "title": "Prototype/PipeToGround"
+    },
+    {
+        "pageid": 40958,
+        "ns": 0,
+        "title": "Prototype/PlayerDamagedAchievement"
+    },
+    {
+        "pageid": 43986,
+        "ns": 0,
+        "title": "Prototype/PlayerPort"
+    },
+    {
+        "pageid": 43987,
+        "ns": 0,
+        "title": "Prototype/PowerSwitch"
+    },
+    {
+        "pageid": 40959,
+        "ns": 0,
+        "title": "Prototype/ProduceAchievement"
+    },
+    {
+        "pageid": 40960,
+        "ns": 0,
+        "title": "Prototype/ProducePerHourAchievement"
+    },
+    {
+        "pageid": 44873,
+        "ns": 0,
+        "title": "Prototype/ProgrammableSpeaker"
+    },
+    {
+        "pageid": 44067,
+        "ns": 0,
+        "title": "Prototype/Projectile"
+    },
+    {
+        "pageid": 43990,
+        "ns": 0,
+        "title": "Prototype/RailChainSignal"
+    },
+    {
+        "pageid": 44056,
+        "ns": 0,
+        "title": "Prototype/RailPlanner"
+    },
+    {
+        "pageid": 44868,
+        "ns": 0,
+        "title": "Prototype/RailRemnants"
+    },
+    {
+        "pageid": 43989,
+        "ns": 0,
+        "title": "Prototype/RailSignal"
+    },
+    {
+        "pageid": 43988,
+        "ns": 0,
+        "title": "Prototype/RailSignalBase"
+    },
+    {
+        "pageid": 43896,
+        "ns": 0,
+        "title": "Prototype/Reactor"
+    },
+    {
+        "pageid": 32407,
+        "ns": 0,
+        "title": "Prototype/Recipe"
+    },
+    {
+        "pageid": 32408,
+        "ns": 0,
+        "title": "Prototype/RecipeCategory"
+    },
+    {
+        "pageid": 44054,
+        "ns": 0,
+        "title": "Prototype/RepairTool"
+    },
+    {
+        "pageid": 40961,
+        "ns": 0,
+        "title": "Prototype/ResearchAchievement"
+    },
+    {
+        "pageid": 44059,
+        "ns": 0,
+        "title": "Prototype/ResourceCategory"
+    },
+    {
+        "pageid": 40935,
+        "ns": 0,
+        "title": "Prototype/ResourceEntity"
+    },
+    {
+        "pageid": 32439,
+        "ns": 0,
+        "title": "Prototype/Roboport"
+    },
+    {
+        "pageid": 44824,
+        "ns": 0,
+        "title": "Prototype/RoboportEquipment"
+    },
+    {
+        "pageid": 44010,
+        "ns": 0,
+        "title": "Prototype/RobotWithLogisticInterface"
+    },
+    {
+        "pageid": 43826,
+        "ns": 0,
+        "title": "Prototype/RocketSilo"
+    },
+    {
+        "pageid": 44089,
+        "ns": 0,
+        "title": "Prototype/RocketSiloRocket"
+    },
+    {
+        "pageid": 44090,
+        "ns": 0,
+        "title": "Prototype/RocketSiloRocketShadow"
+    },
+    {
+        "pageid": 43843,
+        "ns": 0,
+        "title": "Prototype/RollingStock"
+    },
+    {
+        "pageid": 37617,
+        "ns": 0,
+        "title": "Prototype/SelectionTool"
+    },
+    {
+        "pageid": 45988,
+        "ns": 0,
+        "title": "Prototype/Shortcut"
+    },
+    {
+        "pageid": 44086,
+        "ns": 0,
+        "title": "Prototype/SimpleEntity"
+    },
+    {
+        "pageid": 44088,
+        "ns": 0,
+        "title": "Prototype/SimpleEntityWithForce"
+    },
+    {
+        "pageid": 44087,
+        "ns": 0,
+        "title": "Prototype/SimpleEntityWithOwner"
+    },
+    {
+        "pageid": 44071,
+        "ns": 0,
+        "title": "Prototype/SimpleSmoke"
+    },
+    {
+        "pageid": 44074,
+        "ns": 0,
+        "title": "Prototype/SmokeWithTrigger"
+    },
+    {
+        "pageid": 32441,
+        "ns": 0,
+        "title": "Prototype/SolarPanel"
+    },
+    {
+        "pageid": 44003,
+        "ns": 0,
+        "title": "Prototype/SolarPanelEquipment"
+    },
+    {
+        "pageid": 45985,
+        "ns": 0,
+        "title": "Prototype/SpectatorController"
+    },
+    {
+        "pageid": 45992,
+        "ns": 0,
+        "title": "Prototype/SpeechBubble"
+    },
+    {
+        "pageid": 47603,
+        "ns": 0,
+        "title": "Prototype/SpiderLeg"
+    },
+    {
+        "pageid": 47602,
+        "ns": 0,
+        "title": "Prototype/SpiderVehicle"
+    },
+    {
+        "pageid": 47604,
+        "ns": 0,
+        "title": "Prototype/SpidertronRemote"
+    },
+    {
+        "pageid": 44482,
+        "ns": 0,
+        "title": "Prototype/Splitter"
+    },
+    {
+        "pageid": 45380,
+        "ns": 0,
+        "title": "Prototype/Sprite"
+    },
+    {
+        "pageid": 43853,
+        "ns": 0,
+        "title": "Prototype/Sticker"
+    },
+    {
+        "pageid": 42077,
+        "ns": 0,
+        "title": "Prototype/StorageTank"
+    },
+    {
+        "pageid": 44870,
+        "ns": 0,
+        "title": "Prototype/StraightRail"
+    },
+    {
+        "pageid": 691,
+        "ns": 0,
+        "title": "Prototype/Technology"
+    },
+    {
+        "pageid": 47169,
+        "ns": 0,
+        "title": "Prototype/TileEffect"
+    },
+    {
+        "pageid": 44075,
+        "ns": 0,
+        "title": "Prototype/TileGhost"
+    },
+    {
+        "pageid": 47829,
+        "ns": 0,
+        "title": "Prototype/TipsAndTricksItem"
+    },
+    {
+        "pageid": 47827,
+        "ns": 0,
+        "title": "Prototype/TipsAndTricksItemCategory"
+    },
+    {
+        "pageid": 40962,
+        "ns": 0,
+        "title": "Prototype/TrainPathAchievement"
+    },
+    {
+        "pageid": 44682,
+        "ns": 0,
+        "title": "Prototype/TrainStop"
+    },
+    {
+        "pageid": 44473,
+        "ns": 0,
+        "title": "Prototype/TransportBelt"
+    },
+    {
+        "pageid": 44471,
+        "ns": 0,
+        "title": "Prototype/TransportBeltConnectable"
+    },
+    {
+        "pageid": 46653,
+        "ns": 0,
+        "title": "Prototype/TriggerTargetType"
+    },
+    {
+        "pageid": 45034,
+        "ns": 0,
+        "title": "Prototype/TrivialSmoke"
+    },
+    {
+        "pageid": 44006,
+        "ns": 0,
+        "title": "Prototype/Turret"
+    },
+    {
+        "pageid": 42052,
+        "ns": 0,
+        "title": "Prototype/Tutorial"
+    },
+    {
+        "pageid": 44481,
+        "ns": 0,
+        "title": "Prototype/UndergroundBelt"
+    },
+    {
+        "pageid": 45990,
+        "ns": 0,
+        "title": "Prototype/UpgradeItem"
+    },
+    {
+        "pageid": 45474,
+        "ns": 0,
+        "title": "Prototype/UtilityConstants"
+    },
+    {
+        "pageid": 44675,
+        "ns": 0,
+        "title": "Prototype/UtilitySounds"
+    },
+    {
+        "pageid": 46742,
+        "ns": 0,
+        "title": "Prototype/UtilitySprites"
+    },
+    {
+        "pageid": 43840,
+        "ns": 0,
+        "title": "Prototype/Vehicle"
+    },
+    {
+        "pageid": 44060,
+        "ns": 0,
+        "title": "Prototype/VirtualSignal"
+    },
+    {
+        "pageid": 45987,
+        "ns": 0,
+        "title": "Prototype/WindSound"
     },
     {
         "pageid": 42737,
@@ -2880,9 +3915,24 @@
         "title": "Railway"
     },
     {
+        "pageid": 32346,
+        "ns": 0,
+        "title": "Railway/Automated transport"
+    },
+    {
+        "pageid": 34757,
+        "ns": 0,
+        "title": "Railway/Train path finding"
+    },
+    {
         "pageid": 212,
         "ns": 0,
         "title": "Railway (research)"
+    },
+    {
+        "pageid": 34361,
+        "ns": 0,
+        "title": "Railway network/Train station"
     },
     {
         "pageid": 38216,
@@ -3013,6 +4063,11 @@
         "pageid": 32515,
         "ns": 0,
         "title": "Roadmap"
+    },
+    {
+        "pageid": 32923,
+        "ns": 0,
+        "title": "Roadmap/History"
     },
     {
         "pageid": 32220,
@@ -3700,6 +4755,11 @@
         "title": "Transport belts"
     },
     {
+        "pageid": 32182,
+        "ns": 0,
+        "title": "Transport belts/Physics"
+    },
+    {
         "pageid": 31848,
         "ns": 0,
         "title": "Transport network"
@@ -3738,6 +4798,1096 @@
         "pageid": 33412,
         "ns": 0,
         "title": "Tutorials"
+    },
+    {
+        "pageid": 46088,
+        "ns": 0,
+        "title": "Types/ActivateEquipmentCapsuleAction"
+    },
+    {
+        "pageid": 46816,
+        "ns": 0,
+        "title": "Types/ActivityBarStyleSpecification"
+    },
+    {
+        "pageid": 47966,
+        "ns": 0,
+        "title": "Types/AmmoDamageModifierPrototype"
+    },
+    {
+        "pageid": 46709,
+        "ns": 0,
+        "title": "Types/AmmoSourceType"
+    },
+    {
+        "pageid": 36144,
+        "ns": 0,
+        "title": "Types/AmmoType"
+    },
+    {
+        "pageid": 46857,
+        "ns": 0,
+        "title": "Types/AnimatedVector"
+    },
+    {
+        "pageid": 32286,
+        "ns": 0,
+        "title": "Types/Animation"
+    },
+    {
+        "pageid": 44689,
+        "ns": 0,
+        "title": "Types/Animation4Way"
+    },
+    {
+        "pageid": 47509,
+        "ns": 0,
+        "title": "Types/AnimationElement"
+    },
+    {
+        "pageid": 47266,
+        "ns": 0,
+        "title": "Types/AnimationFrameSequence"
+    },
+    {
+        "pageid": 44085,
+        "ns": 0,
+        "title": "Types/AnimationVariations"
+    },
+    {
+        "pageid": 44692,
+        "ns": 0,
+        "title": "Types/AreaTriggerItem"
+    },
+    {
+        "pageid": 46084,
+        "ns": 0,
+        "title": "Types/ArtilleryRemoteCapsuleAction"
+    },
+    {
+        "pageid": 44722,
+        "ns": 0,
+        "title": "Types/ArtilleryTriggerDelivery"
+    },
+    {
+        "pageid": 36143,
+        "ns": 0,
+        "title": "Types/AttackParameters"
+    },
+    {
+        "pageid": 33336,
+        "ns": 0,
+        "title": "Types/AttackReaction"
+    },
+    {
+        "pageid": 45181,
+        "ns": 0,
+        "title": "Types/AttackReactionItem"
+    },
+    {
+        "pageid": 31965,
+        "ns": 0,
+        "title": "Types/AutoplaceSpecification"
+    },
+    {
+        "pageid": 45649,
+        "ns": 0,
+        "title": "Types/BaseAttackParameters"
+    },
+    {
+        "pageid": 47510,
+        "ns": 0,
+        "title": "Types/BeaconGraphicsSet"
+    },
+    {
+        "pageid": 47512,
+        "ns": 0,
+        "title": "Types/BeaconModuleVisualization"
+    },
+    {
+        "pageid": 47511,
+        "ns": 0,
+        "title": "Types/BeaconModuleVisualizations"
+    },
+    {
+        "pageid": 45650,
+        "ns": 0,
+        "title": "Types/BeamAttackParameters"
+    },
+    {
+        "pageid": 44720,
+        "ns": 0,
+        "title": "Types/BeamTriggerDelivery"
+    },
+    {
+        "pageid": 47229,
+        "ns": 0,
+        "title": "Types/BlendMode"
+    },
+    {
+        "pageid": 47967,
+        "ns": 0,
+        "title": "Types/BoolModifierPrototype"
+    },
+    {
+        "pageid": 46823,
+        "ns": 0,
+        "title": "Types/BorderImageSet"
+    },
+    {
+        "pageid": 43829,
+        "ns": 0,
+        "title": "Types/BoundingBox"
+    },
+    {
+        "pageid": 46743,
+        "ns": 0,
+        "title": "Types/BoxSpecification"
+    },
+    {
+        "pageid": 46840,
+        "ns": 0,
+        "title": "Types/ButtonStyleSpecification"
+    },
+    {
+        "pageid": 47643,
+        "ns": 0,
+        "title": "Types/CameraEffectTriggerEffectItem"
+    },
+    {
+        "pageid": 46819,
+        "ns": 0,
+        "title": "Types/CameraStyleSpecification"
+    },
+    {
+        "pageid": 46085,
+        "ns": 0,
+        "title": "Types/CapsuleAction"
+    },
+    {
+        "pageid": 43844,
+        "ns": 0,
+        "title": "Types/CharacterArmorAnimation"
+    },
+    {
+        "pageid": 46842,
+        "ns": 0,
+        "title": "Types/CheckBoxStyleSpecification"
+    },
+    {
+        "pageid": 44688,
+        "ns": 0,
+        "title": "Types/CircuitConnectorSprites"
+    },
+    {
+        "pageid": 45651,
+        "ns": 0,
+        "title": "Types/CircularParticleCreationSpecification"
+    },
+    {
+        "pageid": 47221,
+        "ns": 0,
+        "title": "Types/CircularProjectileCreationSpecification"
+    },
+    {
+        "pageid": 44690,
+        "ns": 0,
+        "title": "Types/ClusterTriggerItem"
+    },
+    {
+        "pageid": 32506,
+        "ns": 0,
+        "title": "Types/CollisionMask"
+    },
+    {
+        "pageid": 43983,
+        "ns": 0,
+        "title": "Types/ConnectableEntityGraphics"
+    },
+    {
+        "pageid": 42724,
+        "ns": 0,
+        "title": "Types/ConsumingType"
+    },
+    {
+        "pageid": 47645,
+        "ns": 0,
+        "title": "Types/CreateDecorativesTriggerEffectItem"
+    },
+    {
+        "pageid": 44704,
+        "ns": 0,
+        "title": "Types/CreateEntityTriggerEffectItem"
+    },
+    {
+        "pageid": 44705,
+        "ns": 0,
+        "title": "Types/CreateExplosionTriggerEffectItem"
+    },
+    {
+        "pageid": 44706,
+        "ns": 0,
+        "title": "Types/CreateFireTriggerEffectItem"
+    },
+    {
+        "pageid": 44708,
+        "ns": 0,
+        "title": "Types/CreateParticleTriggerEffectItem"
+    },
+    {
+        "pageid": 44707,
+        "ns": 0,
+        "title": "Types/CreateSmokeTriggerEffectItem"
+    },
+    {
+        "pageid": 44710,
+        "ns": 0,
+        "title": "Types/CreateStickerTriggerEffectItem"
+    },
+    {
+        "pageid": 44709,
+        "ns": 0,
+        "title": "Types/CreateTrivialSmokeEffectItem"
+    },
+    {
+        "pageid": 47655,
+        "ns": 0,
+        "title": "Types/CursorBoxType"
+    },
+    {
+        "pageid": 47228,
+        "ns": 0,
+        "title": "Types/CyclicSound"
+    },
+    {
+        "pageid": 43852,
+        "ns": 0,
+        "title": "Types/DamagePrototype"
+    },
+    {
+        "pageid": 44703,
+        "ns": 0,
+        "title": "Types/DamageTriggerEffectItem"
+    },
+    {
+        "pageid": 47192,
+        "ns": 0,
+        "title": "Types/DamageTypeFilters"
+    },
+    {
+        "pageid": 47200,
+        "ns": 0,
+        "title": "Types/DaytimeColorLookupTable"
+    },
+    {
+        "pageid": 46086,
+        "ns": 0,
+        "title": "Types/DestroyCliffsCapsuleAction"
+    },
+    {
+        "pageid": 44714,
+        "ns": 0,
+        "title": "Types/DestroyCliffsTriggerEffectItem"
+    },
+    {
+        "pageid": 47217,
+        "ns": 0,
+        "title": "Types/DestroyDecorativesTriggerEffectItem"
+    },
+    {
+        "pageid": 44693,
+        "ns": 0,
+        "title": "Types/DirectTriggerItem"
+    },
+    {
+        "pageid": 36053,
+        "ns": 0,
+        "title": "Types/Direction"
+    },
+    {
+        "pageid": 47222,
+        "ns": 0,
+        "title": "Types/DoubleSliderStyleSpecification"
+    },
+    {
+        "pageid": 46821,
+        "ns": 0,
+        "title": "Types/DropDownStyleSpecification"
+    },
+    {
+        "pageid": 46855,
+        "ns": 0,
+        "title": "Types/Effect"
+    },
+    {
+        "pageid": 32416,
+        "ns": 0,
+        "title": "Types/EffectTypeLimitation"
+    },
+    {
+        "pageid": 32060,
+        "ns": 0,
+        "title": "Types/ElectricUsagePriority"
+    },
+    {
+        "pageid": 46817,
+        "ns": 0,
+        "title": "Types/ElementImageSet"
+    },
+    {
+        "pageid": 46850,
+        "ns": 0,
+        "title": "Types/ElementImageSetLayer"
+    },
+    {
+        "pageid": 46818,
+        "ns": 0,
+        "title": "Types/EmptyWidgetStyleSpecification"
+    },
+    {
+        "pageid": 40926,
+        "ns": 0,
+        "title": "Types/Energy"
+    },
+    {
+        "pageid": 32057,
+        "ns": 0,
+        "title": "Types/EnergySource"
+    },
+    {
+        "pageid": 31778,
+        "ns": 0,
+        "title": "Types/EntityPrototypeFlags"
+    },
+    {
+        "pageid": 43993,
+        "ns": 0,
+        "title": "Types/EquipmentShape"
+    },
+    {
+        "pageid": 47227,
+        "ns": 0,
+        "title": "Types/ExplosionDefinition"
+    },
+    {
+        "pageid": 32064,
+        "ns": 0,
+        "title": "Types/FileName"
+    },
+    {
+        "pageid": 44719,
+        "ns": 0,
+        "title": "Types/FlameThrowerExplosionTriggerDelivery"
+    },
+    {
+        "pageid": 46822,
+        "ns": 0,
+        "title": "Types/FlowStyleSpecification"
+    },
+    {
+        "pageid": 34828,
+        "ns": 0,
+        "title": "Types/FluidBox"
+    },
+    {
+        "pageid": 44476,
+        "ns": 0,
+        "title": "Types/FluidIngredientPrototype"
+    },
+    {
+        "pageid": 45178,
+        "ns": 0,
+        "title": "Types/FluidProductPrototype"
+    },
+    {
+        "pageid": 47278,
+        "ns": 0,
+        "title": "Types/FootprintParticle"
+    },
+    {
+        "pageid": 47277,
+        "ns": 0,
+        "title": "Types/FootstepTriggerEffectList"
+    },
+    {
+        "pageid": 44698,
+        "ns": 0,
+        "title": "Types/ForceCondition"
+    },
+    {
+        "pageid": 46824,
+        "ns": 0,
+        "title": "Types/FrameStyleSpecification"
+    },
+    {
+        "pageid": 47968,
+        "ns": 0,
+        "title": "Types/GiveItemModifierPrototype"
+    },
+    {
+        "pageid": 46825,
+        "ns": 0,
+        "title": "Types/GlowStyleSpecification"
+    },
+    {
+        "pageid": 46826,
+        "ns": 0,
+        "title": "Types/GraphStyleSpecification"
+    },
+    {
+        "pageid": 43453,
+        "ns": 0,
+        "title": "Types/GraphicsVariation"
+    },
+    {
+        "pageid": 47969,
+        "ns": 0,
+        "title": "Types/GunSpeedModifierPrototype"
+    },
+    {
+        "pageid": 46780,
+        "ns": 0,
+        "title": "Types/HeatBuffer"
+    },
+    {
+        "pageid": 42759,
+        "ns": 0,
+        "title": "Types/HeatConnection"
+    },
+    {
+        "pageid": 46827,
+        "ns": 0,
+        "title": "Types/HorizontalFlowStyleSpecification"
+    },
+    {
+        "pageid": 46835,
+        "ns": 0,
+        "title": "Types/HorizontalScrollBarStyleSpecification"
+    },
+    {
+        "pageid": 43803,
+        "ns": 0,
+        "title": "Types/IconData"
+    },
+    {
+        "pageid": 43804,
+        "ns": 0,
+        "title": "Types/IconSpecification"
+    },
+    {
+        "pageid": 46828,
+        "ns": 0,
+        "title": "Types/ImageStyleSpecification"
+    },
+    {
+        "pageid": 44477,
+        "ns": 0,
+        "title": "Types/IngredientPrototype"
+    },
+    {
+        "pageid": 46852,
+        "ns": 0,
+        "title": "Types/InsertItemTriggerEffectItem"
+    },
+    {
+        "pageid": 44717,
+        "ns": 0,
+        "title": "Types/InstantTriggerDelivery"
+    },
+    {
+        "pageid": 47190,
+        "ns": 0,
+        "title": "Types/InterruptibleSound"
+    },
+    {
+        "pageid": 47218,
+        "ns": 0,
+        "title": "Types/InvokeTileEffectTriggerEffectItem"
+    },
+    {
+        "pageid": 43450,
+        "ns": 0,
+        "title": "Types/ItemCountType"
+    },
+    {
+        "pageid": 44475,
+        "ns": 0,
+        "title": "Types/ItemIngredientPrototype"
+    },
+    {
+        "pageid": 45179,
+        "ns": 0,
+        "title": "Types/ItemProductPrototype"
+    },
+    {
+        "pageid": 45214,
+        "ns": 0,
+        "title": "Types/ItemPrototypeFlags"
+    },
+    {
+        "pageid": 32061,
+        "ns": 0,
+        "title": "Types/ItemStackIndex"
+    },
+    {
+        "pageid": 42413,
+        "ns": 0,
+        "title": "Types/ItemToPlace"
+    },
+    {
+        "pageid": 46829,
+        "ns": 0,
+        "title": "Types/LabelStyleSpecification"
+    },
+    {
+        "pageid": 47223,
+        "ns": 0,
+        "title": "Types/LayeredSound"
+    },
+    {
+        "pageid": 32078,
+        "ns": 0,
+        "title": "Types/LightDefinition"
+    },
+    {
+        "pageid": 46479,
+        "ns": 0,
+        "title": "Types/LightFlickeringDefinition"
+    },
+    {
+        "pageid": 46830,
+        "ns": 0,
+        "title": "Types/LineStyleSpecification"
+    },
+    {
+        "pageid": 44691,
+        "ns": 0,
+        "title": "Types/LineTriggerItem"
+    },
+    {
+        "pageid": 46831,
+        "ns": 0,
+        "title": "Types/ListBoxStyleSpecification"
+    },
+    {
+        "pageid": 42736,
+        "ns": 0,
+        "title": "Types/LocalisedString"
+    },
+    {
+        "pageid": 44313,
+        "ns": 0,
+        "title": "Types/MapGenPreset"
+    },
+    {
+        "pageid": 44312,
+        "ns": 0,
+        "title": "Types/MapGenSize"
+    },
+    {
+        "pageid": 43811,
+        "ns": 0,
+        "title": "Types/MaterialAmountType"
+    },
+    {
+        "pageid": 33441,
+        "ns": 0,
+        "title": "Types/MinableProperties"
+    },
+    {
+        "pageid": 46820,
+        "ns": 0,
+        "title": "Types/MinimapStyleSpecification"
+    },
+    {
+        "pageid": 47508,
+        "ns": 0,
+        "title": "Types/MiningDrillGraphicsSet"
+    },
+    {
+        "pageid": 47965,
+        "ns": 0,
+        "title": "Types/ModifierPrototype"
+    },
+    {
+        "pageid": 42054,
+        "ns": 0,
+        "title": "Types/ModuleSpecification"
+    },
+    {
+        "pageid": 44711,
+        "ns": 0,
+        "title": "Types/NestedTriggerEffectItem"
+    },
+    {
+        "pageid": 44765,
+        "ns": 0,
+        "title": "Types/NoiseExpression"
+    },
+    {
+        "pageid": 47970,
+        "ns": 0,
+        "title": "Types/NothingModifierPrototype"
+    },
+    {
+        "pageid": 44827,
+        "ns": 0,
+        "title": "Types/OrientedCliffPrototype"
+    },
+    {
+        "pageid": 43857,
+        "ns": 0,
+        "title": "Types/PipeConnectionDefinition"
+    },
+    {
+        "pageid": 43805,
+        "ns": 0,
+        "title": "Types/PlaceAsTile"
+    },
+    {
+        "pageid": 44712,
+        "ns": 0,
+        "title": "Types/PlaySoundTriggerEffectItem"
+    },
+    {
+        "pageid": 41727,
+        "ns": 0,
+        "title": "Types/Position"
+    },
+    {
+        "pageid": 45180,
+        "ns": 0,
+        "title": "Types/ProductPrototype"
+    },
+    {
+        "pageid": 46832,
+        "ns": 0,
+        "title": "Types/ProgressBarStyleSpecification"
+    },
+    {
+        "pageid": 45652,
+        "ns": 0,
+        "title": "Types/ProjectileAttackParameters"
+    },
+    {
+        "pageid": 44718,
+        "ns": 0,
+        "title": "Types/ProjectileTriggerDelivery"
+    },
+    {
+        "pageid": 43830,
+        "ns": 0,
+        "title": "Types/PumpConnectorGraphics"
+    },
+    {
+        "pageid": 44713,
+        "ns": 0,
+        "title": "Types/PushBackTriggerEffectItem"
+    },
+    {
+        "pageid": 46843,
+        "ns": 0,
+        "title": "Types/RadioButtonStyleSpecification"
+    },
+    {
+        "pageid": 47214,
+        "ns": 0,
+        "title": "Types/RadiusVisualisationSpecification"
+    },
+    {
+        "pageid": 44867,
+        "ns": 0,
+        "title": "Types/RailPieceLayers"
+    },
+    {
+        "pageid": 44474,
+        "ns": 0,
+        "title": "Types/RealOrientation"
+    },
+    {
+        "pageid": 32487,
+        "ns": 0,
+        "title": "Types/RenderLayer"
+    },
+    {
+        "pageid": 40923,
+        "ns": 0,
+        "title": "Types/Resistances"
+    },
+    {
+        "pageid": 44507,
+        "ns": 0,
+        "title": "Types/RotatedAnimation"
+    },
+    {
+        "pageid": 46364,
+        "ns": 0,
+        "title": "Types/RotatedAnimation4Way"
+    },
+    {
+        "pageid": 46854,
+        "ns": 0,
+        "title": "Types/RotatedAnimationVariations"
+    },
+    {
+        "pageid": 32508,
+        "ns": 0,
+        "title": "Types/RotatedSprite"
+    },
+    {
+        "pageid": 47191,
+        "ns": 0,
+        "title": "Types/ScriptTriggerEffectItem"
+    },
+    {
+        "pageid": 46833,
+        "ns": 0,
+        "title": "Types/ScrollBarStyleSpecification"
+    },
+    {
+        "pageid": 46836,
+        "ns": 0,
+        "title": "Types/ScrollPaneStyleSpecification"
+    },
+    {
+        "pageid": 47644,
+        "ns": 0,
+        "title": "Types/SetTileTriggerEffectItem"
+    },
+    {
+        "pageid": 44715,
+        "ns": 0,
+        "title": "Types/ShowExplosionOnChartTriggerEffectItem"
+    },
+    {
+        "pageid": 42824,
+        "ns": 0,
+        "title": "Types/SignalColorMapping"
+    },
+    {
+        "pageid": 44568,
+        "ns": 0,
+        "title": "Types/SignalIDConnector"
+    },
+    {
+        "pageid": 47971,
+        "ns": 0,
+        "title": "Types/SimpleModifierPrototype"
+    },
+    {
+        "pageid": 47828,
+        "ns": 0,
+        "title": "Types/SimulationDefinition"
+    },
+    {
+        "pageid": 46837,
+        "ns": 0,
+        "title": "Types/SliderStyleSpecification"
+    },
+    {
+        "pageid": 44068,
+        "ns": 0,
+        "title": "Types/SmokeSource"
+    },
+    {
+        "pageid": 44671,
+        "ns": 0,
+        "title": "Types/SpawnPoint"
+    },
+    {
+        "pageid": 46838,
+        "ns": 0,
+        "title": "Types/SpeechBubbleStyleSpecification"
+    },
+    {
+        "pageid": 47609,
+        "ns": 0,
+        "title": "Types/SpiderEnginePrototype"
+    },
+    {
+        "pageid": 47607,
+        "ns": 0,
+        "title": "Types/SpiderLegGraphicsSet"
+    },
+    {
+        "pageid": 47606,
+        "ns": 0,
+        "title": "Types/SpiderLegPart"
+    },
+    {
+        "pageid": 47608,
+        "ns": 0,
+        "title": "Types/SpiderLegSpecification"
+    },
+    {
+        "pageid": 47605,
+        "ns": 0,
+        "title": "Types/SpiderVehicleGraphicsSet"
+    },
+    {
+        "pageid": 32063,
+        "ns": 0,
+        "title": "Types/Sprite"
+    },
+    {
+        "pageid": 43599,
+        "ns": 0,
+        "title": "Types/Sprite4Way"
+    },
+    {
+        "pageid": 45382,
+        "ns": 0,
+        "title": "Types/Sprite8Way"
+    },
+    {
+        "pageid": 44506,
+        "ns": 0,
+        "title": "Types/SpriteFlags"
+    },
+    {
+        "pageid": 45381,
+        "ns": 0,
+        "title": "Types/SpriteNWaySheet"
+    },
+    {
+        "pageid": 47230,
+        "ns": 0,
+        "title": "Types/SpritePriority"
+    },
+    {
+        "pageid": 43801,
+        "ns": 0,
+        "title": "Types/SpriteSizeType"
+    },
+    {
+        "pageid": 32488,
+        "ns": 0,
+        "title": "Types/SpriteVariations"
+    },
+    {
+        "pageid": 45654,
+        "ns": 0,
+        "title": "Types/StreamAttackParameters"
+    },
+    {
+        "pageid": 44721,
+        "ns": 0,
+        "title": "Types/StreamTriggerDelivery"
+    },
+    {
+        "pageid": 48052,
+        "ns": 0,
+        "title": "Types/StretchRule"
+    },
+    {
+        "pageid": 46858,
+        "ns": 0,
+        "title": "Types/Stripe"
+    },
+    {
+        "pageid": 46815,
+        "ns": 0,
+        "title": "Types/StyleSpecification"
+    },
+    {
+        "pageid": 46839,
+        "ns": 0,
+        "title": "Types/StyleWithClickableGraphicalSetSpecification"
+    },
+    {
+        "pageid": 46844,
+        "ns": 0,
+        "title": "Types/SwitchStyleSpecification"
+    },
+    {
+        "pageid": 46847,
+        "ns": 0,
+        "title": "Types/TabStyleSpecification"
+    },
+    {
+        "pageid": 46845,
+        "ns": 0,
+        "title": "Types/TabbedPaneStyleSpecification"
+    },
+    {
+        "pageid": 46846,
+        "ns": 0,
+        "title": "Types/TableStyleSpecification"
+    },
+    {
+        "pageid": 46841,
+        "ns": 0,
+        "title": "Types/TechnologySlotStyleSpecification"
+    },
+    {
+        "pageid": 46848,
+        "ns": 0,
+        "title": "Types/TextBoxStyleSpecification"
+    },
+    {
+        "pageid": 46089,
+        "ns": 0,
+        "title": "Types/ThrowCapsuleAction"
+    },
+    {
+        "pageid": 47181,
+        "ns": 0,
+        "title": "Types/TileSprite"
+    },
+    {
+        "pageid": 47180,
+        "ns": 0,
+        "title": "Types/TileTransitionSprite"
+    },
+    {
+        "pageid": 43887,
+        "ns": 0,
+        "title": "Types/TileTransitions"
+    },
+    {
+        "pageid": 48102,
+        "ns": 0,
+        "title": "Types/TipStatus"
+    },
+    {
+        "pageid": 47836,
+        "ns": 0,
+        "title": "Types/TipTrigger"
+    },
+    {
+        "pageid": 44472,
+        "ns": 0,
+        "title": "Types/TransportBeltConnectorFrame"
+    },
+    {
+        "pageid": 45032,
+        "ns": 0,
+        "title": "Types/TreePrototypeVariation"
+    },
+    {
+        "pageid": 44695,
+        "ns": 0,
+        "title": "Types/Trigger"
+    },
+    {
+        "pageid": 44716,
+        "ns": 0,
+        "title": "Types/TriggerDelivery"
+    },
+    {
+        "pageid": 44702,
+        "ns": 0,
+        "title": "Types/TriggerEffect"
+    },
+    {
+        "pageid": 44701,
+        "ns": 0,
+        "title": "Types/TriggerEffectItem"
+    },
+    {
+        "pageid": 44694,
+        "ns": 0,
+        "title": "Types/TriggerItem"
+    },
+    {
+        "pageid": 46652,
+        "ns": 0,
+        "title": "Types/TriggerTargetMask"
+    },
+    {
+        "pageid": 47972,
+        "ns": 0,
+        "title": "Types/TurretAttackModifierPrototype"
+    },
+    {
+        "pageid": 46348,
+        "ns": 0,
+        "title": "Types/UnitAISettings"
+    },
+    {
+        "pageid": 44672,
+        "ns": 0,
+        "title": "Types/UnitSpawnDefinition"
+    },
+    {
+        "pageid": 47973,
+        "ns": 0,
+        "title": "Types/UnlockRecipeModifierPrototype"
+    },
+    {
+        "pageid": 46087,
+        "ns": 0,
+        "title": "Types/UseOnSelfCapsuleAction"
+    },
+    {
+        "pageid": 46853,
+        "ns": 0,
+        "title": "Types/Vector3D"
+    },
+    {
+        "pageid": 46849,
+        "ns": 0,
+        "title": "Types/VerticalFlowStyleSpecification"
+    },
+    {
+        "pageid": 46834,
+        "ns": 0,
+        "title": "Types/VerticalScrollBarStyleSpecification"
+    },
+    {
+        "pageid": 47215,
+        "ns": 0,
+        "title": "Types/WaterReflectionDefinition"
+    },
+    {
+        "pageid": 44567,
+        "ns": 0,
+        "title": "Types/WireConnectionPoint"
+    },
+    {
+        "pageid": 44566,
+        "ns": 0,
+        "title": "Types/WirePosition"
+    },
+    {
+        "pageid": 41728,
+        "ns": 0,
+        "title": "Types/WorkingSound"
+    },
+    {
+        "pageid": 46856,
+        "ns": 0,
+        "title": "Types/WorkingVisualisation"
+    },
+    {
+        "pageid": 31775,
+        "ns": 0,
+        "title": "Types/double"
+    },
+    {
+        "pageid": 31773,
+        "ns": 0,
+        "title": "Types/string"
+    },
+    {
+        "pageid": 32062,
+        "ns": 0,
+        "title": "Types/uint16"
+    },
+    {
+        "pageid": 34837,
+        "ns": 0,
+        "title": "Types/uint32"
+    },
+    {
+        "pageid": 44687,
+        "ns": 0,
+        "title": "Types/uint64"
+    },
+    {
+        "pageid": 34944,
+        "ns": 0,
+        "title": "Types/vector"
     },
     {
         "pageid": 39296,
@@ -3878,6 +6028,51 @@
         "pageid": 3164,
         "ns": 0,
         "title": "Version history"
+    },
+    {
+        "pageid": 39699,
+        "ns": 0,
+        "title": "Version history/0.10.0"
+    },
+    {
+        "pageid": 39700,
+        "ns": 0,
+        "title": "Version history/0.11.0"
+    },
+    {
+        "pageid": 39701,
+        "ns": 0,
+        "title": "Version history/0.12.0"
+    },
+    {
+        "pageid": 39702,
+        "ns": 0,
+        "title": "Version history/0.13.0"
+    },
+    {
+        "pageid": 39703,
+        "ns": 0,
+        "title": "Version history/0.14.0"
+    },
+    {
+        "pageid": 40087,
+        "ns": 0,
+        "title": "Version history/0.15.0"
+    },
+    {
+        "pageid": 42363,
+        "ns": 0,
+        "title": "Version history/0.16.0"
+    },
+    {
+        "pageid": 45743,
+        "ns": 0,
+        "title": "Version history/0.17.0"
+    },
+    {
+        "pageid": 47075,
+        "ns": 0,
+        "title": "Version history/0.18.0"
     },
     {
         "pageid": 39415,
