@@ -49,7 +49,7 @@ def main():
         if content.find("{{archive}}") > 0:
             exclude_page_ids.append(pageid)
 
-        # for Technical page
+        # for Technical page, not need trans
         if content.find("[[Category:Technical]]") > 0:
             exclude_page_ids.append(pageid)
 

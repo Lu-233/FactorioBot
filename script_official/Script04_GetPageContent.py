@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-from Official.OfficialTool import get_session, api_url
+from script_official.official_tool import login_official_wiki, api_url
 from tools import load_json
 
 out_path = Path("../data/page_content")
@@ -19,7 +19,7 @@ def main():
     en_pages = load_json("../data/en_pages.json")
 
 
-    session = get_session()
+    session = login_official_wiki()
 
     for i, page in enumerate(en_pages):
 
@@ -32,7 +32,7 @@ def main():
 
 def save_page(pageid, session=None):
     if session is None:
-        session = get_session()
+        session = login_official_wiki()
 
     req = session.get(api_url, params={
         'format': 'json',

@@ -290,6 +290,11 @@
         "title": "Blueprint book/zh"
     },
     {
+        "pageid": 48195,
+        "ns": 0,
+        "title": "Blueprint library/zh"
+    },
+    {
         "pageid": 34331,
         "ns": 0,
         "title": "Boiler/zh"
@@ -1895,6 +1900,11 @@
         "title": "Refined concrete/zh"
     },
     {
+        "pageid": 48198,
+        "ns": 0,
+        "title": "Refined flammables (research)/zh"
+    },
+    {
         "pageid": 44142,
         "ns": 0,
         "title": "Refined hazard concrete/zh"
@@ -1903,6 +1913,11 @@
         "pageid": 44034,
         "ns": 0,
         "title": "Repair pack/zh"
+    },
+    {
+        "pageid": 48192,
+        "ns": 0,
+        "title": "Replay system/zh"
     },
     {
         "pageid": 34279,
@@ -1943,6 +1958,11 @@
         "pageid": 34295,
         "ns": 0,
         "title": "Robots/zh"
+    },
+    {
+        "pageid": 48194,
+        "ns": 0,
+        "title": "Rock/zh"
     },
     {
         "pageid": 36614,
@@ -2300,6 +2320,11 @@
         "title": "Straight rail/zh"
     },
     {
+        "pageid": 48199,
+        "ns": 0,
+        "title": "Stronger explosives (research)/zh"
+    },
+    {
         "pageid": 34568,
         "ns": 0,
         "title": "Submachine gun/zh"
@@ -2328,6 +2353,11 @@
         "pageid": 44304,
         "ns": 0,
         "title": "Sulfuric acid barrel/zh"
+    },
+    {
+        "pageid": 48196,
+        "ns": 0,
+        "title": "Supply challenge/zh"
     },
     {
         "pageid": 35800,
@@ -2428,6 +2458,11 @@
         "pageid": 38884,
         "ns": 0,
         "title": "Turret/zh"
+    },
+    {
+        "pageid": 48197,
+        "ns": 0,
+        "title": "Tutorial/zh"
     },
     {
         "pageid": 35786,

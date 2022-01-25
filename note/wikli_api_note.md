@@ -1,52 +1,37 @@
 # api
 
+## wiki content todo list
 
-## 需要在41上更新页面内容：
+- Crafting
+- Beacon
+- Game-day > Time
+- Game-second > Time
+- Game-tick > Time
+- Chunk> Map_structure
+- add Map_structure
+- Modding_overview > Modding
+- Defense > Enemies
+- Rich text
+- Production_statistics
 
-Stack inserter (research)
-Piercing shotgun shells
-Uranium processing (research)
-Defender (research)
+
+用 https://wiki.factorio.com/Category:Candidates_for_deletion
+用 删除标记需要删除的页面
+
 
 ## wiki
 
-链接其他页面： [[page|name]]， [[Electric system|电力]]
-
-{{L|Belt immunity equipment}}
-{{L|Fuel}}
-...
-
-L优先，[[]] 是重命名时用
-
-
-快捷键
-{{Keybinding|ctrl|lmb}} 
-{{Keybinding|shift|rmb}}
-
-第一句的名字
-{{Translation|Oil processing}}
-
-图标
-{{icon|time|5}} + {{Icon|Crude oil|100}} || {{Icon|Petroleum gas|45}} 
-
-== 成就 ==
-
-{{Achievement|raining-bullets}}
-
-== 参见 ==
-
-* [[Gun turret|机枪炮塔]]
-* [[Flamethrower turret|火焰喷射塔]]
+- 翻译而不链接： {{Translation|name}}
+- 翻译和链接 {{L|name}}
+- 使用指定的名字 [[page/zh|name]]
+- 快捷键 {{Keybinding|ctrl|lmb}}, {{Keybinding|shift|rmb}}
+- 图标和文字 {{icon|time|5}}
+- 成就 {{Achievement|raining-bullets}}
+- == 请参见 == * {{L|name}}
+- 图 {{Imagelink|Basic oil processing}}
 
 
-== 参考 ==  https://wiki.factorio.com/Belt_immunity_equipment_(research)/zh
-
-* {{L|Research}}
-* {{L|Technologies}}
-
-图片 {{Imagelink|Basic oil processing}}
-
-## list page
+## 官方 wiki 的 apnamespace
 
 apnamespace:
 - 0 pages

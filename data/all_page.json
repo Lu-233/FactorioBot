@@ -1865,6 +1865,11 @@
         "title": "Blueprint library/de"
     },
     {
+        "pageid": 48195,
+        "ns": 0,
+        "title": "Blueprint library/zh"
+    },
+    {
         "pageid": 42162,
         "ns": 0,
         "title": "Blueprint string format"
@@ -14500,6 +14505,11 @@
         "title": "Refined flammables (research)/ru"
     },
     {
+        "pageid": 48198,
+        "ns": 0,
+        "title": "Refined flammables (research)/zh"
+    },
+    {
         "pageid": 42969,
         "ns": 0,
         "title": "Refined hazard concrete"
@@ -17460,6 +17470,11 @@
         "title": "Stronger explosives (research)/ru"
     },
     {
+        "pageid": 48199,
+        "ns": 0,
+        "title": "Stronger explosives (research)/zh"
+    },
+    {
         "pageid": 31846,
         "ns": 0,
         "title": "Submachine gun"
@@ -17703,6 +17718,11 @@
         "pageid": 48084,
         "ns": 0,
         "title": "Supply challenge"
+    },
+    {
+        "pageid": 48196,
+        "ns": 0,
+        "title": "Supply challenge/zh"
     },
     {
         "pageid": 34037,
@@ -18358,6 +18378,11 @@
         "pageid": 47908,
         "ns": 0,
         "title": "Tutorial/ru"
+    },
+    {
+        "pageid": 48197,
+        "ns": 0,
+        "title": "Tutorial/zh"
     },
     {
         "pageid": 33412,
@@ -19528,11 +19553,6 @@
         "pageid": 41789,
         "ns": 0,
         "title": "Types/table"
-    },
-    {
-        "pageid": 44062,
-        "ns": 0,
-        "title": "Types/uint"
     },
     {
         "pageid": 32062,

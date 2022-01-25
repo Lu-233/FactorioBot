@@ -26,10 +26,11 @@ def login_bili_wiki(browser_name="Edge", wiki_name="factorio"):
         browser_name:  Edge or Chrome
         wiki_name: like "factorio","name"
     """
-
+    print("\n\n=====================================================")
     print("You are trying use bili wiki support")
     print("you need first login to bilibili in browser, and access wiki page")
     print("then, this code will load your cookies to get session")
+    print("=====================================================\n\n")
 
     url = f"https://wiki.biligame.com/{wiki_name}/api.php"
 
