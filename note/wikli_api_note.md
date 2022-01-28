@@ -18,6 +18,20 @@
 用 https://wiki.factorio.com/Category:Candidates_for_deletion
 用 删除标记需要删除的页面
 
+- 红图 (拆除规划)
+
+## bili wiki todo list
+
+三种运算器的拓展内容。
+
+红图 (拆除规划)
+
+为所有成就添加到相应页面
+
+为所有物品添加相关物品 如：https://wiki.factorio.com/Fast_underground_belt
+                       https://wiki.factorio.com/Light_oil/zh
+
+
 
 ## wiki
 

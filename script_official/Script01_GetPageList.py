@@ -9,7 +9,8 @@ def main():
 
     all_page = wiki.pages(use_cache=True)
 
-    print(all_page)
+    for page in all_page:
+        print(page)
 
 
 if __name__ == '__main__':

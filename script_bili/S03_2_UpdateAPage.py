@@ -3,7 +3,7 @@ from tool.wiki import get_bili_tool
 
 def main():
     """ main func """
-    target_name = "开发计划"
+    target_name = "算术运算器"
 
     wiki = get_bili_tool()
 

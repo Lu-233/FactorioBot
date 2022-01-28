@@ -1,12 +1,11 @@
-""" compare page history """
+""" check zh page name is chinsese"""
 import requests
 from tools import load_json
 
 
 def main():
     """ main func
-        compare last modify date for page en-zh
-
+        print all zh page title, and manual check is chinese, if not, update the trans page
     """
 
     # 523
@@ -21,9 +20,6 @@ def main():
         title = title.replace("<title>", "")
         title = title.replace(" - Factorio Wiki</title>", "")
         print(title)
-
-
-
 
 
 if __name__ == '__main__':

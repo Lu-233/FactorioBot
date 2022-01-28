@@ -256,6 +256,7 @@ class WikiTool:
 
         revision = data["query"]["pages"][str(page_id)]["revisions"][0]
 
+        print("update cache file: ", page_info_file)
         page_info_file.write_text(json.dumps(revision, ensure_ascii=False, indent=4), encoding="UTF8")
 
         return revision
@@ -277,7 +278,7 @@ class WikiTool:
               "*": "{{Languages}}\n{{:Infobox:electronics}}\n\n ... \n{{TechNav}}"
             }
         """
-        all_page = self.pages()
+        all_page = self.pages(use_cache=use_cache)
         title = title.strip()
         for page in all_page:
             if page["title"] == title:

@@ -1,1 +1,885 @@
-en_name,en_time,en_len,zh_name,zh_time,need_updateAccumulator,2019-11-07 12:43:07,5690,Accumulator/zh,2018-11-18 11:09:30,TrueAchievements,2021-02-18 14:21:11,6558,Achievements/zh,2018-07-05 09:45:32,TrueActive provider chest,2020-09-24 09:10:58,1552,Active provider chest/zh,2018-06-28 06:28:31,TrueAdvanced circuit,2019-04-07 10:58:14,1181,Advanced circuit/zh,2018-11-20 11:38:54,TrueAdvanced electronics (research),2017-09-04 12:54:02,230,Advanced electronics (research)/zh,2018-07-12 07:02:06,FalseAdvanced electronics 2 (research),2018-11-20 11:39:35,232,Advanced electronics 2 (research)/zh,2022-01-22 05:28:54,FalseAdvanced material processing (research),2017-07-19 15:00:25,129,Advanced material processing (research)/zh,2018-07-12 11:01:15,FalseAdvanced material processing 2 (research),2017-07-31 18:47:20,281,Advanced material processing 2 (research)/zh,2018-07-12 11:03:59,FalseAdvanced oil processing (research),2017-07-19 15:00:39,696,Advanced oil processing (research)/zh,2018-07-12 11:41:51,FalseAlerts,2020-11-27 13:30:04,3036,Alerts/zh,2018-07-10 06:14:29,TrueAlien artifact,2017-08-17 12:32:01,1102,Alien artifact/zh,2017-09-10 19:29:20,FalseAlien technology (research),2017-07-19 15:00:58,374,Alien technology (research)/zh,2017-08-08 19:42:17,FalseAmmunition,2021-03-19 14:31:27,920,Ammunition/zh,2018-07-17 07:04:46,TrueApplication directory,2022-01-17 15:25:59,3957,Application directory/zh,2019-03-14 12:28:45,TrueArithmetic combinator,2021-12-17 17:18:02,4782,Arithmetic combinator/zh,2018-07-10 07:54:08,TrueArmor,2021-07-11 21:58:57,427,Armor/zh,2018-07-18 23:42:50,TrueArtillery,2018-06-23 09:05:18,164,Artillery/zh,2018-07-04 10:10:56,FalseArtillery (research),2017-12-16 17:18:48,109,Artillery (research)/zh,2018-07-12 09:54:56,FalseArtillery shell,2018-12-03 12:04:52,833,Artillery shell/zh,2018-11-20 13:35:21,TrueArtillery shell range (research),2019-04-12 04:28:33,763,Artillery shell range (research)/zh,2019-02-28 12:26:03,TrueArtillery shell shooting speed (research),2019-04-12 04:28:46,817,Artillery shell shooting speed (research)/zh,2019-02-28 12:26:03,TrueArtillery targeting remote,2020-11-25 15:24:55,1200,Artillery targeting remote/zh,2018-07-25 03:44:28,TrueArtillery turret,2021-03-01 01:44:35,4171,Artillery turret/zh,2018-06-27 10:07:19,TrueArtillery wagon,2021-04-09 09:14:01,7213,Artillery wagon/zh,2021-03-19 15:31:36,TrueAssembling machine,2020-11-28 07:29:40,409,Assembling machine/zh,2018-06-23 08:54:12,TrueAssembling machine 1,2021-03-15 17:35:20,1937,Assembling machine 1/zh,2017-09-10 09:37:48,TrueAssembling machine 2,2021-03-15 17:34:14,2610,Assembling machine 2/zh,2018-11-20 13:59:44,TrueAssembling machine 3,2021-03-15 17:35:57,2198,Assembling machine 3/zh,2017-09-10 09:38:17,TrueAtomic bomb,2021-10-29 16:56:36,1382,Atomic bomb/zh,2018-07-19 03:09:09,TrueAtomic bomb (research),2018-08-04 04:12:27,208,Atomic bomb (research)/zh,2022-01-22 04:53:40,FalseAutomated rail transportation (research),2017-07-19 15:02:05,346,Automated rail transportation (research)/zh,2018-07-12 12:28:05,FalseAutomation (research),2021-02-16 11:10:00,363,Automation (research)/zh,2018-07-12 07:07:46,TrueAutomation 2 (research),2021-03-11 02:42:04,240,Automation 2 (research)/zh,2022-01-22 05:42:23,FalseAutomation 3 (research),2018-12-01 21:26:14,250,Automation 3 (research)/zh,2022-01-22 05:44:44,FalseAutomation science pack,2019-09-16 15:35:37,1389,Automation science pack/zh,2019-02-26 17:24:40,TrueAutomobilism (research),2017-07-19 15:02:32,180,Automobilism (research)/zh,2018-07-12 12:30:35,FalseBalancer mechanics,2020-11-23 11:18:07,5421,Balancer mechanics/zh,2019-12-03 11:56:54,TrueBarrel,2020-09-17 05:20:31,5314,Barrel/zh,2018-07-11 11:18:24,TrueBattery,2020-09-24 02:01:31,1208,Battery/zh,2018-11-17 12:00:44,TrueBattery (research),2022-01-22 05:05:35,222,Battery (research)/zh,2022-01-22 05:09:55,FalseBeacon,2020-08-17 10:39:04,10713,Beacon/zh,2018-07-29 07:39:27,TrueBelt immunity equipment,2020-08-15 03:09:07,569,Belt immunity equipment/zh,2021-10-01 17:29:49,FalseBelt immunity equipment (research),2019-06-17 21:10:32,279,Belt immunity equipment (research)/zh,2021-11-15 18:18:52,FalseBelt transport system,2021-06-22 08:42:08,13019,Belt transport system/zh,2020-08-23 23:21:27,TrueBig electric pole,2021-03-14 13:11:25,1533,Big electric pole/zh,2018-06-20 06:48:47,TrueBlueprint,2021-10-06 10:10:30,9010,Blueprint/zh,2018-11-26 13:07:02,TrueBlueprint book,2021-03-11 17:46:01,3373,Blueprint book/zh,2018-11-16 21:25:47,TrueBoiler,2021-06-22 09:03:55,1909,Boiler/zh,2018-07-10 07:35:53,TrueBraking force (research),2020-10-17 16:50:33,2080,Braking force (research)/zh,2019-02-28 12:26:19,TrueBuffer chest,2021-03-25 15:55:54,2120,Buffer chest/zh,2018-07-04 03:44:58,TrueBullet damage (research),2019-03-05 08:15:33,2141,Bullet damage (research)/zh,2019-02-28 12:25:54,TrueBullet shooting speed (research),2019-03-05 08:15:26,1749,Bullet shooting speed (research)/zh,2019-02-28 12:25:53,TrueBurner devices,2021-03-19 14:22:00,934,Burner devices/zh,2018-06-23 08:54:44,TrueBurner inserter,2021-07-19 09:51:08,3623,Burner inserter/zh,2018-06-19 06:39:30,TrueBurner mining drill,2020-04-29 04:04:28,3290,Burner mining drill/zh,2017-08-14 19:17:01,TrueCannon shell,2021-10-29 16:56:23,1115,Cannon shell/zh,2018-07-19 01:53:11,TrueCannon shell damage (research),2019-03-05 08:15:30,2112,Cannon shell damage (research)/zh,2019-02-28 12:26:17,TrueCannon shell shooting speed (research),2019-03-05 08:15:35,1720,Cannon shell shooting speed (research)/zh,2019-02-28 12:26:14,TrueCapsules,2021-05-14 09:57:25,228,Capsules/zh,2022-01-22 05:22:55,FalseCar,2020-08-14 23:17:12,5005,Car/zh,2018-06-28 05:18:50,TrueCargo wagon,2022-01-14 18:52:55,3399,Cargo wagon/zh,2021-03-19 15:31:00,TrueCentrifuge,2021-02-07 11:37:26,638,Centrifuge/zh,2018-07-17 08:51:57,TrueChemical plant,2020-09-27 01:52:20,1227,Chemical plant/zh,2017-09-10 12:25:05,TrueChemical science pack,2020-05-19 15:41:45,2421,Chemical science pack/zh,2019-02-26 17:25:49,TrueChemical science pack (research),2020-09-14 06:49:52,202,Chemical science pack (research)/zh,2020-12-04 15:42:04,FalseChests,2018-02-04 13:13:31,683,Chests/zh,2018-07-09 02:36:02,FalseCircuit network,2021-12-17 17:18:24,18531,Circuit network/zh,2018-07-13 12:12:51,TrueCircuit network (research),2018-07-12 11:52:49,346,Circuit network (research)/zh,2018-07-12 11:54:06,FalseCliff,2021-02-26 09:06:34,1678,Cliff/zh,2018-07-04 09:28:03,TrueCliff explosives,2019-01-08 06:10:25,480,Cliff explosives/zh,2019-01-08 06:11:50,FalseCliff explosives (research),2017-12-13 19:02:28,116,Cliff explosives (research)/zh,2018-07-12 11:54:50,FalseCluster grenade,2021-10-29 16:56:28,739,Cluster grenade/zh,2018-07-19 07:32:01,TrueCoal,2019-04-03 21:26:22,880,Coal/zh,2017-09-09 16:08:24,TrueCoal liquefaction (research),2018-11-27 13:16:12,231,Coal liquefaction (research)/zh,2022-01-22 05:26:25,FalseCombat robot capsules,2018-02-15 16:08:13,176,Combat robot capsules/zh,2018-07-04 10:04:40,FalseCombat robot damage (research),2019-03-05 08:15:34,2048,Combat robot damage (research)/zh,2019-02-28 12:25:52,TrueCombat shotgun,2021-10-29 16:56:09,399,Combat shotgun/zh,2018-07-18 07:50:51,TrueCombinators,2018-07-10 03:50:57,322,Combinators/zh,2018-07-10 03:52:37,FalseConcrete,2019-09-16 07:28:54,1529,Concrete/zh,2018-07-04 08:51:32,TrueConcrete (research),2017-07-19 15:46:03,109,Concrete (research)/zh,2018-07-12 11:58:53,FalseConsole,2021-12-26 20:38:22,34017,Console/zh,2019-05-02 17:23:40,TrueConstant combinator,2021-12-17 17:17:58,1776,Constant combinator/zh,2018-07-10 03:45:10,TrueConstruction robot,2020-10-21 10:31:31,3184,Construction robot/zh,2018-06-28 05:59:56,TrueConstruction robotics (research),2022-01-14 19:06:21,505,Construction robotics (research)/zh,2018-07-12 09:26:27,TrueCopper cable,2020-08-17 04:30:11,913,Copper cable/zh,2017-08-17 11:34:32,TrueCopper ore,2020-05-06 09:57:49,1049,Copper ore/zh,2017-09-10 18:12:10,TrueCopper plate,2018-07-30 18:03:46,662,Copper plate/zh,2017-08-17 10:39:17,TrueCrafting,2021-03-15 17:42:19,7319,Crafting/zh,2018-07-29 07:38:15,TrueCrude oil,2020-09-14 06:31:22,1594,Crude oil/zh,2017-09-09 16:25:43,TrueDamage,2021-12-20 21:24:07,5262,Damage/zh,2021-04-09 11:21:14,TrueDebug mode,2020-11-25 14:25:35,7956,Debug mode/zh,2017-02-03 19:56:19,TrueDecider combinator,2021-12-17 17:18:00,5805,Decider combinator/zh,2018-07-10 08:26:43,TrueDeconstruction planner,2021-04-05 09:28:51,17932,Deconstruction planner/zh,2018-07-10 07:11:56,TrueDefender (research),2021-10-27 14:42:40,332,Defender (research)/zh,2020-11-23 21:13:05,TrueDefender capsule,2020-01-25 19:44:27,1685,Defender capsule/zh,2018-07-24 01:39:07,TrueDestroyer (research),2020-11-23 21:23:58,109,Destroyer (research)/zh,2020-11-23 21:24:00,FalseDestroyer capsule,2020-01-25 19:44:57,1504,Destroyer capsule/zh,2018-07-24 01:39:10,TrueDischarge defense,2020-09-09 21:25:31,804,Discharge defense/zh,2018-07-26 03:50:49,TrueDischarge defense (research),2017-07-19 15:51:23,118,Discharge defense (research)/zh,2018-07-12 12:43:44,FalseDischarge defense remote,2020-11-25 15:24:41,260,Discharge defense remote/zh,2022-01-22 05:57:57,FalseDistractor (research),2020-11-23 21:18:19,110,Distractor (research)/zh,2020-11-23 21:18:18,TrueDistractor capsule,2021-03-11 17:21:03,1507,Distractor capsule/zh,2018-07-24 01:36:48,TrueEffect transmission (research),2020-09-14 06:54:08,199,Effect transmission (research)/zh,2022-01-22 04:16:11,FalseEfficiency module,2021-01-04 12:04:22,830,Efficiency module/zh,2018-07-18 05:09:44,TrueEfficiency module (research),2017-07-19 16:04:29,127,Efficiency module (research)/zh,2018-07-12 12:56:59,FalseEfficiency module 2,2020-12-25 18:53:26,832,Efficiency module 2/zh,2018-07-18 05:12:07,TrueEfficiency module 2 (research),2017-07-19 16:04:56,129,Efficiency module 2 (research)/zh,2018-07-12 12:57:40,FalseEfficiency module 3,2020-12-25 18:53:45,832,Efficiency module 3/zh,2018-07-18 05:13:13,TrueEfficiency module 3 (research),2017-07-19 16:05:10,129,Efficiency module 3 (research)/zh,2018-07-12 12:58:20,FalseElectric energy accumulators (research),2020-09-12 22:26:45,306,Electric energy accumulators (research)/zh,2022-01-22 06:49:55,FalseElectric energy distribution 1 (research),2017-09-04 12:59:47,393,Electric energy distribution 1 (research)/zh,2018-07-12 07:30:28,FalseElectric energy distribution 2 (research),2018-08-30 10:36:17,348,Electric energy distribution 2 (research)/zh,2018-07-12 07:31:05,TrueElectric engine (research),2017-07-19 16:06:14,224,Electric engine (research)/zh,2018-07-12 12:05:14,FalseElectric engine unit,2019-09-16 05:26:18,477,Electric engine unit/zh,2017-09-02 19:38:12,TrueElectric furnace,2020-04-13 23:34:02,1498,Electric furnace/zh,2017-09-10 09:41:13,TrueElectric mining drill,2021-02-16 10:55:32,2669,Electric mining drill/zh,2017-09-10 09:35:48,TrueElectric system,2020-09-26 23:38:55,10671,Electric system/zh,2018-07-05 09:04:59,TrueElectronic circuit,2020-07-08 07:07:50,1308,Electronic circuit/zh,2017-08-17 11:39:06,TrueElectronics (research),2017-08-13 09:09:03,196,Electronics (research)/zh,2018-07-12 12:00:47,FalseEnemies,2022-01-06 01:22:24,22890,Enemies/zh,2020-12-31 07:32:43,TrueEnergy and work,2021-12-12 20:21:54,7382,Energy and work/zh,2018-11-17 12:00:42,TrueEnergy shield,2020-08-31 09:12:25,1745,Energy shield/zh,2018-11-15 13:44:33,TrueEnergy shield MK2,2021-08-05 11:13:27,1702,Energy shield MK2/zh,2018-11-15 13:45:21,TrueEnergy shield MK2 equipment (research),2021-10-11 13:55:21,226,Energy shield MK2 equipment (research)/zh,2022-01-22 05:19:38,FalseEnergy shield equipment (research),2021-10-11 13:51:37,224,Energy shield equipment (research)/zh,2022-01-22 05:13:52,FalseEnergy weapons damage (research),2021-11-08 10:20:42,2895,Energy weapons damage (research)/zh,2021-11-17 11:19:44,FalseEngine (research),2017-07-19 16:09:29,196,Engine (research)/zh,2018-07-12 12:03:27,FalseEngine unit,2019-09-16 10:17:11,641,Engine unit/zh,2017-09-09 16:08:25,TrueEquipment modules,2021-10-27 14:26:45,1339,Equipment modules/zh,2018-11-17 12:01:31,TrueExoskeleton,2021-05-06 23:46:39,2539,Exoskeleton/zh,2018-07-27 04:34:14,TrueExoskeleton equipment (research),2017-07-19 16:10:00,221,Exoskeleton equipment (research)/zh,2018-07-12 12:48:18,FalseExplosive cannon shell,2021-10-29 16:56:27,1424,Explosive cannon shell/zh,2021-10-29 16:44:13,TrueExplosive rocket,2021-10-29 16:56:06,953,Explosive rocket/zh,2018-07-19 02:51:20,TrueExplosive rocketry (research),2017-08-14 00:43:23,296,Explosive rocketry (research)/zh,2018-07-12 08:58:07,FalseExplosive uranium cannon shell,2021-10-29 16:56:34,1581,Explosive uranium cannon shell/zh,2018-07-19 02:32:02,TrueExplosives,2019-12-22 20:27:06,366,Explosives/zh,2017-08-17 11:49:06,TrueExplosives (research),2020-09-20 00:16:21,304,Explosives (research)/zh,2018-07-12 12:06:09,TrueExpress splitter,2019-09-15 08:30:48,1433,Express splitter/zh,2018-06-19 04:41:03,TrueExpress transport belt,2021-02-25 10:24:56,3054,Express transport belt/zh,2018-07-26 15:58:40,TrueExpress underground belt,2020-09-12 23:32:27,1271,Express underground belt/zh,2018-06-19 03:24:14,TrueFast inserter,2018-09-25 14:46:58,2013,Fast inserter/zh,2018-06-19 07:46:56,TrueFast inserter (research),2019-10-10 13:49:12,112,Fast inserter (research)/zh,2019-12-24 05:06:10,FalseFast splitter,2019-04-11 11:48:16,1358,Fast splitter/zh,2019-11-21 06:17:21,FalseFast transport belt,2021-08-13 19:02:03,2490,Fast transport belt/zh,2021-08-13 19:01:57,TrueFast underground belt,2020-09-12 23:31:13,1034,Fast underground belt/zh,2018-06-19 03:26:38,TrueFilter inserter,2019-09-16 04:30:26,1062,Filter inserter/zh,2018-06-19 09:08:34,TrueFirearm magazine,2020-05-07 17:34:05,459,Firearm magazine/zh,2017-10-21 13:01:15,TrueFlamethrower,2021-10-29 16:56:00,1164,Flamethrower/zh,2018-07-18 07:55:23,TrueFlamethrower (research),2017-07-19 16:14:42,112,Flamethrower (research)/zh,2018-07-12 08:48:56,FalseFlamethrower ammo,2021-10-29 16:55:58,613,Flamethrower ammo/zh,2018-07-19 03:47:30,TrueFlamethrower damage (research),2019-03-05 08:15:35,2705,Flamethrower damage (research)/zh,2019-02-28 12:26:21,TrueFlamethrower turret,2019-11-22 21:12:04,2329,Flamethrower turret/zh,2018-07-19 07:06:44,TrueFlammables (research),2017-08-14 00:32:32,242,Flammables (research)/zh,2018-07-12 12:08:00,FalseFlight (research),2019-02-26 17:23:17,118,Flight (research)/zh,2019-02-26 17:23:24,FalseFluid handling (research),2020-09-17 00:19:09,652,Fluid handling (research)/zh,2018-07-11 09:24:31,TrueFluid system,2022-01-11 22:05:19,11523,Fluid system/zh,2018-07-10 21:55:46,TrueFluid wagon,2021-03-19 15:31:01,2187,Fluid wagon/zh,2021-03-19 15:31:22,FalseFluid wagon (research),2018-01-07 13:23:45,306,Fluid wagon (research)/zh,2018-07-12 12:35:23,FalseFlying robot frame,2018-02-06 12:39:39,554,Flying robot frame/zh,2017-08-17 11:52:29,TrueFollower robot count (research),2021-04-09 11:16:47,2905,Follower robot count (research)/zh,2019-02-28 12:25:58,TrueFuel,2021-05-25 06:10:28,3268,Fuel/zh,2018-07-10 10:13:48,TrueFurnace,2020-09-16 18:55:33,592,Furnace/zh,2018-06-23 08:54:22,TrueGame modes and options,2021-11-15 00:39:16,1466,Game modes and options/zh,2017-09-02 19:13:17,TrueGate,2021-06-22 08:40:13,3157,Gate/zh,2018-07-13 17:47:08,TrueGate (research),2020-11-23 20:58:33,210,Gate (research)/zh,2020-11-23 20:59:13,FalseGreen wire,2020-09-08 15:10:38,1220,Green wire/zh,2018-07-04 08:12:11,TrueGrenade,2021-10-29 16:56:14,887,Grenade/zh,2019-05-16 13:33:34,TrueGrenade damage (research),2019-03-05 08:15:29,2168,Grenade damage (research)/zh,2019-02-28 12:26:21,TrueGun turret,2020-04-30 23:42:56,1577,Gun turret/zh,2017-10-06 08:19:06,TrueGun turret (research),2020-11-23 21:02:08,250,Gun turret (research)/zh,2022-01-22 05:49:44,FalseGun turret damage (research),2019-03-05 08:15:31,2003,Gun turret damage (research)/zh,2019-02-28 12:25:47,TrueHazard concrete,2019-09-16 07:31:08,364,Hazard concrete/zh,2018-07-04 08:56:02,TrueHeat exchanger,2019-09-13 23:48:17,2027,Heat exchanger/zh,2018-07-17 06:13:28,TrueHeat pipe,2019-09-13 23:47:06,1137,Heat pipe/zh,2018-07-17 08:15:25,TrueHeavy armor,2021-10-29 16:55:52,816,Heavy armor/zh,2018-07-26 02:26:46,TrueHeavy armor (research),2020-02-25 14:34:09,236,Heavy armor (research)/zh,2022-01-22 05:51:17,FalseHeavy oil,2022-01-04 13:16:26,1147,Heavy oil/zh,2021-08-06 17:35:34,TrueInserter,2021-07-09 13:37:48,2665,Inserter/zh,2018-06-19 07:05:32,TrueInserter capacity bonus (research),2020-09-18 08:48:05,4213,Inserter capacity bonus (research)/zh,2019-02-28 12:25:54,TrueInserters,2021-02-25 10:31:12,18805,Inserters/zh,2018-07-09 18:06:48,TrueInstall guide,2019-07-20 11:40:23,4492,Install guide/zh,2018-08-20 11:50:08,TrueIron axe,2021-11-05 10:09:53,1161,Iron axe/zh,2019-02-26 17:18:14,TrueIron chest,2018-12-06 12:03:43,657,Iron chest/zh,2018-06-17 15:40:28,TrueIron gear wheel,2021-03-15 11:59:25,644,Iron gear wheel/zh,2017-08-17 11:37:07,TrueIron ore,2018-11-07 17:42:02,217,Iron ore/zh,2022-01-22 05:00:04,FalseIron plate,2021-10-01 17:13:56,800,Iron plate/zh,2017-08-17 10:37:52,TrueIron stick,2021-03-15 11:17:19,392,Iron stick/zh,2017-08-17 11:35:34,TrueKeyboard bindings,2021-11-12 16:25:20,13898,Keyboard bindings/zh,2018-07-13 17:42:25,TrueKovarex enrichment process,2020-08-24 09:59:12,3287,Kovarex enrichment process/zh,2019-09-23 19:35:45,TrueKovarex enrichment process (research),2020-05-01 12:40:39,306,Kovarex enrichment process (research)/zh,2018-07-12 12:09:37,TrueLab,2020-11-23 11:26:40,3731,Lab/zh,2017-09-09 16:32:09,TrueLab research speed (research),2019-03-05 08:15:19,1625,Lab research speed (research)/zh,2019-02-28 12:25:39,TrueLamp,2021-03-14 12:57:40,2216,Lamp/zh,2018-07-04 07:41:10,TrueLand mine,2021-10-29 16:55:55,1657,Land mine/zh,2017-08-14 17:53:41,TrueLand mines (research),2019-07-15 20:06:47,111,Land mines (research)/zh,2019-07-15 20:06:46,TrueLandfill,2020-04-09 00:35:45,890,Landfill/zh,2018-07-04 09:10:13,TrueLandfill (research),2017-07-19 16:27:16,109,Landfill (research)/zh,2018-07-12 12:10:17,FalseLaser (research),2021-04-09 11:21:33,307,Laser (research)/zh,2021-04-09 11:26:20,FalseLaser shooting speed (research),2021-03-11 17:18:11,2911,Laser shooting speed (research)/zh,2021-04-09 11:25:24,FalseLaser turret,2020-09-30 02:22:07,1594,Laser turret/zh,2021-11-17 10:49:16,FalseLaser turret (research),2020-11-23 20:59:34,113,Laser turret (research)/zh,2020-11-23 21:00:02,FalseLaser turret damage (research),2021-04-09 11:30:34,2666,Laser turret damage (research)/zh,2021-04-09 11:30:35,FalseLight armor,2021-10-29 16:56:02,810,Light armor/zh,2018-07-26 02:16:53,TrueLight oil,2022-01-04 13:16:36,1180,Light oil/zh,2021-08-06 17:37:02,TrueLocomotive,2021-06-28 14:49:03,6631,Locomotive/zh,2021-03-19 15:30:39,TrueLogistic network,2021-01-29 15:37:06,12388,Logistic network/zh,2020-10-21 11:30:24,TrueLogistic robot,2020-10-21 10:36:14,3859,Logistic robot/zh,2018-06-28 05:17:33,TrueLogistic robotics (research),2020-03-24 15:08:08,853,Logistic robotics (research)/zh,2018-07-12 09:40:53,TrueLogistic science pack,2019-09-16 15:35:55,1825,Logistic science pack/zh,2019-02-26 17:25:13,TrueLogistic science pack (research),2020-09-14 06:49:44,199,Logistic science pack (research)/zh,2020-12-04 15:51:44,FalseLogistic system (research),2020-03-24 15:28:04,139,Logistic system (research)/zh,2018-07-12 12:13:51,TrueLogistics (research),2018-04-24 11:59:41,196,Logistics (research)/zh,2018-07-12 07:32:46,FalseLogistics 2 (research),2017-09-04 18:49:48,285,Logistics 2 (research)/zh,2018-07-12 07:36:11,FalseLogistics 3 (research),2018-12-01 20:49:06,285,Logistics 3 (research)/zh,2022-01-22 06:15:39,FalseLong-handed inserter,2020-11-30 18:08:55,2362,Long-handed inserter/zh,2020-11-30 18:10:07,FalseLow density structure,2021-03-14 13:05:06,979,Low density structure/zh,2018-07-18 03:44:38,TrueLow density structure (research),2019-06-18 10:11:31,120,Low density structure (research)/zh,2019-12-24 05:12:29,FalseLubricant,2019-09-16 05:12:55,530,Lubricant/zh,2017-12-25 13:35:08,TrueLubricant (research),2019-06-18 10:06:51,108,Lubricant (research)/zh,2021-11-15 18:15:24,FalseMain Page,2020-12-11 18:15:55,1991,Main Page/zh,2020-12-11 18:17:19,FalseMap editor,2020-08-17 10:45:53,6016,Map editor/zh,2015-06-03 13:34:25,TrueMap generator,2021-05-03 12:00:45,18046,Map generator/zh,2020-05-06 10:07:13,TrueMaterials and recipes,2020-08-17 10:33:24,27,Materials and recipes/zh,2020-08-17 10:33:40,FalseMedium electric pole,2021-03-15 02:32:35,1366,Medium electric pole/zh,2018-06-20 06:32:32,TrueMilitary (research),2017-09-04 13:12:05,232,Military (research)/zh,2018-07-12 08:51:13,FalseMilitary 2 (research),2019-06-16 13:47:35,251,Military 2 (research)/zh,2022-01-22 05:53:25,FalseMilitary 3 (research),2017-07-19 16:34:05,111,Military 3 (research)/zh,2018-07-12 08:53:23,FalseMilitary 4 (research),2018-07-31 17:37:05,109,Military 4 (research)/zh,2022-01-22 03:28:47,FalseMilitary science pack,2020-09-17 23:21:29,2144,Military science pack/zh,2018-07-13 14:26:45,TrueMilitary science pack (research),2019-06-16 14:57:39,298,Military science pack (research)/zh,2020-12-04 15:59:13,FalseMining,2020-11-25 14:47:40,3513,Mining/zh,2020-11-25 14:48:51,FalseMining drill,2018-09-01 12:24:02,151,Mining drill/zh,2022-01-22 03:54:18,FalseMining productivity (research),2021-08-17 09:13:29,2143,Mining productivity (research)/zh,2019-02-28 12:26:33,TrueModding,2021-11-08 21:06:07,5317,Modding/zh,2019-03-10 03:24:35,TrueModular armor,2021-10-29 16:56:16,958,Modular armor/zh,2018-07-26 03:00:05,TrueModular armor (research),2017-07-19 16:35:07,126,Modular armor (research)/zh,2018-07-12 09:45:02,FalseModule,2021-08-05 08:41:03,9131,Module/zh,2018-07-10 08:26:24,TrueModules (research),2017-07-19 16:36:48,175,Modules (research)/zh,2018-07-12 12:54:48,FalseMultiplayer,2021-02-23 15:27:17,25128,Multiplayer/zh,2018-07-17 08:48:18,TrueNightvision,2019-10-07 20:35:53,1412,Nightvision/zh,2018-11-15 13:15:09,TrueNightvision equipment (research),2017-07-19 16:37:00,143,Nightvision equipment (research)/zh,2018-07-12 12:49:35,FalseNuclear fuel,2021-11-17 15:08:24,1370,Nuclear fuel/zh,2018-07-18 04:00:33,TrueNuclear fuel reprocessing,2019-06-18 10:08:28,303,Nuclear fuel reprocessing/zh,2022-01-22 06:31:37,FalseNuclear fuel reprocessing (research),2020-05-01 12:41:09,267,Nuclear fuel reprocessing (research)/zh,2022-01-22 06:04:48,FalseNuclear power (research),2017-08-23 19:12:49,338,Nuclear power (research)/zh,2018-07-12 07:41:22,FalseNuclear reactor,2021-04-22 03:05:48,4569,Nuclear reactor/zh,2018-07-17 03:56:51,TrueOffshore pump,2020-03-05 09:14:39,1802,Offshore pump/zh,2017-09-10 09:38:46,TrueOil,2017-09-02 16:51:57,134,Oil/zh,2018-07-04 10:07:10,FalseOil processing,2021-05-13 18:06:39,12688,Oil processing/zh,2021-09-11 06:52:45,FalseOil processing (research),2017-08-08 19:40:05,191,Oil processing (research)/zh,2018-07-12 07:44:00,FalseOil refinery,2021-05-30 11:26:11,2388,Oil refinery/zh,2018-03-06 13:04:56,TrueOptics (research),2018-06-07 09:29:14,246,Optics (research)/zh,2018-07-12 12:16:33,FalsePassive provider chest,2021-03-24 17:36:16,1459,Passive provider chest/zh,2018-06-28 07:13:49,TruePersonal battery,2020-08-18 00:30:24,904,Personal battery/zh,2021-04-09 11:29:15,FalsePersonal battery (research),2019-02-26 17:27:06,137,Personal battery (research)/zh,2019-02-26 17:27:12,FalsePersonal battery MK2,2020-09-10 08:15:05,1015,Personal battery MK2/zh,2021-04-09 11:29:14,FalsePersonal battery MK2 (research),2019-02-26 17:28:19,121,Personal battery MK2 (research)/zh,2019-02-26 17:28:54,FalsePersonal laser defense,2021-03-11 17:18:21,1080,Personal laser defense/zh,2018-07-26 03:45:27,TruePersonal laser defense (research),2017-07-19 16:40:36,143,Personal laser defense (research)/zh,2018-07-12 12:50:24,FalsePersonal roboport,2020-09-17 03:04:08,2343,Personal roboport/zh,2018-11-14 17:52:28,TruePersonal roboport (research),2017-09-04 13:45:36,116,Personal roboport (research)/zh,2018-07-12 12:51:08,FalsePersonal roboport MK2,2020-09-17 03:04:47,2140,Personal roboport MK2/zh,2018-11-16 08:27:35,TruePersonal roboport MK2 (research),2020-09-11 22:08:16,455,Personal roboport MK2 (research)/zh,2019-05-02 19:45:17,TruePetroleum gas,2021-04-09 09:29:50,1411,Petroleum gas/zh,2020-05-27 10:50:18,TruePhysical projectile damage (research),2020-10-19 17:14:41,2995,Physical projectile damage (research)/zh,2019-12-24 04:57:07,TruePiercing rounds magazine,2021-10-29 16:56:03,410,Piercing rounds magazine/zh,2017-09-04 19:55:36,TruePiercing shotgun shells,2021-10-29 16:56:12,312,Piercing shotgun shells/zh,2018-07-18 08:15:46,TruePipe,2020-09-14 08:25:19,2246,Pipe/zh,2018-06-20 08:13:11,TruePipe to ground,2020-09-24 08:44:50,2040,Pipe to ground/zh,2018-06-20 08:31:06,TruePistol,2020-05-06 22:18:38,415,Pistol/zh,2017-08-14 17:43:04,TruePlastic bar,2021-10-06 10:16:19,465,Plastic bar/zh,2017-09-09 16:10:33,TruePlastics (research),2018-08-10 07:35:48,294,Plastics (research)/zh,2022-01-22 06:22:28,FalsePlayer,2021-12-13 19:35:13,8147,Player/zh,2020-11-26 17:28:39,TruePoison capsule,2020-08-13 09:48:49,1708,Poison capsule/zh,2018-07-19 08:23:48,TruePollution,2022-01-17 14:43:23,9014,Pollution/zh,2019-04-27 17:42:54,TruePortable fusion reactor,2020-10-12 03:01:49,1357,Portable fusion reactor/zh,2018-07-26 03:30:58,TruePortable fusion reactor (research),2017-07-19 16:44:40,144,Portable fusion reactor (research)/zh,2018-07-12 12:52:30,FalsePortable solar panel,2020-08-15 02:51:35,1333,Portable solar panel/zh,2018-07-26 03:21:50,TruePortable solar panel (research),2017-07-19 16:46:20,141,Portable solar panel (research)/zh,2018-07-12 12:53:32,FalsePower armor,2021-10-29 16:56:17,764,Power armor/zh,2018-07-26 02:45:06,TruePower armor (research),2017-07-19 16:47:38,132,Power armor (research)/zh,2018-07-12 09:46:24,FalsePower armor MK2,2021-10-29 16:56:19,1068,Power armor MK2/zh,2018-07-26 03:06:13,TruePower armor MK2 (research),2019-05-02 19:52:17,134,Power armor MK2 (research)/zh,2019-05-02 19:52:47,FalsePower production,2020-10-27 13:19:54,6281,Power production/zh,2018-07-26 16:59:43,TruePower switch,2020-07-15 09:22:45,1972,Power switch/zh,2018-07-10 08:36:57,TrueProcessing unit,2020-09-17 06:15:51,881,Processing unit/zh,2017-08-17 11:44:22,TrueProduction science pack,2021-02-13 02:54:13,2374,Production science pack/zh,2018-07-18 02:41:32,TrueProduction science pack (research),2020-09-14 06:49:46,202,Production science pack (research)/zh,2022-01-22 04:24:23,FalseProductivity module,2020-12-25 18:49:42,1615,Productivity module/zh,2018-07-18 06:24:32,TrueProductivity module (research),2017-07-19 16:51:14,134,Productivity module (research)/zh,2018-07-12 12:59:12,FalseProductivity module 2,2020-12-25 18:50:38,1625,Productivity module 2/zh,2018-07-18 06:26:55,TrueProductivity module 2 (research),2017-07-19 16:51:22,131,Productivity module 2 (research)/zh,2018-07-12 13:00:41,FalseProductivity module 3,2020-12-25 18:50:57,1581,Productivity module 3/zh,2018-07-18 06:27:54,TrueProductivity module 3 (research),2017-07-19 16:51:34,131,Productivity module 3 (research)/zh,2018-07-12 13:01:16,FalseProgrammable speaker,2021-11-17 16:07:50,2338,Programmable speaker/zh,2018-07-10 05:49:25,TrueProvider chest,2020-10-01 15:37:23,501,Provider chest/zh,2018-06-28 05:39:52,TruePump,2020-09-12 23:27:02,3117,Pump/zh,2018-07-10 22:33:29,TruePumpjack,2020-09-08 11:57:47,2138,Pumpjack/zh,2020-05-27 10:30:52,TrueRadar,2021-12-10 18:16:10,6148,Radar/zh,2018-06-19 09:52:19,TrueRail,2021-03-19 15:18:56,1657,Rail/zh,2021-03-19 15:19:27,FalseRail chain signal,2021-03-19 15:19:55,4146,Rail chain signal/zh,2021-03-19 15:20:14,FalseRail planner,2019-04-26 09:25:20,2962,Rail planner/zh,2017-09-04 19:43:10,TrueRail signal,2021-03-19 15:19:40,3457,Rail signal/zh,2021-03-19 15:19:58,FalseRail signals (research),2017-09-04 13:40:31,217,Rail signals (research)/zh,2018-07-12 12:36:35,FalseRailway,2021-08-13 18:29:11,16023,Railway/zh,2019-07-13 14:58:18,TrueRailway (research),2017-07-19 16:53:22,309,Railway (research)/zh,2018-07-12 12:38:56,FalseRaw fish,2021-04-04 02:25:11,2466,Raw fish/zh,2019-01-08 07:27:31,TrueRed wire,2020-09-08 15:09:46,1213,Red wire/zh,2018-07-04 08:12:08,TrueRefined concrete,2018-12-19 17:47:38,1068,Refined concrete/zh,2018-07-04 09:00:13,TrueRefined hazard concrete,2019-09-16 07:32:16,383,Refined hazard concrete/zh,2018-07-04 09:05:14,TrueRepair pack,2020-06-11 09:12:41,835,Repair pack/zh,2020-12-05 01:38:29,FalseRequester chest,2021-03-25 15:55:54,2750,Requester chest/zh,2018-07-17 21:05:40,TrueResearch,2020-05-12 08:17:00,5674,Research/zh,2018-07-12 10:59:13,TrueRoadmap,2021-03-01 11:54:33,788,Roadmap/zh,2018-07-13 08:29:50,TrueRoboport,2022-01-13 17:19:43,4876,Roboport/zh,2018-07-04 09:18:48,TrueRobotics (research),2017-07-19 16:56:35,109,Robotics (research)/zh,2018-07-12 12:20:40,FalseRobots,2019-03-28 14:42:20,124,Robots/zh,2022-01-22 03:39:52,FalseRocket,2021-10-29 16:55:57,776,Rocket/zh,2018-07-19 02:48:23,TrueRocket control unit,2021-02-25 18:50:57,313,Rocket control unit/zh,2018-07-18 03:41:37,TrueRocket control unit (research),2019-06-18 10:11:18,118,Rocket control unit (research)/zh,2021-11-15 18:13:52,FalseRocket damage (research),2019-03-05 08:15:21,2079,Rocket damage (research)/zh,2019-02-28 12:26:02,TrueRocket fuel,2019-09-16 04:07:23,1074,Rocket fuel/zh,2018-07-18 08:39:14,TrueRocket fuel (research),2020-10-27 13:14:51,247,Rocket fuel (research)/zh,2021-11-15 18:10:45,FalseRocket launcher,2021-10-29 16:55:53,595,Rocket launcher/zh,2017-08-14 17:50:17,TrueRocket part,2019-09-16 11:00:36,4000,Rocket part/zh,2018-07-18 03:39:30,TrueRocket shooting speed (research),2019-03-05 08:15:27,2160,Rocket shooting speed (research)/zh,2019-02-28 12:25:53,TrueRocket silo,2021-11-12 16:22:58,5906,Rocket silo/zh,2021-03-19 15:05:49,TrueRocket silo (research),2021-08-06 17:26:23,3018,Rocket silo (research)/zh,2018-11-01 17:28:55,TrueRocketry (research),2017-07-19 16:59:15,109,Rocketry (research)/zh,2018-07-12 08:55:12,FalseSatellite,2021-03-19 15:05:47,600,Satellite/zh,2021-03-19 15:06:08,FalseScience pack,2021-11-04 19:14:44,6350,Science pack/zh,2021-08-06 17:30:19,TrueShotgun,2021-10-29 16:56:07,1299,Shotgun/zh,2018-07-18 07:28:02,TrueShotgun shell damage (research),2019-03-05 08:15:28,2196,Shotgun shell damage (research)/zh,2019-02-28 12:25:56,TrueShotgun shell shooting speed (research),2019-03-05 08:15:25,1825,Shotgun shell shooting speed (research)/zh,2019-02-28 12:25:48,TrueShotgun shells,2021-10-29 16:56:10,289,Shotgun shells/zh,2022-01-22 06:19:41,FalseSlowdown capsule,2020-08-13 09:34:09,737,Slowdown capsule/zh,2018-07-19 08:16:54,TrueSmall electric pole,2019-09-16 07:13:24,1479,Small electric pole/zh,2018-06-19 09:03:27,TrueSolar energy (research),2020-09-12 22:31:09,190,Solar energy (research)/zh,2022-01-22 04:09:24,FalseSolar panel,2019-02-15 21:34:39,2896,Solar panel/zh,2017-09-09 16:32:10,TrueSolid fuel,2019-09-16 10:49:37,2106,Solid fuel/zh,2017-08-17 10:41:44,TrueSpace science pack,2020-09-17 18:18:07,2941,Space science pack/zh,2018-07-18 03:13:14,TrueSpace science pack (research),2020-06-29 12:49:02,377,Space science pack (research)/zh,2019-12-24 05:19:58,TrueSpeed module,2020-12-25 05:47:11,1309,Speed module/zh,2018-07-18 04:58:44,TrueSpeed module (research),2017-07-19 17:04:27,127,Speed module (research)/zh,2018-07-12 13:00:07,FalseSpeed module 2,2020-12-25 05:47:54,1083,Speed module 2/zh,2018-07-18 05:01:07,TrueSpeed module 2 (research),2017-07-19 17:04:35,129,Speed module 2 (research)/zh,2018-07-12 13:01:47,FalseSpeed module 3,2020-12-25 05:48:12,1131,Speed module 3/zh,2018-07-18 05:06:55,TrueSpeed module 3 (research),2017-07-19 17:04:48,129,Speed module 3 (research)/zh,2018-07-12 13:03:49,FalseSpidertron,2021-05-25 10:34:19,4260,Spidertron/zh,2021-09-11 15:06:48,FalseSpidertron (research),2020-08-14 09:08:22,149,Spidertron (research)/zh,2021-11-15 17:53:49,FalseSpidertron remote,2020-11-27 15:03:16,1700,Spidertron remote/zh,2021-09-11 14:31:50,FalseSplitter,2019-09-13 22:57:43,1639,Splitter/zh,2019-11-21 03:59:31,FalseSplitters,2017-09-02 17:43:03,149,Splitters/zh,2018-06-23 08:55:09,FalseStack,2021-11-24 11:08:52,6763,Stack/zh,2018-08-25 17:51:41,TrueStack filter inserter,2019-09-16 04:30:01,1554,Stack filter inserter/zh,2018-06-19 08:45:18,TrueStack inserter,2021-01-22 15:58:48,2310,Stack inserter/zh,2018-06-19 08:28:53,TrueStack inserter (research),2018-11-30 19:42:13,308,Stack inserter (research)/zh,2018-07-12 08:32:19,TrueSteam,2021-05-23 04:30:05,2634,Steam/zh,2018-07-17 10:07:58,TrueSteam engine,2020-04-29 05:17:26,2272,Steam engine/zh,2018-07-10 09:11:09,TrueSteam turbine,2020-10-26 12:01:55,1717,Steam turbine/zh,2018-07-17 04:28:21,TrueSteel axe,2019-09-17 11:19:17,1345,Steel axe/zh,2019-02-26 17:18:33,TrueSteel axe (research),2020-10-24 08:35:17,207,Steel axe (research)/zh,2022-01-22 04:28:24,FalseSteel chest,2018-12-06 12:05:20,566,Steel chest/zh,2018-06-17 13:58:22,TrueSteel furnace,2019-03-17 04:26:54,1967,Steel furnace/zh,2017-09-02 19:47:24,TrueSteel plate,2019-04-07 12:30:39,840,Steel plate/zh,2017-09-09 16:24:39,TrueSteel processing (research),2017-09-04 18:44:53,383,Steel processing (research)/zh,2018-07-12 12:22:30,FalseStone,2018-08-25 10:38:45,666,Stone/zh,2017-09-09 16:22:46,TrueStone brick,2019-09-16 07:26:00,1784,Stone brick/zh,2018-07-04 08:47:04,TrueStone furnace,2020-09-16 08:22:02,1398,Stone furnace/zh,2017-09-02 19:45:49,TrueStone wall (research),2020-11-23 20:55:47,111,Stone wall (research)/zh,2020-11-23 20:56:11,FalseStorage,2019-03-05 13:34:49,2442,Storage/zh,2018-07-09 03:47:39,TrueStorage chest,2021-04-04 00:05:05,2410,Storage chest/zh,2018-06-28 07:34:01,TrueStorage tank,2021-01-06 10:28:09,3215,Storage tank/zh,2018-07-05 09:12:59,TrueSubmachine gun,2020-05-07 17:34:29,734,Submachine gun/zh,2017-08-14 17:46:06,TrueSubstation,2019-09-16 07:14:13,902,Substation/zh,2018-06-20 07:17:36,TrueSulfur,2021-10-06 10:16:18,575,Sulfur/zh,2018-07-11 11:40:10,TrueSulfur processing (research),2020-09-17 05:46:03,300,Sulfur processing (research)/zh,2018-07-12 12:24:12,TrueSulfuric acid,2020-09-16 19:17:31,791,Sulfuric acid/zh,2017-09-09 16:25:48,TrueTank,2021-10-29 16:56:21,6178,Tank/zh,2018-06-28 06:13:07,TrueTank (research),2020-11-23 20:55:02,105,Tank (research)/zh,2020-11-23 20:55:25,FalseTechnologies,2020-08-15 22:35:03,9988,Technologies/zh,2019-03-10 19:42:00,TrueTile,2019-03-28 15:41:04,4751,Tile/zh,2014-10-26 11:57:26,TrueTime,2020-12-26 02:22:44,3505,Time/zh,2020-12-11 18:48:29,TrueToolbelt (research),2019-09-15 06:37:02,152,Toolbelt (research)/zh,2022-01-22 04:03:02,FalseTrain stop,2021-03-19 15:19:22,4374,Train stop/zh,2021-03-19 15:19:44,FalseTransport,2019-03-30 12:56:25,430,Transport/zh,2018-07-14 01:32:12,TrueTransport belt,2019-11-07 12:31:05,2653,Transport belt/zh,2019-11-21 03:39:47,FalseTransport belts,2017-09-02 17:02:21,201,Transport belts/zh,2018-06-23 08:55:15,FalseTree,2021-11-09 03:30:37,4256,Tree/zh,2018-11-17 04:32:22,TrueTurret,2020-04-29 03:42:10,299,Turret/zh,2022-01-22 06:26:24,FalseTutorials,2021-12-17 17:20:47,1602,Tutorials/zh,2015-07-29 02:41:17,TrueUnderground belt,2020-09-12 23:32:42,935,Underground belt/zh,2019-11-21 04:05:18,TrueUnderground belts,2017-09-02 17:03:29,181,Underground belts/zh,2018-06-23 08:55:52,FalseUnits,2021-09-23 17:47:25,6075,Units/zh,2017-09-04 19:52:55,TrueUpcoming features,2021-03-01 11:54:31,963,Upcoming features/zh,2018-06-23 09:17:08,TrueUranium-235,2020-01-08 17:17:11,829,Uranium-235/zh,2018-07-17 10:17:57,TrueUranium-238,2020-09-11 21:25:42,660,Uranium-238/zh,2019-01-25 20:08:31,TrueUranium ammo (research),2020-09-25 03:39:28,333,Uranium ammo (research)/zh,2018-07-12 08:58:49,TrueUranium cannon shell,2021-10-29 16:56:32,1229,Uranium cannon shell/zh,2018-07-19 02:07:44,TrueUranium fuel cell,2018-10-07 14:49:05,711,Uranium fuel cell/zh,2018-07-17 14:18:18,TrueUranium ore,2019-01-27 23:03:59,1325,Uranium ore/zh,2018-07-17 08:35:12,TrueUranium processing,2021-04-20 06:26:52,2798,Uranium processing/zh,2018-07-18 02:36:10,TrueUranium processing (research),2020-09-14 06:46:21,330,Uranium processing (research)/zh,2019-12-24 05:39:50,TrueUranium rounds magazine,2021-10-29 16:56:30,374,Uranium rounds magazine/zh,2018-07-18 08:13:02,TrueUsed up uranium fuel cell,2018-07-17 21:20:53,419,Used up uranium fuel cell/zh,2018-07-17 21:21:10,FalseUtility science pack,2020-09-17 18:17:27,3016,Utility science pack/zh,2019-02-26 17:26:31,TrueUtility science pack (research),2020-09-14 06:49:50,193,Utility science pack (research)/zh,2021-09-11 13:59:30,FalseVehicle,2020-10-27 13:15:15,271,Vehicle/zh,2018-07-18 23:46:19,TrueWagon,2017-12-24 14:31:19,260,Wagon/zh,2018-07-04 10:09:45,FalseWall,2022-01-12 04:26:21,3412,Wall/zh,2019-02-26 17:26:50,TrueWater,2021-03-15 18:41:35,2466,Water/zh,2017-12-25 13:35:08,TrueWeapon shooting speed (research),2019-04-12 14:42:48,2533,Weapon shooting speed (research)/zh,2019-12-24 04:36:41,FalseWeapons,2017-09-02 17:08:36,435,Weapons/zh,2018-07-18 23:49:47,FalseWood,2020-12-11 19:06:12,775,Wood/zh,2019-02-26 17:23:56,TrueWood (archived),2019-02-26 17:16:45,268,Wood (archived)/zh,2019-02-26 17:17:49,FalseWooden chest,2019-02-27 10:02:19,608,Wooden chest/zh,2020-08-17 13:24:49,FalseWorker robot cargo size (research),2019-05-09 07:09:10,1350,Worker robot cargo size (research)/zh,2019-02-28 12:25:41,TrueWorker robot speed (research),2019-11-03 13:10:28,3518,Worker robot speed (research)/zh,2019-02-28 12:25:51,TrueAchievement file format,2020-04-29 04:08:09,6544,Achievement file format/zh,,TrueBlueprint library,2021-11-17 11:05:38,2039,Blueprint library/zh,,TrueBlueprint string format,2020-09-17 01:15:46,11744,Blueprint string format/zh,,TrueCommand line parameters,2021-11-24 12:01:10,11498,Command line parameters/zh,,TrueData.raw,2021-06-18 15:56:14,85371,Data.raw/zh,,TrueData types,2019-06-17 20:08:00,4635,Data types/zh,,TrueDesynchronization,2019-08-10 23:12:09,9652,Desynchronization/zh,,TrueDownload API,2020-08-12 09:28:59,4790,Download API/zh,,TrueFluids,2020-08-17 10:34:55,174,Fluids/zh,,TrueGhost,2021-05-07 09:25:48,5269,Ghost/zh,,TrueGlossary,2021-09-10 10:44:52,18145,Glossary/zh,,TrueIron working (research),2018-01-04 12:59:23,164,Iron working (research)/zh,,TrueLog file,2019-05-02 08:05:22,3363,Log file/zh,,TrueMap exchange string format,2021-12-10 12:45:49,19489,Map exchange string format/zh,,TrueMap structure,2021-11-29 10:12:39,4577,Map structure/zh,,TrueMatchmaking API,2017-01-27 17:12:38,4483,Matchmaking API/zh,,TrueMilitary units and structures,2021-07-03 21:40:45,4395,Military units and structures/zh,,TrueMod portal API,2020-08-12 09:43:46,8878,Mod portal API/zh,,TrueMod settings file format,2019-04-27 20:38:12,1307,Mod settings file format/zh,,TrueNews,2021-06-18 14:12:21,4987,News/zh,,TrueProduction statistics,2019-04-12 08:59:07,2334,Production statistics/zh,,TrueProperty tree,2021-07-01 16:57:23,1477,Property tree/zh,,TrueQuickbar,2021-05-10 10:09:50,8602,Quickbar/zh,,TrueRefined flammables (research),2020-10-24 04:58:42,2450,Refined flammables (research)/zh,,TrueReplay system,2022-01-19 11:32:03,2921,Replay system/zh,,TrueRich text,2020-12-02 11:27:03,6677,Rich text/zh,,TrueRock,2020-05-06 10:16:33,531,Rock/zh,,TrueScenario system,2021-11-15 00:38:42,3146,Scenario system/zh,,TrueShortcut bar,2020-11-16 13:00:02,2044,Shortcut bar/zh,,TrueStronger explosives (research),2021-08-30 04:33:04,2830,Stronger explosives (research)/zh,,TrueSupply challenge,2021-12-04 22:53:16,3151,Supply challenge/zh,,TrueTutorial,2021-11-17 11:08:13,1841,Tutorial/zh,,TrueUpgrade planner,2021-03-22 12:34:27,10398,Upgrade planner/zh,,TrueUranium,2021-03-01 12:12:44,790,Uranium/zh,,TrueVersion history,2021-01-19 16:21:11,1341,Version history/zh,,TrueVersion string format,2018-03-20 20:26:21,762,Version string format/zh,,TrueWave defense,2021-11-17 14:57:25,8149,Wave defense/zh,,TrueWeb authentication API,2017-08-25 19:04:47,982,Web authentication API/zh,,True
+en_name,en_time,en_len,zh_name,zh_time,need_update
+Accumulator,2019-11-07 12:43:07,5690,Accumulator/zh,2018-11-18 11:09:30,True
+Achievements,2021-02-18 14:21:11,6558,Achievements/zh,2018-07-05 09:45:32,True
+Active provider chest,2020-09-24 09:10:58,1552,Active provider chest/zh,2018-06-28 06:28:31,True
+Advanced circuit,2019-04-07 10:58:14,1181,Advanced circuit/zh,2018-11-20 11:38:54,True
+Advanced electronics (research),2017-09-04 12:54:02,230,Advanced electronics (research)/zh,2018-07-12 07:02:06,False
+Advanced electronics 2 (research),2018-11-20 11:39:35,232,Advanced electronics 2 (research)/zh,2022-01-22 05:28:54,False
+Advanced material processing (research),2017-07-19 15:00:25,129,Advanced material processing (research)/zh,2018-07-12 11:01:15,False
+Advanced material processing 2 (research),2017-07-31 18:47:20,281,Advanced material processing 2 (research)/zh,2018-07-12 11:03:59,False
+Advanced oil processing (research),2017-07-19 15:00:39,696,Advanced oil processing (research)/zh,2018-07-12 11:41:51,False
+Alerts,2020-11-27 13:30:04,3036,Alerts/zh,2018-07-10 06:14:29,True
+Alien artifact,2017-08-17 12:32:01,1102,Alien artifact/zh,2017-09-10 19:29:20,False
+Alien technology (research),2017-07-19 15:00:58,374,Alien technology (research)/zh,2017-08-08 19:42:17,False
+Ammunition,2021-03-19 14:31:27,920,Ammunition/zh,2018-07-17 07:04:46,True
+Application Directory/Changing the save directory,2019-06-14 18:15:16,34,Application Directory/Changing the save directory/zh,,True
+Application directory,2022-01-17 15:25:59,3957,Application directory/zh,2019-03-14 12:28:45,True
+Application directory/Changing the save directory,2019-06-14 18:15:18,34,Application directory/Changing the save directory/zh,,True
+Arithmetic combinator,2021-12-17 17:18:02,4782,Arithmetic combinator/zh,2018-07-10 07:54:08,True
+Armor,2021-07-11 21:58:57,427,Armor/zh,2018-07-18 23:42:50,True
+Artillery,2018-06-23 09:05:18,164,Artillery/zh,2018-07-04 10:10:56,False
+Artillery (research),2017-12-16 17:18:48,109,Artillery (research)/zh,2018-07-12 09:54:56,False
+Artillery shell,2018-12-03 12:04:52,833,Artillery shell/zh,2018-11-20 13:35:21,True
+Artillery shell range (research),2019-04-12 04:28:33,763,Artillery shell range (research)/zh,2019-02-28 12:26:03,True
+Artillery shell shooting speed (research),2019-04-12 04:28:46,817,Artillery shell shooting speed (research)/zh,2019-02-28 12:26:03,True
+Artillery targeting remote,2020-11-25 15:24:55,1200,Artillery targeting remote/zh,2018-07-25 03:44:28,True
+Artillery turret,2021-03-01 01:44:35,4171,Artillery turret/zh,2018-06-27 10:07:19,True
+Artillery wagon,2021-04-09 09:14:01,7213,Artillery wagon/zh,2021-03-19 15:31:36,True
+Assembling machine,2020-11-28 07:29:40,409,Assembling machine/zh,2018-06-23 08:54:12,True
+Assembling machine 1,2021-03-15 17:35:20,1937,Assembling machine 1/zh,2017-09-10 09:37:48,True
+Assembling machine 2,2021-03-15 17:34:14,2610,Assembling machine 2/zh,2018-11-20 13:59:44,True
+Assembling machine 3,2021-03-15 17:35:57,2198,Assembling machine 3/zh,2017-09-10 09:38:17,True
+Atomic bomb,2021-10-29 16:56:36,1382,Atomic bomb/zh,2018-07-19 03:09:09,True
+Atomic bomb (research),2018-08-04 04:12:27,208,Atomic bomb (research)/zh,2022-01-22 04:53:40,False
+Automated rail transportation (research),2017-07-19 15:02:05,346,Automated rail transportation (research)/zh,2018-07-12 12:28:05,False
+Automatic control/Virtual signals,2017-08-30 16:09:08,44,Automatic control/Virtual signals/zh,,True
+Automation (research),2021-02-16 11:10:00,363,Automation (research)/zh,2022-01-23 02:45:58,False
+Automation 2 (research),2021-03-11 02:42:04,240,Automation 2 (research)/zh,2022-01-22 05:42:23,False
+Automation 3 (research),2018-12-01 21:26:14,250,Automation 3 (research)/zh,2022-01-22 05:44:44,False
+Automation science pack,2019-09-16 15:35:37,1389,Automation science pack/zh,2019-02-26 17:24:40,True
+Automobilism (research),2017-07-19 15:02:32,180,Automobilism (research)/zh,2018-07-12 12:30:35,False
+Balancer mechanics,2020-11-23 11:18:07,5421,Balancer mechanics/zh,2019-12-03 11:56:54,True
+Barrel,2020-09-17 05:20:31,5314,Barrel/zh,2018-07-11 11:18:24,True
+Battery,2020-09-24 02:01:31,1208,Battery/zh,2018-11-17 12:00:44,True
+Battery (research),2022-01-22 05:05:35,222,Battery (research)/zh,2022-01-22 05:09:55,False
+Beacon,2020-08-17 10:39:04,10713,Beacon/zh,2022-01-24 04:38:22,False
+Belt immunity equipment,2020-08-15 03:09:07,569,Belt immunity equipment/zh,2021-10-01 17:29:49,False
+Belt immunity equipment (research),2019-06-17 21:10:32,279,Belt immunity equipment (research)/zh,2021-11-15 18:18:52,False
+Belt transport system,2021-06-22 08:42:08,13019,Belt transport system/zh,2020-08-23 23:21:27,True
+Big electric pole,2021-03-14 13:11:25,1533,Big electric pole/zh,2018-06-20 06:48:47,True
+Blueprint,2021-10-06 10:10:30,9010,Blueprint/zh,2018-11-26 13:07:02,True
+Blueprint book,2021-03-11 17:46:01,3373,Blueprint book/zh,2018-11-16 21:25:47,True
+Blueprint library,2021-11-17 11:05:38,2039,Blueprint library/zh,2022-01-24 06:16:43,False
+Boiler,2021-06-22 09:03:55,1909,Boiler/zh,2018-07-10 07:35:53,True
+Braking force (research),2020-10-17 16:50:33,2080,Braking force (research)/zh,2019-02-28 12:26:19,True
+Buffer chest,2021-03-25 15:55:54,2120,Buffer chest/zh,2018-07-04 03:44:58,True
+Bullet damage (research),2019-03-05 08:15:33,2141,Bullet damage (research)/zh,2019-02-28 12:25:54,True
+Bullet shooting speed (research),2019-03-05 08:15:26,1749,Bullet shooting speed (research)/zh,2019-02-28 12:25:53,True
+Burner devices,2021-03-19 14:22:00,934,Burner devices/zh,2018-06-23 08:54:44,True
+Burner inserter,2021-07-19 09:51:08,3623,Burner inserter/zh,2018-06-19 06:39:30,True
+Burner mining drill,2020-04-29 04:04:28,3290,Burner mining drill/zh,2017-08-14 19:17:01,True
+Cannon shell,2021-10-29 16:56:23,1115,Cannon shell/zh,2018-07-19 01:53:11,True
+Cannon shell damage (research),2019-03-05 08:15:30,2112,Cannon shell damage (research)/zh,2019-02-28 12:26:17,True
+Cannon shell shooting speed (research),2019-03-05 08:15:35,1720,Cannon shell shooting speed (research)/zh,2019-02-28 12:26:14,True
+Capsules,2021-05-14 09:57:25,228,Capsules/zh,2022-01-22 05:22:55,False
+Car,2020-08-14 23:17:12,5005,Car/zh,2018-06-28 05:18:50,True
+Cargo wagon,2022-01-14 18:52:55,3399,Cargo wagon/zh,2021-03-19 15:31:00,True
+Centrifuge,2021-02-07 11:37:26,638,Centrifuge/zh,2018-07-17 08:51:57,True
+Chemical plant,2020-09-27 01:52:20,1227,Chemical plant/zh,2017-09-10 12:25:05,True
+Chemical science pack,2020-05-19 15:41:45,2421,Chemical science pack/zh,2019-02-26 17:25:49,True
+Chemical science pack (research),2020-09-14 06:49:52,202,Chemical science pack (research)/zh,2020-12-04 15:42:04,False
+Chests,2018-02-04 13:13:31,683,Chests/zh,2018-07-09 02:36:02,False
+Circuit network,2021-12-17 17:18:24,18531,Circuit network/zh,2018-07-13 12:12:51,True
+Circuit network (research),2018-07-12 11:52:49,346,Circuit network (research)/zh,2018-07-12 11:54:06,False
+Cliff,2021-02-26 09:06:34,1678,Cliff/zh,2018-07-04 09:28:03,True
+Cliff explosives,2019-01-08 06:10:25,480,Cliff explosives/zh,2019-01-08 06:11:50,False
+Cliff explosives (research),2017-12-13 19:02:28,116,Cliff explosives (research)/zh,2018-07-12 11:54:50,False
+Cluster grenade,2021-10-29 16:56:28,739,Cluster grenade/zh,2018-07-19 07:32:01,True
+Coal,2019-04-03 21:26:22,880,Coal/zh,2017-09-09 16:08:24,True
+Coal liquefaction (research),2018-11-27 13:16:12,231,Coal liquefaction (research)/zh,2022-01-22 05:26:25,False
+Combat robot capsules,2018-02-15 16:08:13,176,Combat robot capsules/zh,2018-07-04 10:04:40,False
+Combat robot damage (research),2019-03-05 08:15:34,2048,Combat robot damage (research)/zh,2019-02-28 12:25:52,True
+Combat shotgun,2021-10-29 16:56:09,399,Combat shotgun/zh,2018-07-18 07:50:51,True
+Combinators,2018-07-10 03:50:57,322,Combinators/zh,2018-07-10 03:52:37,False
+Command line parameters,2021-11-24 12:01:10,11498,Command line parameters/zh,,True
+Concrete,2019-09-16 07:28:54,1529,Concrete/zh,2018-07-04 08:51:32,True
+Concrete (research),2017-07-19 15:46:03,109,Concrete (research)/zh,2018-07-12 11:58:53,False
+Console,2021-12-26 20:38:22,34017,Console/zh,2019-05-02 17:23:40,True
+Constant combinator,2021-12-17 17:17:58,1776,Constant combinator/zh,2022-01-23 04:04:02,False
+Construction robot,2020-10-21 10:31:31,3184,Construction robot/zh,2018-06-28 05:59:56,True
+Construction robotics (research),2022-01-14 19:06:21,505,Construction robotics (research)/zh,2018-07-12 09:26:27,True
+Copper cable,2020-08-17 04:30:11,913,Copper cable/zh,2017-08-17 11:34:32,True
+Copper ore,2020-05-06 09:57:49,1049,Copper ore/zh,2017-09-10 18:12:10,True
+Copper plate,2018-07-30 18:03:46,662,Copper plate/zh,2017-08-17 10:39:17,True
+Crafting,2021-03-15 17:42:19,7319,Crafting/zh,2022-01-24 04:33:18,False
+Crude oil,2020-09-14 06:31:22,1594,Crude oil/zh,2017-09-09 16:25:43,True
+Damage,2021-12-20 21:24:07,5262,Damage/zh,2021-04-09 11:21:14,True
+Data.raw,2021-06-18 15:56:14,85371,Data.raw/zh,,True
+Debug mode,2020-11-25 14:25:35,7956,Debug mode/zh,2017-02-03 19:56:19,True
+Decider combinator,2021-12-17 17:18:00,5805,Decider combinator/zh,2018-07-10 08:26:43,True
+Deconstruction planner,2021-04-05 09:28:51,17932,Deconstruction planner/zh,2018-07-10 07:11:56,True
+Defender (research),2021-10-27 14:42:40,332,Defender (research)/zh,2022-01-22 16:05:11,False
+Defender capsule,2020-01-25 19:44:27,1685,Defender capsule/zh,2018-07-24 01:39:07,True
+Destroyer (research),2020-11-23 21:23:58,109,Destroyer (research)/zh,2020-11-23 21:24:00,False
+Destroyer capsule,2020-01-25 19:44:57,1504,Destroyer capsule/zh,2018-07-24 01:39:10,True
+Discharge defense,2020-09-09 21:25:31,804,Discharge defense/zh,2018-07-26 03:50:49,True
+Discharge defense (research),2017-07-19 15:51:23,118,Discharge defense (research)/zh,2018-07-12 12:43:44,False
+Discharge defense remote,2020-11-25 15:24:41,260,Discharge defense remote/zh,2022-01-22 05:57:57,False
+Distractor (research),2020-11-23 21:18:19,110,Distractor (research)/zh,2020-11-23 21:18:18,True
+Distractor capsule,2021-03-11 17:21:03,1507,Distractor capsule/zh,2018-07-24 01:36:48,True
+Effect transmission (research),2020-09-14 06:54:08,199,Effect transmission (research)/zh,2022-01-22 04:16:11,False
+Efficiency module,2021-01-04 12:04:22,830,Efficiency module/zh,2018-07-18 05:09:44,True
+Efficiency module (research),2017-07-19 16:04:29,127,Efficiency module (research)/zh,2018-07-12 12:56:59,False
+Efficiency module 2,2020-12-25 18:53:26,832,Efficiency module 2/zh,2018-07-18 05:12:07,True
+Efficiency module 2 (research),2017-07-19 16:04:56,129,Efficiency module 2 (research)/zh,2018-07-12 12:57:40,False
+Efficiency module 3,2020-12-25 18:53:45,832,Efficiency module 3/zh,2018-07-18 05:13:13,True
+Efficiency module 3 (research),2017-07-19 16:05:10,129,Efficiency module 3 (research)/zh,2018-07-12 12:58:20,False
+Electric energy accumulators (research),2020-09-12 22:26:45,306,Electric energy accumulators (research)/zh,2022-01-22 06:49:55,False
+Electric energy distribution 1 (research),2017-09-04 12:59:47,393,Electric energy distribution 1 (research)/zh,2018-07-12 07:30:28,False
+Electric energy distribution 2 (research),2018-08-30 10:36:17,348,Electric energy distribution 2 (research)/zh,2022-01-23 02:43:35,False
+Electric engine (research),2017-07-19 16:06:14,224,Electric engine (research)/zh,2018-07-12 12:05:14,False
+Electric engine unit,2019-09-16 05:26:18,477,Electric engine unit/zh,2017-09-02 19:38:12,True
+Electric furnace,2020-04-13 23:34:02,1498,Electric furnace/zh,2017-09-10 09:41:13,True
+Electric mining drill,2021-02-16 10:55:32,2669,Electric mining drill/zh,2017-09-10 09:35:48,True
+Electric system,2020-09-26 23:38:55,10671,Electric system/zh,2018-07-05 09:04:59,True
+Electronic circuit,2020-07-08 07:07:50,1308,Electronic circuit/zh,2017-08-17 11:39:06,True
+Electronics (research),2017-08-13 09:09:03,196,Electronics (research)/zh,2018-07-12 12:00:47,False
+Enemies,2022-01-06 01:22:24,22890,Enemies/zh,2020-12-31 07:32:43,True
+Energy and work,2021-12-12 20:21:54,7382,Energy and work/zh,2018-11-17 12:00:42,True
+Energy shield,2020-08-31 09:12:25,1745,Energy shield/zh,2018-11-15 13:44:33,True
+Energy shield MK2,2021-08-05 11:13:27,1702,Energy shield MK2/zh,2018-11-15 13:45:21,True
+Energy shield MK2 equipment (research),2021-10-11 13:55:21,226,Energy shield MK2 equipment (research)/zh,2022-01-22 05:19:38,False
+Energy shield equipment (research),2021-10-11 13:51:37,224,Energy shield equipment (research)/zh,2022-01-22 05:13:52,False
+Energy weapons damage (research),2021-11-08 10:20:42,2895,Energy weapons damage (research)/zh,2021-11-17 11:19:44,False
+Engine (research),2017-07-19 16:09:29,196,Engine (research)/zh,2018-07-12 12:03:27,False
+Engine unit,2019-09-16 10:17:11,641,Engine unit/zh,2017-09-09 16:08:25,True
+Equipment modules,2021-10-27 14:26:45,1339,Equipment modules/zh,2018-11-17 12:01:31,True
+Exoskeleton,2021-05-06 23:46:39,2539,Exoskeleton/zh,2018-07-27 04:34:14,True
+Exoskeleton equipment (research),2017-07-19 16:10:00,221,Exoskeleton equipment (research)/zh,2018-07-12 12:48:18,False
+Explosive cannon shell,2021-10-29 16:56:27,1424,Explosive cannon shell/zh,2021-10-29 16:44:13,True
+Explosive rocket,2021-10-29 16:56:06,953,Explosive rocket/zh,2018-07-19 02:51:20,True
+Explosive rocketry (research),2017-08-14 00:43:23,296,Explosive rocketry (research)/zh,2018-07-12 08:58:07,False
+Explosive uranium cannon shell,2021-10-29 16:56:34,1581,Explosive uranium cannon shell/zh,2018-07-19 02:32:02,True
+Explosives,2019-12-22 20:27:06,366,Explosives/zh,2022-01-23 02:56:46,False
+Explosives (research),2020-09-20 00:16:21,304,Explosives (research)/zh,2022-01-22 06:40:18,False
+Express splitter,2019-09-15 08:30:48,1433,Express splitter/zh,2018-06-19 04:41:03,True
+Express transport belt,2021-02-25 10:24:56,3054,Express transport belt/zh,2018-07-26 15:58:40,True
+Express underground belt,2020-09-12 23:32:27,1271,Express underground belt/zh,2018-06-19 03:24:14,True
+Factorio HTTP API usage guidelines,2022-01-21 09:47:52,1361,Factorio HTTP API usage guidelines/zh,,True
+Fast inserter,2018-09-25 14:46:58,2013,Fast inserter/zh,2018-06-19 07:46:56,True
+Fast inserter (research),2019-10-10 13:49:12,112,Fast inserter (research)/zh,2019-12-24 05:06:10,False
+Fast splitter,2019-04-11 11:48:16,1358,Fast splitter/zh,2019-11-21 06:17:21,False
+Fast transport belt,2021-08-13 19:02:03,2490,Fast transport belt/zh,2021-08-13 19:01:57,True
+Fast underground belt,2020-09-12 23:31:13,1034,Fast underground belt/zh,2018-06-19 03:26:38,True
+Filter inserter,2019-09-16 04:30:26,1062,Filter inserter/zh,2018-06-19 09:08:34,True
+Firearm magazine,2020-05-07 17:34:05,459,Firearm magazine/zh,2017-10-21 13:01:15,True
+Flamethrower,2021-10-29 16:56:00,1164,Flamethrower/zh,2018-07-18 07:55:23,True
+Flamethrower (research),2017-07-19 16:14:42,112,Flamethrower (research)/zh,2018-07-12 08:48:56,False
+Flamethrower ammo,2021-10-29 16:55:58,613,Flamethrower ammo/zh,2018-07-19 03:47:30,True
+Flamethrower damage (research),2019-03-05 08:15:35,2705,Flamethrower damage (research)/zh,2019-02-28 12:26:21,True
+Flamethrower turret,2019-11-22 21:12:04,2329,Flamethrower turret/zh,2018-07-19 07:06:44,True
+Flammables (research),2017-08-14 00:32:32,242,Flammables (research)/zh,2018-07-12 12:08:00,False
+Flight (research),2019-02-26 17:23:17,118,Flight (research)/zh,2019-02-26 17:23:24,False
+Fluid handling (research),2020-09-17 00:19:09,652,Fluid handling (research)/zh,2018-07-11 09:24:31,True
+Fluid system,2022-01-11 22:05:19,11523,Fluid system/zh,2018-07-10 21:55:46,True
+Fluid wagon,2021-03-19 15:31:01,2187,Fluid wagon/zh,2021-03-19 15:31:22,False
+Fluid wagon (research),2018-01-07 13:23:45,306,Fluid wagon (research)/zh,2018-07-12 12:35:23,False
+Fluids,2020-08-17 10:34:55,174,Fluids/zh,,True
+Flying robot frame,2018-02-06 12:39:39,554,Flying robot frame/zh,2017-08-17 11:52:29,True
+Follower robot count (research),2021-04-09 11:16:47,2905,Follower robot count (research)/zh,2019-02-28 12:25:58,True
+Fuel,2021-05-25 06:10:28,3268,Fuel/zh,2018-07-10 10:13:48,True
+Furnace,2020-09-16 18:55:33,592,Furnace/zh,2018-06-23 08:54:22,True
+Game modes and options,2021-11-15 00:39:16,1466,Game modes and options/zh,2017-09-02 19:13:17,True
+Gate,2021-06-22 08:40:13,3157,Gate/zh,2018-07-13 17:47:08,True
+Gate (research),2020-11-23 20:58:33,210,Gate (research)/zh,2020-11-23 20:59:13,False
+Ghost,2021-05-07 09:25:48,5269,Ghost/zh,,True
+Glossary,2021-09-10 10:44:52,18145,Glossary/zh,,True
+Green wire,2020-09-08 15:10:38,1220,Green wire/zh,2018-07-04 08:12:11,True
+Grenade,2021-10-29 16:56:14,887,Grenade/zh,2019-05-16 13:33:34,True
+Grenade damage (research),2019-03-05 08:15:29,2168,Grenade damage (research)/zh,2019-02-28 12:26:21,True
+Gun turret,2020-04-30 23:42:56,1577,Gun turret/zh,2017-10-06 08:19:06,True
+Gun turret (research),2020-11-23 21:02:08,250,Gun turret (research)/zh,2022-01-22 05:49:44,False
+Gun turret damage (research),2019-03-05 08:15:31,2003,Gun turret damage (research)/zh,2019-02-28 12:25:47,True
+Hazard concrete,2019-09-16 07:31:08,364,Hazard concrete/zh,2022-01-23 02:50:13,False
+Heat exchanger,2019-09-13 23:48:17,2027,Heat exchanger/zh,2018-07-17 06:13:28,True
+Heat pipe,2019-09-13 23:47:06,1137,Heat pipe/zh,2018-07-17 08:15:25,True
+Heavy armor,2021-10-29 16:55:52,816,Heavy armor/zh,2018-07-26 02:26:46,True
+Heavy armor (research),2020-02-25 14:34:09,236,Heavy armor (research)/zh,2022-01-22 05:51:17,False
+Heavy oil,2022-01-04 13:16:26,1147,Heavy oil/zh,2021-08-06 17:35:34,True
+Inserter,2021-07-09 13:37:48,2665,Inserter/zh,2018-06-19 07:05:32,True
+Inserter capacity bonus (research),2020-09-18 08:48:05,4213,Inserter capacity bonus (research)/zh,2019-02-28 12:25:54,True
+Inserters,2021-02-25 10:31:12,18805,Inserters/zh,2018-07-09 18:06:48,True
+Install Guide/Add Factorio icon to system launcher,2017-01-07 19:48:46,27,Install Guide/Add Factorio icon to system launcher/zh,,True
+Install guide,2019-07-20 11:40:23,4492,Install guide/zh,2018-08-20 11:50:08,True
+Iron axe,2021-11-05 10:09:53,1161,Iron axe/zh,2019-02-26 17:18:14,True
+Iron chest,2018-12-06 12:03:43,657,Iron chest/zh,2018-06-17 15:40:28,True
+Iron gear wheel,2021-03-15 11:59:25,644,Iron gear wheel/zh,2017-08-17 11:37:07,True
+Iron ore,2018-11-07 17:42:02,217,Iron ore/zh,2022-01-22 05:00:04,False
+Iron plate,2021-10-01 17:13:56,800,Iron plate/zh,2017-08-17 10:37:52,True
+Iron stick,2021-03-15 11:17:19,392,Iron stick/zh,2017-08-17 11:35:34,True
+Iron working (research),2018-01-04 12:59:23,164,Iron working (research)/zh,,True
+Keyboard bindings,2021-11-12 16:25:20,13898,Keyboard bindings/zh,2018-07-13 17:42:25,True
+Kovarex enrichment process,2020-08-24 09:59:12,3287,Kovarex enrichment process/zh,2019-09-23 19:35:45,True
+Kovarex enrichment process (research),2020-05-01 12:40:39,306,Kovarex enrichment process (research)/zh,2022-01-22 07:21:06,False
+Lab,2020-11-23 11:26:40,3731,Lab/zh,2017-09-09 16:32:09,True
+Lab research speed (research),2019-03-05 08:15:19,1625,Lab research speed (research)/zh,2019-02-28 12:25:39,True
+Lamp,2021-03-14 12:57:40,2216,Lamp/zh,2018-07-04 07:41:10,True
+Land mine,2021-10-29 16:55:55,1657,Land mine/zh,2017-08-14 17:53:41,True
+Land mines (research),2019-07-15 20:06:47,111,Land mines (research)/zh,2019-07-15 20:06:46,True
+Landfill,2020-04-09 00:35:45,890,Landfill/zh,2018-07-04 09:10:13,True
+Landfill (research),2017-07-19 16:27:16,109,Landfill (research)/zh,2018-07-12 12:10:17,False
+Laser (research),2021-04-09 11:21:33,307,Laser (research)/zh,2021-04-09 11:26:20,False
+Laser shooting speed (research),2021-03-11 17:18:11,2911,Laser shooting speed (research)/zh,2021-04-09 11:25:24,False
+Laser turret,2020-09-30 02:22:07,1594,Laser turret/zh,2021-11-17 10:49:16,False
+Laser turret (research),2020-11-23 20:59:34,113,Laser turret (research)/zh,2020-11-23 21:00:02,False
+Laser turret damage (research),2021-04-09 11:30:34,2666,Laser turret damage (research)/zh,2021-04-09 11:30:35,False
+Light armor,2021-10-29 16:56:02,810,Light armor/zh,2018-07-26 02:16:53,True
+Light oil,2022-01-04 13:16:36,1180,Light oil/zh,2021-08-06 17:37:02,True
+Locomotive,2021-06-28 14:49:03,6631,Locomotive/zh,2021-03-19 15:30:39,True
+Log file,2019-05-02 08:05:22,3363,Log file/zh,,True
+Logistic network,2021-01-29 15:37:06,12388,Logistic network/zh,2020-10-21 11:30:24,True
+Logistic robot,2020-10-21 10:36:14,3859,Logistic robot/zh,2018-06-28 05:17:33,True
+Logistic robotics (research),2020-03-24 15:08:08,853,Logistic robotics (research)/zh,2018-07-12 09:40:53,True
+Logistic science pack,2019-09-16 15:35:55,1825,Logistic science pack/zh,2019-02-26 17:25:13,True
+Logistic science pack (research),2020-09-14 06:49:44,199,Logistic science pack (research)/zh,2020-12-04 15:51:44,False
+Logistic system (research),2020-03-24 15:28:04,139,Logistic system (research)/zh,2018-07-12 12:13:51,True
+Logistics (research),2018-04-24 11:59:41,196,Logistics (research)/zh,2018-07-12 07:32:46,False
+Logistics 2 (research),2017-09-04 18:49:48,285,Logistics 2 (research)/zh,2018-07-12 07:36:11,False
+Logistics 3 (research),2018-12-01 20:49:06,285,Logistics 3 (research)/zh,2022-01-22 06:15:39,False
+Long-handed inserter,2020-11-30 18:08:55,2362,Long-handed inserter/zh,2022-01-23 02:47:45,False
+Low density structure,2021-03-14 13:05:06,979,Low density structure/zh,2018-07-18 03:44:38,True
+Low density structure (research),2019-06-18 10:11:31,120,Low density structure (research)/zh,2019-12-24 05:12:29,False
+Lubricant,2019-09-16 05:12:55,530,Lubricant/zh,2017-12-25 13:35:08,True
+Lubricant (research),2019-06-18 10:06:51,108,Lubricant (research)/zh,2021-11-15 18:15:24,False
+Main Page,2020-12-11 18:15:55,1991,Main Page/zh,2020-12-11 18:17:19,False
+Main Page/Advanced,2019-07-16 15:16:08,294,Main Page/Advanced/zh,2018-06-17 21:45:47,True
+Main Page/Beginners,2020-05-06 09:57:35,344,Main Page/Beginners/zh,2020-05-12 08:04:20,False
+Main Page/Community,2021-01-12 10:20:28,437,Main Page/Community/zh,2018-06-17 21:35:48,True
+Main Page/Contribute,2018-07-30 15:52:33,360,Main Page/Contribute/zh,2018-07-05 01:44:47,True
+Main Page/Expert,2021-12-17 17:18:02,402,Main Page/Expert/zh,2019-02-23 16:29:52,True
+Main Page/Frequently asked questions,2017-06-18 20:04:58,297,Main Page/Frequently asked questions/zh,2018-06-17 21:27:45,False
+Main Page/Get the game,2020-08-21 11:58:47,389,Main Page/Get the game/zh,2017-12-16 04:29:19,True
+Main Page/Latest versions,2022-01-21 17:44:02,416,Main Page/Latest versions/zh,,True
+Main Page/Najczęściej zadawane pytania (FAQ),2015-11-17 21:30:59,53,Main Page/Najczęściej zadawane pytania (FAQ)/zh,,True
+Main Page/New content,2020-10-05 10:02:48,359,Main Page/New content/zh,2021-09-11 13:31:58,False
+Main Page/Novos Conteúdos,2017-09-12 03:58:45,41,Main Page/Novos Conteúdos/zh,,True
+Main Page/Społeczność,2015-11-18 13:55:15,36,Main Page/Społeczność/zh,,True
+Main Page/sandbox,2020-12-11 18:21:57,1824,Main Page/sandbox/zh,,True
+Map editor,2020-08-17 10:45:53,6016,Map editor/zh,2015-06-03 13:34:25,True
+Map generator,2021-05-03 12:00:45,18046,Map generator/zh,2020-05-06 10:07:13,True
+Map structure,2021-11-29 10:12:39,4577,Map structure/zh,,True
+Materials and recipes,2020-08-17 10:33:24,27,Materials and recipes/zh,2020-08-17 10:33:40,False
+Medium electric pole,2021-03-15 02:32:35,1366,Medium electric pole/zh,2018-06-20 06:32:32,True
+Military (research),2017-09-04 13:12:05,232,Military (research)/zh,2018-07-12 08:51:13,False
+Military 2 (research),2019-06-16 13:47:35,251,Military 2 (research)/zh,2022-01-22 05:53:25,False
+Military 3 (research),2017-07-19 16:34:05,111,Military 3 (research)/zh,2018-07-12 08:53:23,False
+Military 4 (research),2018-07-31 17:37:05,109,Military 4 (research)/zh,2022-01-22 03:28:47,False
+Military science pack,2020-09-17 23:21:29,2144,Military science pack/zh,2018-07-13 14:26:45,True
+Military science pack (research),2019-06-16 14:57:39,298,Military science pack (research)/zh,2020-12-04 15:59:13,False
+Military units and structures,2021-07-03 21:40:45,4395,Military units and structures/zh,,True
+Mining,2020-11-25 14:47:40,3513,Mining/zh,2020-11-25 14:48:51,False
+Mining drill,2018-09-01 12:24:02,151,Mining drill/zh,2022-01-22 03:54:18,False
+Mining productivity (research),2021-08-17 09:13:29,2143,Mining productivity (research)/zh,2019-02-28 12:26:33,True
+Modding,2021-11-08 21:06:07,5317,Modding/zh,2019-03-10 03:24:35,True
+Modular armor,2021-10-29 16:56:16,958,Modular armor/zh,2018-07-26 03:00:05,True
+Modular armor (research),2017-07-19 16:35:07,126,Modular armor (research)/zh,2018-07-12 09:45:02,False
+Module,2021-08-05 08:41:03,9131,Module/zh,2018-07-10 08:26:24,True
+Modules (research),2017-07-19 16:36:48,175,Modules (research)/zh,2018-07-12 12:54:48,False
+Multiplayer,2021-02-23 15:27:17,25128,Multiplayer/zh,2018-07-17 08:48:18,True
+News,2021-06-18 14:12:21,4987,News/zh,,True
+Nightvision,2019-10-07 20:35:53,1412,Nightvision/zh,2018-11-15 13:15:09,True
+Nightvision equipment (research),2017-07-19 16:37:00,143,Nightvision equipment (research)/zh,2018-07-12 12:49:35,False
+Nuclear fuel,2021-11-17 15:08:24,1370,Nuclear fuel/zh,2018-07-18 04:00:33,True
+Nuclear fuel reprocessing,2019-06-18 10:08:28,303,Nuclear fuel reprocessing/zh,2022-01-22 06:31:37,False
+Nuclear fuel reprocessing (research),2020-05-01 12:41:09,267,Nuclear fuel reprocessing (research)/zh,2022-01-22 06:04:48,False
+Nuclear power (research),2017-08-23 19:12:49,338,Nuclear power (research)/zh,2018-07-12 07:41:22,False
+Nuclear reactor,2021-04-22 03:05:48,4569,Nuclear reactor/zh,2018-07-17 03:56:51,True
+Offshore pump,2020-03-05 09:14:39,1802,Offshore pump/zh,2017-09-10 09:38:46,True
+Oil,2017-09-02 16:51:57,134,Oil/zh,2018-07-04 10:07:10,False
+Oil processing,2021-05-13 18:06:39,12688,Oil processing/zh,2021-09-11 06:52:45,False
+Oil processing (research),2017-08-08 19:40:05,191,Oil processing (research)/zh,2018-07-12 07:44:00,False
+Oil refinery,2021-05-30 11:26:11,2388,Oil refinery/zh,2018-03-06 13:04:56,True
+Optics (research),2018-06-07 09:29:14,246,Optics (research)/zh,2018-07-12 12:16:33,False
+Passive provider chest,2021-03-24 17:36:16,1459,Passive provider chest/zh,2018-06-28 07:13:49,True
+Personal battery,2020-08-18 00:30:24,904,Personal battery/zh,2021-04-09 11:29:15,False
+Personal battery (research),2019-02-26 17:27:06,137,Personal battery (research)/zh,2019-02-26 17:27:12,False
+Personal battery MK2,2020-09-10 08:15:05,1015,Personal battery MK2/zh,2021-04-09 11:29:14,False
+Personal battery MK2 (research),2019-02-26 17:28:19,121,Personal battery MK2 (research)/zh,2019-02-26 17:28:54,False
+Personal laser defense,2021-03-11 17:18:21,1080,Personal laser defense/zh,2018-07-26 03:45:27,True
+Personal laser defense (research),2017-07-19 16:40:36,143,Personal laser defense (research)/zh,2018-07-12 12:50:24,False
+Personal roboport,2020-09-17 03:04:08,2343,Personal roboport/zh,2018-11-14 17:52:28,True
+Personal roboport (research),2017-09-04 13:45:36,116,Personal roboport (research)/zh,2018-07-12 12:51:08,False
+Personal roboport MK2,2020-09-17 03:04:47,2140,Personal roboport MK2/zh,2018-11-16 08:27:35,True
+Personal roboport MK2 (research),2020-09-11 22:08:16,455,Personal roboport MK2 (research)/zh,2019-05-02 19:45:17,True
+Petroleum gas,2021-04-09 09:29:50,1411,Petroleum gas/zh,2020-05-27 10:50:18,True
+Physical projectile damage (research),2020-10-19 17:14:41,2995,Physical projectile damage (research)/zh,2019-12-24 04:57:07,True
+Piercing rounds magazine,2021-10-29 16:56:03,410,Piercing rounds magazine/zh,2017-09-04 19:55:36,True
+Piercing shotgun shells,2021-10-29 16:56:12,312,Piercing shotgun shells/zh,2022-01-22 14:52:43,False
+Pipe,2020-09-14 08:25:19,2246,Pipe/zh,2018-06-20 08:13:11,True
+Pipe to ground,2020-09-24 08:44:50,2040,Pipe to ground/zh,2018-06-20 08:31:06,True
+Pistol,2020-05-06 22:18:38,415,Pistol/zh,2017-08-14 17:43:04,True
+Plastic bar,2021-10-06 10:16:19,465,Plastic bar/zh,2017-09-09 16:10:33,True
+Plastics (research),2018-08-10 07:35:48,294,Plastics (research)/zh,2022-01-22 06:22:28,False
+Player,2021-12-13 19:35:13,8147,Player/zh,2020-11-26 17:28:39,True
+Poison capsule,2020-08-13 09:48:49,1708,Poison capsule/zh,2018-07-19 08:23:48,True
+Pollution,2022-01-17 14:43:23,9014,Pollution/zh,2019-04-27 17:42:54,True
+Portable fusion reactor,2020-10-12 03:01:49,1357,Portable fusion reactor/zh,2018-07-26 03:30:58,True
+Portable fusion reactor (research),2017-07-19 16:44:40,144,Portable fusion reactor (research)/zh,2018-07-12 12:52:30,False
+Portable solar panel,2020-08-15 02:51:35,1333,Portable solar panel/zh,2018-07-26 03:21:50,True
+Portable solar panel (research),2017-07-19 16:46:20,141,Portable solar panel (research)/zh,2018-07-12 12:53:32,False
+Power armor,2021-10-29 16:56:17,764,Power armor/zh,2018-07-26 02:45:06,True
+Power armor (research),2017-07-19 16:47:38,132,Power armor (research)/zh,2018-07-12 09:46:24,False
+Power armor MK2,2021-10-29 16:56:19,1068,Power armor MK2/zh,2018-07-26 03:06:13,True
+Power armor MK2 (research),2019-05-02 19:52:17,134,Power armor MK2 (research)/zh,2019-05-02 19:52:47,False
+Power production,2020-10-27 13:19:54,6281,Power production/zh,2018-07-26 16:59:43,True
+Power production/Dealing with priorities,2017-12-25 13:35:53,48,Power production/Dealing with priorities/zh,,True
+Power production/Optimal ratios,2016-08-07 16:40:10,44,Power production/Optimal ratios/zh,,True
+Power production/Special accumulator usages,2016-07-11 18:26:57,70,Power production/Special accumulator usages/zh,,True
+Power switch,2020-07-15 09:22:45,1972,Power switch/zh,2018-07-10 08:36:57,True
+Processing unit,2020-09-17 06:15:51,881,Processing unit/zh,2017-08-17 11:44:22,True
+Production science pack,2021-02-13 02:54:13,2374,Production science pack/zh,2018-07-18 02:41:32,True
+Production science pack (research),2020-09-14 06:49:46,202,Production science pack (research)/zh,2022-01-22 04:24:23,False
+Production statistics,2019-04-12 08:59:07,2334,Production statistics/zh,,True
+Productivity module,2020-12-25 18:49:42,1615,Productivity module/zh,2018-07-18 06:24:32,True
+Productivity module (research),2017-07-19 16:51:14,134,Productivity module (research)/zh,2018-07-12 12:59:12,False
+Productivity module 2,2020-12-25 18:50:38,1625,Productivity module 2/zh,2018-07-18 06:26:55,True
+Productivity module 2 (research),2017-07-19 16:51:22,131,Productivity module 2 (research)/zh,2018-07-12 13:00:41,False
+Productivity module 3,2020-12-25 18:50:57,1581,Productivity module 3/zh,2018-07-18 06:27:54,True
+Productivity module 3 (research),2017-07-19 16:51:34,131,Productivity module 3 (research)/zh,2018-07-12 13:01:16,False
+Programmable speaker,2021-11-17 16:07:50,2338,Programmable speaker/zh,2018-07-10 05:49:25,True
+Prototype/Accumulator,2022-01-21 19:26:21,4096,Prototype/Accumulator/zh,,True
+Prototype/Achievement,2019-07-26 16:17:11,2360,Prototype/Achievement/zh,,True
+Prototype/ActiveDefenseEquipment,2021-10-19 08:22:07,387,Prototype/ActiveDefenseEquipment/zh,,True
+Prototype/AmbientSound,2021-11-29 10:10:44,1107,Prototype/AmbientSound/zh,,True
+Prototype/AmmoCategory,2021-04-23 12:55:57,430,Prototype/AmmoCategory/zh,,True
+Prototype/AmmoItem,2019-10-09 19:05:25,963,Prototype/AmmoItem/zh,,True
+Prototype/AmmoTurret,2019-11-11 21:53:27,539,Prototype/AmmoTurret/zh,,True
+Prototype/Animation,2021-07-29 12:21:37,6695,Prototype/Animation/zh,,True
+Prototype/ArithmeticCombinator,2020-03-24 14:47:43,1069,Prototype/ArithmeticCombinator/zh,,True
+Prototype/ArtilleryFlare,2020-02-20 13:08:57,2331,Prototype/ArtilleryFlare/zh,,True
+Prototype/ArtilleryProjectile,2020-03-03 17:29:25,995,Prototype/ArtilleryProjectile/zh,,True
+Prototype/ArtilleryTurret,2022-01-21 19:26:23,2431,Prototype/ArtilleryTurret/zh,,True
+Prototype/ArtilleryWagon,2020-04-09 12:55:36,2057,Prototype/ArtilleryWagon/zh,,True
+Prototype/AssemblingMachine,2021-02-15 09:27:15,1238,Prototype/AssemblingMachine/zh,,True
+Prototype/AutoplaceControl,2022-01-19 11:54:58,818,Prototype/AutoplaceControl/zh,,True
+Prototype/BatteryEquipment,2019-07-27 20:48:17,126,Prototype/BatteryEquipment/zh,,True
+Prototype/Beacon,2022-01-21 19:26:24,1733,Prototype/Beacon/zh,,True
+Prototype/BeltImmunityEquipment,2020-04-14 11:41:40,281,Prototype/BeltImmunityEquipment/zh,,True
+Prototype/BlueprintBook,2021-02-03 16:47:01,192,Prototype/BlueprintBook/zh,,True
+Prototype/BlueprintItem,2021-02-03 16:47:03,657,Prototype/BlueprintItem/zh,,True
+Prototype/Boiler,2022-01-21 19:26:26,5163,Prototype/Boiler/zh,,True
+Prototype/BuildEntityAchievement,2019-07-26 16:19:54,980,Prototype/BuildEntityAchievement/zh,,True
+Prototype/BurnerGenerator,2022-01-21 19:26:27,1541,Prototype/BurnerGenerator/zh,,True
+Prototype/Capsule,2020-05-20 11:55:31,514,Prototype/Capsule/zh,,True
+Prototype/CargoWagon,2021-11-04 18:34:43,414,Prototype/CargoWagon/zh,,True
+Prototype/Character,2022-01-21 19:26:29,5040,Prototype/Character/zh,,True
+Prototype/CharacterCorpse,2019-07-29 20:15:18,1030,Prototype/CharacterCorpse/zh,,True
+Prototype/CombatRobot,2021-08-11 18:49:50,1168,Prototype/CombatRobot/zh,,True
+Prototype/CombatRobotCountAchievement,2019-07-26 16:19:35,396,Prototype/CombatRobotCountAchievement/zh,,True
+Prototype/Combinator,2022-01-21 19:26:31,2046,Prototype/Combinator/zh,,True
+Prototype/ConstantCombinator,2022-01-21 19:26:33,1137,Prototype/ConstantCombinator/zh,,True
+Prototype/ConstructWithRobotsAchievement,2019-07-26 16:22:08,716,Prototype/ConstructWithRobotsAchievement/zh,,True
+Prototype/ConstructionRobot,2020-09-25 10:56:21,944,Prototype/ConstructionRobot/zh,,True
+Prototype/Container,2022-01-21 19:26:35,1559,Prototype/Container/zh,,True
+Prototype/CopyPasteTool,2021-07-30 17:57:55,747,Prototype/CopyPasteTool/zh,,True
+Prototype/Corpse,2020-04-30 12:45:41,3377,Prototype/Corpse/zh,,True
+Prototype/CraftingMachine,2022-01-21 19:26:37,8253,Prototype/CraftingMachine/zh,,True
+Prototype/CurvedRail,2019-08-05 16:59:37,255,Prototype/CurvedRail/zh,,True
+Prototype/CustomInput,2021-03-22 13:24:45,8297,Prototype/CustomInput/zh,,True
+Prototype/DamageType,2021-04-23 12:55:51,400,Prototype/DamageType/zh,,True
+Prototype/DeciderCombinator,2020-03-24 14:47:16,693,Prototype/DeciderCombinator/zh,,True
+Prototype/DeconstructWithRobotsAchievement,2019-07-26 16:23:12,432,Prototype/DeconstructWithRobotsAchievement/zh,,True
+Prototype/DeconstructibleTileProxy,2019-07-29 20:19:00,173,Prototype/DeconstructibleTileProxy/zh,,True
+Prototype/DeconstructionItem,2021-04-12 13:30:56,994,Prototype/DeconstructionItem/zh,,True
+Prototype/Decorative,2021-04-23 12:56:07,1689,Prototype/Decorative/zh,,True
+Prototype/DeliverByRobotsAchievement,2019-07-26 16:23:51,457,Prototype/DeliverByRobotsAchievement/zh,,True
+Prototype/DontBuildEntityAchievement,2021-10-13 09:23:28,651,Prototype/DontBuildEntityAchievement/zh,,True
+Prototype/DontCraftManuallyAchievement,2019-07-26 16:26:13,427,Prototype/DontCraftManuallyAchievement/zh,,True
+Prototype/DontUseEntityInEnergyProductionAchievement,2019-07-26 16:28:00,1115,Prototype/DontUseEntityInEnergyProductionAchievement/zh,,True
+Prototype/EditorController,2020-04-01 19:16:45,1982,Prototype/EditorController/zh,,True
+Prototype/ElectricEnergyInterface,2022-01-21 19:26:38,1697,Prototype/ElectricEnergyInterface/zh,,True
+Prototype/ElectricPole,2022-01-21 19:26:40,1693,Prototype/ElectricPole/zh,,True
+Prototype/ElectricTurret,2019-08-05 20:52:11,331,Prototype/ElectricTurret/zh,,True
+Prototype/EnemySpawner,2022-01-21 21:00:58,3427,Prototype/EnemySpawner/zh,,True
+Prototype/EnergyShieldEquipment,2019-07-27 20:49:58,340,Prototype/EnergyShieldEquipment/zh,,True
+Prototype/Entity,2022-01-21 20:59:52,22290,Prototype/Entity/zh,,True
+Prototype/EntityGhost,2021-10-01 17:33:56,1096,Prototype/EntityGhost/zh,,True
+Prototype/EntityParticle,2020-02-20 13:13:07,275,Prototype/EntityParticle/zh,,True
+Prototype/EntityWithHealth,2022-01-21 19:25:46,8360,Prototype/EntityWithHealth/zh,,True
+Prototype/EntityWithOwner,2022-01-21 19:25:40,5144,Prototype/EntityWithOwner/zh,,True
+Prototype/Equipment,2021-07-30 17:38:30,2628,Prototype/Equipment/zh,,True
+Prototype/EquipmentCategory,2021-04-23 12:55:53,239,Prototype/EquipmentCategory/zh,,True
+Prototype/EquipmentGrid,2021-04-23 12:55:55,868,Prototype/EquipmentGrid/zh,,True
+Prototype/Explosion,2020-09-08 12:09:32,3041,Prototype/Explosion/zh,,True
+Prototype/FinishTheGameAchievement,2019-07-26 16:29:51,404,Prototype/FinishTheGameAchievement/zh,,True
+Prototype/FireFlame,2019-11-03 17:10:43,4563,Prototype/FireFlame/zh,,True
+Prototype/FlameThrowerExplosion,2020-09-08 12:11:17,489,Prototype/FlameThrowerExplosion/zh,,True
+Prototype/FluidStream,2019-08-05 21:08:42,3034,Prototype/FluidStream/zh,,True
+Prototype/FluidTurret,2021-02-03 16:13:03,2101,Prototype/FluidTurret/zh,,True
+Prototype/FluidWagon,2020-07-08 07:54:09,373,Prototype/FluidWagon/zh,,True
+Prototype/FlyingRobot,2022-01-21 19:26:44,1504,Prototype/FlyingRobot/zh,,True
+Prototype/FlyingText,2019-08-05 21:09:20,569,Prototype/FlyingText/zh,,True
+Prototype/FuelCategory,2021-04-23 12:56:13,294,Prototype/FuelCategory/zh,,True
+Prototype/Furnace,2019-07-29 20:00:33,689,Prototype/Furnace/zh,,True
+Prototype/Generator,2022-01-21 19:26:47,3610,Prototype/Generator/zh,,True
+Prototype/GeneratorEquipment,2019-07-27 21:01:20,629,Prototype/GeneratorEquipment/zh,,True
+Prototype/GodController,2019-07-27 22:08:09,1091,Prototype/GodController/zh,,True
+Prototype/GroupAttackAchievement,2019-07-26 16:30:38,516,Prototype/GroupAttackAchievement/zh,,True
+Prototype/GuiStyle,2021-10-08 18:39:09,19357,Prototype/GuiStyle/zh,,True
+Prototype/HeatInterface,2022-01-21 19:26:49,536,Prototype/HeatInterface/zh,,True
+Prototype/HeatPipe,2022-01-21 19:26:51,476,Prototype/HeatPipe/zh,,True
+Prototype/HighlightBoxEntity,2021-04-27 11:04:41,673,Prototype/HighlightBoxEntity/zh,,True
+Prototype/InfinityContainer,2019-07-29 19:47:20,823,Prototype/InfinityContainer/zh,,True
+Prototype/InfinityPipe,2019-08-05 16:47:58,350,Prototype/InfinityPipe/zh,,True
+Prototype/Inserter,2022-01-21 19:27:06,4077,Prototype/Inserter/zh,,True
+Prototype/ItemEntity,2019-08-05 21:10:55,526,Prototype/ItemEntity/zh,,True
+Prototype/ItemGroup,2021-04-23 12:55:59,928,Prototype/ItemGroup/zh,,True
+Prototype/ItemRequestProxy,2019-08-05 21:11:24,506,Prototype/ItemRequestProxy/zh,,True
+Prototype/ItemSubGroup,2019-08-06 18:24:27,396,Prototype/ItemSubGroup/zh,,True
+Prototype/ItemWithEntityData,2020-12-02 19:52:52,1172,Prototype/ItemWithEntityData/zh,,True
+Prototype/ItemWithInventory,2020-03-03 17:18:00,2974,Prototype/ItemWithInventory/zh,,True
+Prototype/ItemWithLabel,2019-07-26 15:09:25,995,Prototype/ItemWithLabel/zh,,True
+Prototype/ItemWithTags,2019-07-26 15:48:17,96,Prototype/ItemWithTags/zh,,True
+Prototype/KillAchievement,2019-07-26 16:39:40,1336,Prototype/KillAchievement/zh,,True
+Prototype/LandMine,2022-01-21 19:27:11,1500,Prototype/LandMine/zh,,True
+Prototype/LeafParticle,2020-02-20 13:12:04,284,Prototype/LeafParticle/zh,,True
+Prototype/LinkedBelt,2020-12-14 19:46:35,1302,Prototype/LinkedBelt/zh,,True
+Prototype/LinkedContainer,2022-01-21 19:27:13,966,Prototype/LinkedContainer/zh,,True
+Prototype/Loader,2020-02-20 12:48:39,33,Prototype/Loader/zh,,True
+Prototype/Loader1x1,2020-03-03 11:27:28,1759,Prototype/Loader1x1/zh,,True
+Prototype/Loader1x2,2020-03-03 11:27:30,1756,Prototype/Loader1x2/zh,,True
+Prototype/Locomotive,2021-02-03 16:13:01,824,Prototype/Locomotive/zh,,True
+Prototype/LogisticContainer,2020-12-02 19:17:44,1803,Prototype/LogisticContainer/zh,,True
+Prototype/LogisticRobot,2020-03-04 08:21:28,726,Prototype/LogisticRobot/zh,,True
+Prototype/MapGenPresets,2019-07-27 22:09:54,1368,Prototype/MapGenPresets/zh,,True
+Prototype/MapSettings,2021-12-10 12:45:50,11885,Prototype/MapSettings/zh,,True
+Prototype/Market,2022-01-21 19:27:16,542,Prototype/Market/zh,,True
+Prototype/MiningDrill,2022-01-21 19:27:18,4132,Prototype/MiningDrill/zh,,True
+Prototype/MiningTool,2019-07-26 16:06:36,136,Prototype/MiningTool/zh,,True
+Prototype/Module,2020-12-27 15:16:46,2525,Prototype/Module/zh,,True
+Prototype/ModuleCategory,2021-04-23 12:56:02,267,Prototype/ModuleCategory/zh,,True
+Prototype/MouseCursor,2019-07-27 22:12:25,1315,Prototype/MouseCursor/zh,,True
+Prototype/MovementBonusEquipment,2019-07-27 21:04:49,501,Prototype/MovementBonusEquipment/zh,,True
+Prototype/NamedNoiseExpression,2020-09-09 14:33:05,6162,Prototype/NamedNoiseExpression/zh,,True
+Prototype/NightVisionEquipment,2020-04-27 14:07:46,650,Prototype/NightVisionEquipment/zh,,True
+Prototype/NoiseLayer,2019-08-06 18:28:56,234,Prototype/NoiseLayer/zh,,True
+Prototype/OffshorePump,2022-01-21 19:27:20,4101,Prototype/OffshorePump/zh,,True
+Prototype/Particle,2020-04-22 16:33:14,1964,Prototype/Particle/zh,,True
+Prototype/ParticleSource,2020-09-08 11:31:06,1293,Prototype/ParticleSource/zh,,True
+Prototype/PipeToGround,2022-01-21 19:27:24,719,Prototype/PipeToGround/zh,,True
+Prototype/PlayerDamagedAchievement,2019-07-26 16:39:25,842,Prototype/PlayerDamagedAchievement/zh,,True
+Prototype/PlayerPort,2022-01-21 19:27:26,603,Prototype/PlayerPort/zh,,True
+Prototype/PowerSwitch,2022-01-21 19:27:28,1169,Prototype/PowerSwitch/zh,,True
+Prototype/ProduceAchievement,2019-07-26 16:39:07,1103,Prototype/ProduceAchievement/zh,,True
+Prototype/ProducePerHourAchievement,2019-07-26 16:38:49,926,Prototype/ProducePerHourAchievement/zh,,True
+Prototype/ProgrammableSpeaker,2022-01-21 19:27:29,1522,Prototype/ProgrammableSpeaker/zh,,True
+Prototype/Projectile,2020-12-02 19:46:01,2881,Prototype/Projectile/zh,,True
+Prototype/RailChainSignal,2019-08-05 17:06:45,596,Prototype/RailChainSignal/zh,,True
+Prototype/RailPlanner,2020-04-27 14:05:22,531,Prototype/RailPlanner/zh,,True
+Prototype/RailRemnants,2020-10-23 15:23:49,2085,Prototype/RailRemnants/zh,,True
+Prototype/RailSignal,2019-08-05 17:08:03,210,Prototype/RailSignal/zh,,True
+Prototype/RailSignalBase,2022-01-21 19:27:35,2331,Prototype/RailSignalBase/zh,,True
+Prototype/Reactor,2022-01-21 19:27:36,3224,Prototype/Reactor/zh,,True
+Prototype/Recipe,2021-04-26 07:45:53,11697,Prototype/Recipe/zh,,True
+Prototype/RecipeCategory,2019-08-06 18:31:03,295,Prototype/RecipeCategory/zh,,True
+Prototype/RepairTool,2021-11-06 14:05:22,380,Prototype/RepairTool/zh,,True
+Prototype/ResearchAchievement,2019-07-26 16:38:38,629,Prototype/ResearchAchievement/zh,,True
+Prototype/ResourceCategory,2021-04-23 12:56:09,281,Prototype/ResourceCategory/zh,,True
+Prototype/ResourceEntity,2020-07-22 11:23:17,5667,Prototype/ResourceEntity/zh,,True
+Prototype/Roboport,2022-01-21 19:27:38,10976,Prototype/Roboport/zh,,True
+Prototype/RoboportEquipment,2021-10-27 16:05:38,3402,Prototype/RoboportEquipment/zh,,True
+Prototype/RobotWithLogisticInterface,2021-08-11 18:49:43,1255,Prototype/RobotWithLogisticInterface/zh,,True
+Prototype/RocketSilo,2021-11-24 12:36:35,3669,Prototype/RocketSilo/zh,,True
+Prototype/RocketSiloRocket,2020-12-02 19:46:57,2947,Prototype/RocketSiloRocket/zh,,True
+Prototype/RocketSiloRocketShadow,2019-08-05 21:23:46,458,Prototype/RocketSiloRocketShadow/zh,,True
+Prototype/RollingStock,2021-05-21 08:48:23,2645,Prototype/RollingStock/zh,,True
+Prototype/SelectionTool,2021-09-22 12:58:09,5974,Prototype/SelectionTool/zh,,True
+Prototype/Shortcut,2021-08-09 21:12:59,4045,Prototype/Shortcut/zh,,True
+Prototype/SimpleEntity,2021-08-20 10:27:44,1742,Prototype/SimpleEntity/zh,,True
+Prototype/SimpleEntityWithForce,2022-01-21 19:26:04,352,Prototype/SimpleEntityWithForce/zh,,True
+Prototype/SimpleEntityWithOwner,2022-01-21 19:26:02,1912,Prototype/SimpleEntityWithOwner/zh,,True
+Prototype/SimpleSmoke,2019-08-05 21:25:34,246,Prototype/SimpleSmoke/zh,,True
+Prototype/SmokeWithTrigger,2020-03-16 12:48:42,1047,Prototype/SmokeWithTrigger/zh,,True
+Prototype/SolarPanel,2022-01-21 19:27:40,856,Prototype/SolarPanel/zh,,True
+Prototype/SolarPanelEquipment,2019-07-27 21:09:16,305,Prototype/SolarPanelEquipment/zh,,True
+Prototype/SpectatorController,2019-07-27 22:14:36,460,Prototype/SpectatorController/zh,,True
+Prototype/SpeechBubble,2020-03-16 13:07:19,712,Prototype/SpeechBubble/zh,,True
+Prototype/SpiderLeg,2021-02-03 16:32:27,967,Prototype/SpiderLeg/zh,,True
+Prototype/SpiderVehicle,2021-02-03 16:32:23,2258,Prototype/SpiderVehicle/zh,,True
+Prototype/SpidertronRemote,2020-08-24 08:47:49,774,Prototype/SpidertronRemote/zh,,True
+Prototype/Splitter,2020-04-20 08:34:21,699,Prototype/Splitter/zh,,True
+Prototype/Sprite,2021-06-11 11:48:10,6068,Prototype/Sprite/zh,,True
+Prototype/Sticker,2020-09-08 12:56:09,3117,Prototype/Sticker/zh,,True
+Prototype/StorageTank,2022-01-21 19:27:42,2930,Prototype/StorageTank/zh,,True
+Prototype/StraightRail,2019-08-05 16:59:15,267,Prototype/StraightRail/zh,,True
+Prototype/Technology,2021-11-04 18:28:17,5630,Prototype/Technology/zh,,True
+Prototype/TileEffect,2020-03-03 12:39:33,1327,Prototype/TileEffect/zh,,True
+Prototype/TileGhost,2019-08-05 21:29:41,390,Prototype/TileGhost/zh,,True
+Prototype/TipsAndTricksItem,2021-06-09 18:46:28,1957,Prototype/TipsAndTricksItem/zh,,True
+Prototype/TipsAndTricksItemCategory,2020-12-02 15:56:41,633,Prototype/TipsAndTricksItemCategory/zh,,True
+Prototype/TrainPathAchievement,2019-07-26 16:41:50,375,Prototype/TrainPathAchievement/zh,,True
+Prototype/TrainStop,2022-01-21 19:27:43,2565,Prototype/TrainStop/zh,,True
+Prototype/TransportBelt,2021-01-25 23:54:23,2329,Prototype/TransportBelt/zh,,True
+Prototype/TransportBeltConnectable,2022-01-21 19:27:45,4559,Prototype/TransportBeltConnectable/zh,,True
+Prototype/TriggerTargetType,2020-03-02 13:19:38,441,Prototype/TriggerTargetType/zh,,True
+Prototype/TrivialSmoke,2021-04-23 12:56:11,2041,Prototype/TrivialSmoke/zh,,True
+Prototype/Turret,2022-01-21 19:27:48,6164,Prototype/Turret/zh,,True
+Prototype/Tutorial,2020-12-11 20:18:31,479,Prototype/Tutorial/zh,,True
+Prototype/UndergroundBelt,2020-03-17 12:39:55,963,Prototype/UndergroundBelt/zh,,True
+Prototype/UpgradeItem,2021-02-03 16:47:09,865,Prototype/UpgradeItem/zh,,True
+Prototype/UtilityConstants,2021-11-04 19:49:41,14812,Prototype/UtilityConstants/zh,,True
+Prototype/UtilitySounds,2020-12-11 20:43:36,4566,Prototype/UtilitySounds/zh,,True
+Prototype/UtilitySprites,2021-11-04 19:52:54,31534,Prototype/UtilitySprites/zh,,True
+Prototype/Vehicle,2022-01-21 19:27:51,2727,Prototype/Vehicle/zh,,True
+Prototype/VirtualSignal,2020-12-03 16:18:40,524,Prototype/VirtualSignal/zh,,True
+Prototype/WindSound,2019-07-27 22:19:52,584,Prototype/WindSound/zh,,True
+Provider chest,2020-10-01 15:37:23,501,Provider chest/zh,2018-06-28 05:39:52,True
+Pump,2020-09-12 23:27:02,3117,Pump/zh,2018-07-10 22:33:29,True
+Pumpjack,2020-09-08 11:57:47,2138,Pumpjack/zh,2020-05-27 10:30:52,True
+Quickbar,2021-05-10 10:09:50,8602,Quickbar/zh,,True
+Radar,2021-12-10 18:16:10,6148,Radar/zh,2018-06-19 09:52:19,True
+Rail,2021-03-19 15:18:56,1657,Rail/zh,2021-03-19 15:19:27,False
+Rail chain signal,2021-03-19 15:19:55,4146,Rail chain signal/zh,2021-03-19 15:20:14,False
+Rail planner,2019-04-26 09:25:20,2962,Rail planner/zh,2017-09-04 19:43:10,True
+Rail signal,2021-03-19 15:19:40,3457,Rail signal/zh,2021-03-19 15:19:58,False
+Rail signals (research),2017-09-04 13:40:31,217,Rail signals (research)/zh,2018-07-12 12:36:35,False
+Railway,2021-08-13 18:29:11,16023,Railway/zh,2019-07-13 14:58:18,True
+Railway/Automated transport,2016-10-07 23:32:48,41,Railway/Automated transport/zh,,True
+Railway/Train path finding,2021-08-31 20:13:30,7180,Railway/Train path finding/zh,,True
+Railway (research),2017-07-19 16:53:22,309,Railway (research)/zh,2018-07-12 12:38:56,False
+Railway network/Train station,2017-05-16 11:48:25,30,Railway network/Train station/zh,,True
+Raw fish,2021-04-04 02:25:11,2466,Raw fish/zh,2019-01-08 07:27:31,True
+Red wire,2020-09-08 15:09:46,1213,Red wire/zh,2018-07-04 08:12:08,True
+Refined concrete,2018-12-19 17:47:38,1068,Refined concrete/zh,2018-07-04 09:00:13,True
+Refined flammables (research),2020-10-24 04:58:42,2450,Refined flammables (research)/zh,2022-01-24 08:33:59,False
+Refined hazard concrete,2019-09-16 07:32:16,383,Refined hazard concrete/zh,2018-07-04 09:05:14,True
+Repair pack,2020-06-11 09:12:41,835,Repair pack/zh,2020-12-05 01:38:29,False
+Replay system,2022-01-19 11:32:03,2921,Replay system/zh,2022-01-21 16:56:59,False
+Requester chest,2021-03-25 15:55:54,2750,Requester chest/zh,2018-07-17 21:05:40,True
+Research,2020-05-12 08:17:00,5674,Research/zh,2018-07-12 10:59:13,True
+Rich text,2020-12-02 11:27:03,6677,Rich text/zh,,True
+Roadmap,2021-03-01 11:54:33,788,Roadmap/zh,2018-07-13 08:29:50,True
+Roadmap/History,2021-03-01 11:54:30,7076,Roadmap/History/zh,,True
+Roboport,2022-01-13 17:19:43,4876,Roboport/zh,2018-07-04 09:18:48,True
+Robotics (research),2017-07-19 16:56:35,109,Robotics (research)/zh,2018-07-12 12:20:40,False
+Robots,2019-03-28 14:42:20,124,Robots/zh,2022-01-22 03:39:52,False
+Rock,2020-05-06 10:16:33,531,Rock/zh,2022-01-22 07:04:51,False
+Rocket,2021-10-29 16:55:57,776,Rocket/zh,2018-07-19 02:48:23,True
+Rocket control unit,2021-02-25 18:50:57,313,Rocket control unit/zh,2018-07-18 03:41:37,True
+Rocket control unit (research),2019-06-18 10:11:18,118,Rocket control unit (research)/zh,2021-11-15 18:13:52,False
+Rocket damage (research),2019-03-05 08:15:21,2079,Rocket damage (research)/zh,2019-02-28 12:26:02,True
+Rocket fuel,2019-09-16 04:07:23,1074,Rocket fuel/zh,2018-07-18 08:39:14,True
+Rocket fuel (research),2020-10-27 13:14:51,247,Rocket fuel (research)/zh,2021-11-15 18:10:45,False
+Rocket launcher,2021-10-29 16:55:53,595,Rocket launcher/zh,2017-08-14 17:50:17,True
+Rocket part,2019-09-16 11:00:36,4000,Rocket part/zh,2018-07-18 03:39:30,True
+Rocket shooting speed (research),2019-03-05 08:15:27,2160,Rocket shooting speed (research)/zh,2019-02-28 12:25:53,True
+Rocket silo,2021-11-12 16:22:58,5906,Rocket silo/zh,2021-03-19 15:05:49,True
+Rocket silo (research),2021-08-06 17:26:23,3018,Rocket silo (research)/zh,2018-11-01 17:28:55,True
+Rocketry (research),2017-07-19 16:59:15,109,Rocketry (research)/zh,2018-07-12 08:55:12,False
+Satellite,2021-03-19 15:05:47,600,Satellite/zh,2021-03-19 15:06:08,False
+Scenario system,2021-11-15 00:38:42,3146,Scenario system/zh,,True
+Science pack,2021-11-04 19:14:44,6350,Science pack/zh,2021-08-06 17:30:19,True
+Shortcut bar,2020-11-16 13:00:02,2044,Shortcut bar/zh,,True
+Shotgun,2021-10-29 16:56:07,1299,Shotgun/zh,2018-07-18 07:28:02,True
+Shotgun shell damage (research),2019-03-05 08:15:28,2196,Shotgun shell damage (research)/zh,2019-02-28 12:25:56,True
+Shotgun shell shooting speed (research),2019-03-05 08:15:25,1825,Shotgun shell shooting speed (research)/zh,2019-02-28 12:25:48,True
+Shotgun shells,2021-10-29 16:56:10,289,Shotgun shells/zh,2022-01-22 06:19:41,False
+Slowdown capsule,2020-08-13 09:34:09,737,Slowdown capsule/zh,2018-07-19 08:16:54,True
+Small electric pole,2019-09-16 07:13:24,1479,Small electric pole/zh,2018-06-19 09:03:27,True
+Solar energy (research),2020-09-12 22:31:09,190,Solar energy (research)/zh,2022-01-22 04:09:24,False
+Solar panel,2019-02-15 21:34:39,2896,Solar panel/zh,2017-09-09 16:32:10,True
+Solid fuel,2019-09-16 10:49:37,2106,Solid fuel/zh,2017-08-17 10:41:44,True
+Space science pack,2020-09-17 18:18:07,2941,Space science pack/zh,2018-07-18 03:13:14,True
+Space science pack (research),2020-06-29 12:49:02,377,Space science pack (research)/zh,2019-12-24 05:19:58,True
+Speed module,2020-12-25 05:47:11,1309,Speed module/zh,2018-07-18 04:58:44,True
+Speed module (research),2017-07-19 17:04:27,127,Speed module (research)/zh,2018-07-12 13:00:07,False
+Speed module 2,2020-12-25 05:47:54,1083,Speed module 2/zh,2018-07-18 05:01:07,True
+Speed module 2 (research),2017-07-19 17:04:35,129,Speed module 2 (research)/zh,2018-07-12 13:01:47,False
+Speed module 3,2020-12-25 05:48:12,1131,Speed module 3/zh,2018-07-18 05:06:55,True
+Speed module 3 (research),2017-07-19 17:04:48,129,Speed module 3 (research)/zh,2018-07-12 13:03:49,False
+Spidertron,2021-05-25 10:34:19,4260,Spidertron/zh,2021-09-11 15:06:48,False
+Spidertron (research),2020-08-14 09:08:22,149,Spidertron (research)/zh,2021-11-15 17:53:49,False
+Spidertron remote,2020-11-27 15:03:16,1700,Spidertron remote/zh,2021-09-11 14:31:50,False
+Splitter,2019-09-13 22:57:43,1639,Splitter/zh,2019-11-21 03:59:31,False
+Splitters,2017-09-02 17:43:03,149,Splitters/zh,2018-06-23 08:55:09,False
+Stack,2021-11-24 11:08:52,6763,Stack/zh,2018-08-25 17:51:41,True
+Stack filter inserter,2019-09-16 04:30:01,1554,Stack filter inserter/zh,2018-06-19 08:45:18,True
+Stack inserter,2021-01-22 15:58:48,2310,Stack inserter/zh,2018-06-19 08:28:53,True
+Stack inserter (research),2018-11-30 19:42:13,308,Stack inserter (research)/zh,2022-01-22 14:44:13,False
+Steam,2021-05-23 04:30:05,2634,Steam/zh,2018-07-17 10:07:58,True
+Steam engine,2020-04-29 05:17:26,2272,Steam engine/zh,2018-07-10 09:11:09,True
+Steam turbine,2020-10-26 12:01:55,1717,Steam turbine/zh,2018-07-17 04:28:21,True
+Steel axe,2019-09-17 11:19:17,1345,Steel axe/zh,2019-02-26 17:18:33,True
+Steel axe (research),2020-10-24 08:35:17,207,Steel axe (research)/zh,2022-01-22 04:28:24,False
+Steel chest,2018-12-06 12:05:20,566,Steel chest/zh,2018-06-17 13:58:22,True
+Steel furnace,2019-03-17 04:26:54,1967,Steel furnace/zh,2017-09-02 19:47:24,True
+Steel plate,2019-04-07 12:30:39,840,Steel plate/zh,2017-09-09 16:24:39,True
+Steel processing (research),2017-09-04 18:44:53,383,Steel processing (research)/zh,2018-07-12 12:22:30,False
+Stone,2018-08-25 10:38:45,666,Stone/zh,2017-09-09 16:22:46,True
+Stone brick,2019-09-16 07:26:00,1784,Stone brick/zh,2018-07-04 08:47:04,True
+Stone furnace,2020-09-16 08:22:02,1398,Stone furnace/zh,2017-09-02 19:45:49,True
+Stone wall (research),2020-11-23 20:55:47,111,Stone wall (research)/zh,2020-11-23 20:56:11,False
+Storage,2019-03-05 13:34:49,2442,Storage/zh,2018-07-09 03:47:39,True
+Storage chest,2021-04-04 00:05:05,2410,Storage chest/zh,2018-06-28 07:34:01,True
+Storage tank,2021-01-06 10:28:09,3215,Storage tank/zh,2018-07-05 09:12:59,True
+Stronger explosives (research),2021-08-30 04:33:04,2830,Stronger explosives (research)/zh,2022-01-24 08:42:53,False
+Submachine gun,2020-05-07 17:34:29,734,Submachine gun/zh,2017-08-14 17:46:06,True
+Substation,2019-09-16 07:14:13,902,Substation/zh,2018-06-20 07:17:36,True
+Sulfur,2021-10-06 10:16:18,575,Sulfur/zh,2018-07-11 11:40:10,True
+Sulfur processing (research),2020-09-17 05:46:03,300,Sulfur processing (research)/zh,2022-01-22 06:28:33,False
+Sulfuric acid,2020-09-16 19:17:31,791,Sulfuric acid/zh,2017-09-09 16:25:48,True
+Supply challenge,2021-12-04 22:53:16,3151,Supply challenge/zh,2022-01-24 06:50:32,False
+Tank,2021-10-29 16:56:21,6178,Tank/zh,2018-06-28 06:13:07,True
+Tank (research),2020-11-23 20:55:02,105,Tank (research)/zh,2020-11-23 20:55:25,False
+Technologies,2020-08-15 22:35:03,9988,Technologies/zh,2019-03-10 19:42:00,True
+Tile,2019-03-28 15:41:04,4751,Tile/zh,2014-10-26 11:57:26,True
+Time,2020-12-26 02:22:44,3505,Time/zh,2020-12-11 18:48:29,True
+Toolbelt (research),2019-09-15 06:37:02,152,Toolbelt (research)/zh,2022-01-22 04:03:02,False
+Train stop,2021-03-19 15:19:22,4374,Train stop/zh,2021-03-19 15:19:44,False
+Transport,2019-03-30 12:56:25,430,Transport/zh,2018-07-14 01:32:12,True
+Transport belt,2019-11-07 12:31:05,2653,Transport belt/zh,2019-11-21 03:39:47,False
+Transport belts,2017-09-02 17:02:21,201,Transport belts/zh,2018-06-23 08:55:15,False
+Transport belts/Physics,2021-10-17 14:07:17,8973,Transport belts/Physics/zh,2019-08-23 05:48:14,True
+Tree,2021-11-09 03:30:37,4256,Tree/zh,2018-11-17 04:32:22,True
+Turret,2020-04-29 03:42:10,299,Turret/zh,2022-01-22 06:26:24,False
+Tutorial,2021-11-17 11:08:13,1841,Tutorial/zh,2022-01-24 08:05:30,False
+Tutorials,2021-12-17 17:20:47,1602,Tutorials/zh,2015-07-29 02:41:17,True
+Types/ActivateEquipmentCapsuleAction,2021-06-22 09:55:52,216,Types/ActivateEquipmentCapsuleAction/zh,,True
+Types/ActivityBarStyleSpecification,2019-08-06 20:53:21,503,Types/ActivityBarStyleSpecification/zh,,True
+Types/AmmoDamageModifierPrototype,2021-03-26 15:45:46,403,Types/AmmoDamageModifierPrototype/zh,,True
+Types/AmmoSourceType,2021-07-19 09:17:06,483,Types/AmmoSourceType/zh,,True
+Types/AmmoType,2020-04-20 08:25:27,1273,Types/AmmoType/zh,,True
+Types/AnimatedVector,2020-10-07 16:56:05,694,Types/AnimatedVector/zh,,True
+Types/Animation,2021-07-29 12:21:39,6250,Types/Animation/zh,,True
+Types/Animation4Way,2018-08-24 08:59:54,494,Types/Animation4Way/zh,,True
+Types/AnimationElement,2021-08-20 10:27:47,837,Types/AnimationElement/zh,,True
+Types/AnimationFrameSequence,2020-05-18 10:58:09,1070,Types/AnimationFrameSequence/zh,,True
+Types/AnimationVariations,2020-04-30 12:53:58,1098,Types/AnimationVariations/zh,,True
+Types/AreaTriggerItem,2020-09-08 11:36:12,570,Types/AreaTriggerItem/zh,,True
+Types/ArtilleryRemoteCapsuleAction,2019-03-11 15:03:33,248,Types/ArtilleryRemoteCapsuleAction/zh,,True
+Types/ArtilleryTriggerDelivery,2019-08-07 19:12:47,634,Types/ArtilleryTriggerDelivery/zh,,True
+Types/AttackParameters,2019-02-11 10:30:25,544,Types/AttackParameters/zh,,True
+Types/AttackReaction,2018-12-10 16:50:11,41,Types/AttackReaction/zh,,True
+Types/AttackReactionItem,2018-12-10 16:49:47,350,Types/AttackReactionItem/zh,,True
+Types/AutoplaceSpecification,2022-01-21 19:25:49,11972,Types/AutoplaceSpecification/zh,,True
+Types/BaseAttackParameters,2021-02-10 14:40:24,3940,Types/BaseAttackParameters/zh,,True
+Types/BeaconGraphicsSet,2020-07-23 11:01:11,2217,Types/BeaconGraphicsSet/zh,,True
+Types/BeaconModuleVisualization,2021-08-20 10:27:52,1049,Types/BeaconModuleVisualization/zh,,True
+Types/BeaconModuleVisualizations,2020-07-23 11:01:13,1329,Types/BeaconModuleVisualizations/zh,,True
+Types/BeamAttackParameters,2020-02-07 14:32:11,258,Types/BeamAttackParameters/zh,,True
+Types/BeamTriggerDelivery,2018-08-24 16:02:28,509,Types/BeamTriggerDelivery/zh,,True
+Types/BlendMode,2020-05-04 11:33:57,1007,Types/BlendMode/zh,,True
+Types/BoolModifierPrototype,2021-03-26 15:45:47,220,Types/BoolModifierPrototype/zh,,True
+Types/BorderImageSet,2019-08-06 21:10:49,1046,Types/BorderImageSet/zh,,True
+Types/BoundingBox,2019-11-03 14:04:50,394,Types/BoundingBox/zh,,True
+Types/BoxSpecification,2019-07-19 11:19:12,732,Types/BoxSpecification/zh,,True
+Types/ButtonStyleSpecification,2020-04-30 16:18:49,1282,Types/ButtonStyleSpecification/zh,,True
+Types/CameraEffectTriggerEffectItem,2020-09-04 12:57:28,688,Types/CameraEffectTriggerEffectItem/zh,,True
+Types/CameraStyleSpecification,2019-08-06 21:00:01,190,Types/CameraStyleSpecification/zh,,True
+Types/CapsuleAction,2019-08-08 17:14:06,850,Types/CapsuleAction/zh,,True
+Types/CharacterArmorAnimation,2020-04-01 19:22:15,1361,Types/CharacterArmorAnimation/zh,,True
+Types/CheckBoxStyleSpecification,2019-08-06 21:33:42,604,Types/CheckBoxStyleSpecification/zh,,True
+Types/CircuitConnectorSprites,2018-08-24 08:56:29,637,Types/CircuitConnectorSprites/zh,,True
+Types/CircularParticleCreationSpecification,2020-04-30 13:56:03,1117,Types/CircularParticleCreationSpecification/zh,,True
+Types/CircularProjectileCreationSpecification,2020-04-30 13:47:21,145,Types/CircularProjectileCreationSpecification/zh,,True
+Types/ClusterTriggerItem,2020-04-09 11:56:08,330,Types/ClusterTriggerItem/zh,,True
+Types/CollisionMask,2021-11-05 16:06:55,2436,Types/CollisionMask/zh,,True
+Types/ConnectableEntityGraphics,2019-08-07 18:28:50,1026,Types/ConnectableEntityGraphics/zh,,True
+Types/ConsumingType,2018-01-22 09:30:13,520,Types/ConsumingType/zh,,True
+Types/CreateDecorativesTriggerEffectItem,2020-09-04 12:57:32,639,Types/CreateDecorativesTriggerEffectItem/zh,,True
+Types/CreateEntityTriggerEffectItem,2019-08-07 19:48:30,823,Types/CreateEntityTriggerEffectItem/zh,,True
+Types/CreateExplosionTriggerEffectItem,2020-09-08 11:39:25,509,Types/CreateExplosionTriggerEffectItem/zh,,True
+Types/CreateFireTriggerEffectItem,2018-08-24 15:23:45,235,Types/CreateFireTriggerEffectItem/zh,,True
+Types/CreateParticleTriggerEffectItem,2020-04-27 14:48:35,1399,Types/CreateParticleTriggerEffectItem/zh,,True
+Types/CreateSmokeTriggerEffectItem,2018-08-24 15:26:15,881,Types/CreateSmokeTriggerEffectItem/zh,,True
+Types/CreateStickerTriggerEffectItem,2020-04-09 12:22:47,567,Types/CreateStickerTriggerEffectItem/zh,,True
+Types/CreateTrivialSmokeEffectItem,2018-08-24 15:38:27,1182,Types/CreateTrivialSmokeEffectItem/zh,,True
+Types/CursorBoxType,2021-04-27 10:25:17,638,Types/CursorBoxType/zh,,True
+Types/CyclicSound,2020-05-04 11:23:48,170,Types/CyclicSound/zh,,True
+Types/DamagePrototype,2018-05-27 19:16:55,357,Types/DamagePrototype/zh,,True
+Types/DamageTriggerEffectItem,2020-09-08 11:42:21,744,Types/DamageTriggerEffectItem/zh,,True
+Types/DamageTypeFilters,2021-06-22 08:29:30,1200,Types/DamageTypeFilters/zh,,True
+Types/DaytimeColorLookupTable,2021-03-25 14:37:03,1433,Types/DaytimeColorLookupTable/zh,,True
+Types/DestroyCliffsCapsuleAction,2020-05-20 11:55:27,473,Types/DestroyCliffsCapsuleAction/zh,,True
+Types/DestroyCliffsTriggerEffectItem,2018-08-24 15:41:55,270,Types/DestroyCliffsTriggerEffectItem/zh,,True
+Types/DestroyDecorativesTriggerEffectItem,2020-05-06 08:36:10,886,Types/DestroyDecorativesTriggerEffectItem/zh,,True
+Types/DirectTriggerItem,2019-08-07 19:42:05,182,Types/DirectTriggerItem/zh,,True
+Types/Direction,2019-06-18 10:10:18,328,Types/Direction/zh,,True
+Types/DoubleSliderStyleSpecification,2020-04-30 17:04:21,187,Types/DoubleSliderStyleSpecification/zh,,True
+Types/DropDownStyleSpecification,2020-07-08 08:46:37,547,Types/DropDownStyleSpecification/zh,,True
+Types/Effect,2019-08-07 20:38:51,909,Types/Effect/zh,,True
+Types/EffectTypeLimitation,2020-04-29 15:26:21,909,Types/EffectTypeLimitation/zh,,True
+Types/ElectricUsagePriority,2019-06-03 15:25:56,780,Types/ElectricUsagePriority/zh,,True
+Types/ElementImageSet,2020-04-06 11:00:39,401,Types/ElementImageSet/zh,,True
+Types/ElementImageSetLayer,2021-08-11 18:14:25,7527,Types/ElementImageSetLayer/zh,,True
+Types/EmptyWidgetStyleSpecification,2021-11-04 19:32:36,392,Types/EmptyWidgetStyleSpecification/zh,,True
+Types/Energy,2018-05-01 12:05:26,787,Types/Energy/zh,,True
+Types/EnergySource,2021-11-26 11:13:20,6677,Types/EnergySource/zh,,True
+Types/EntityPrototypeFlags,2021-08-20 10:07:15,3117,Types/EntityPrototypeFlags/zh,,True
+Types/EquipmentShape,2019-07-27 20:09:55,981,Types/EquipmentShape/zh,,True
+Types/ExplosionDefinition,2020-05-04 11:17:09,355,Types/ExplosionDefinition/zh,,True
+Types/FileName,2013-10-30 14:52:55,847,Types/FileName/zh,,True
+Types/FlameThrowerExplosionTriggerDelivery,2018-08-24 16:00:42,637,Types/FlameThrowerExplosionTriggerDelivery/zh,,True
+Types/FlowStyleSpecification,2019-08-06 21:02:50,351,Types/FlowStyleSpecification/zh,,True
+Types/FluidBox,2021-11-17 15:41:52,3892,Types/FluidBox/zh,,True
+Types/FluidIngredientPrototype,2019-09-16 14:55:06,1421,Types/FluidIngredientPrototype/zh,,True
+Types/FluidProductPrototype,2021-04-26 07:45:44,1530,Types/FluidProductPrototype/zh,,True
+Types/FootprintParticle,2020-05-20 11:44:41,666,Types/FootprintParticle/zh,,True
+Types/FootstepTriggerEffectList,2020-05-20 11:44:39,2092,Types/FootstepTriggerEffectList/zh,,True
+Types/ForceCondition,2018-08-24 13:21:22,113,Types/ForceCondition/zh,,True
+Types/FrameStyleSpecification,2019-08-06 21:06:54,1240,Types/FrameStyleSpecification/zh,,True
+Types/GiveItemModifierPrototype,2021-04-09 15:24:10,306,Types/GiveItemModifierPrototype/zh,,True
+Types/GlowStyleSpecification,2019-08-06 21:07:24,248,Types/GlowStyleSpecification/zh,,True
+Types/GraphStyleSpecification,2020-04-30 16:06:15,1191,Types/GraphStyleSpecification/zh,,True
+Types/GraphicsVariation,2018-03-27 17:54:51,28,Types/GraphicsVariation/zh,,True
+Types/GunSpeedModifierPrototype,2021-03-26 15:45:50,401,Types/GunSpeedModifierPrototype/zh,,True
+Types/HeatBuffer,2019-09-03 21:50:36,1079,Types/HeatBuffer/zh,,True
+Types/HeatConnection,2018-01-26 12:53:07,193,Types/HeatConnection/zh,,True
+Types/HorizontalFlowStyleSpecification,2019-08-06 21:09:31,248,Types/HorizontalFlowStyleSpecification/zh,,True
+Types/HorizontalScrollBarStyleSpecification,2019-08-06 21:19:35,200,Types/HorizontalScrollBarStyleSpecification/zh,,True
+Types/IconData,2021-11-29 10:48:52,1868,Types/IconData/zh,,True
+Types/IconSpecification,2021-02-12 11:04:17,2584,Types/IconSpecification/zh,,True
+Types/ImageStyleSpecification,2020-11-11 13:54:55,539,Types/ImageStyleSpecification/zh,,True
+Types/IngredientPrototype,2019-10-29 14:47:43,620,Types/IngredientPrototype/zh,,True
+Types/InsertItemTriggerEffectItem,2019-08-07 19:53:43,310,Types/InsertItemTriggerEffectItem/zh,,True
+Types/InstantTriggerDelivery,2018-08-24 15:56:18,151,Types/InstantTriggerDelivery/zh,,True
+Types/InterruptibleSound,2020-04-06 11:33:05,214,Types/InterruptibleSound/zh,,True
+Types/InvokeTileEffectTriggerEffectItem,2020-04-27 14:47:36,186,Types/InvokeTileEffectTriggerEffectItem/zh,,True
+Types/ItemCountType,2018-03-27 16:28:30,29,Types/ItemCountType/zh,,True
+Types/ItemIngredientPrototype,2019-09-16 14:55:07,937,Types/ItemIngredientPrototype/zh,,True
+Types/ItemProductPrototype,2022-01-09 20:30:39,2751,Types/ItemProductPrototype/zh,,True
+Types/ItemPrototypeFlags,2021-11-24 11:31:36,1887,Types/ItemPrototypeFlags/zh,,True
+Types/ItemStackIndex,2018-06-25 12:57:54,29,Types/ItemStackIndex/zh,,True
+Types/ItemToPlace,2020-04-22 16:26:41,322,Types/ItemToPlace/zh,,True
+Types/LabelStyleSpecification,2021-02-12 10:21:06,936,Types/LabelStyleSpecification/zh,,True
+Types/LayeredSound,2020-04-30 18:41:48,197,Types/LayeredSound/zh,,True
+Types/LightDefinition,2020-09-08 11:32:47,1451,Types/LightDefinition/zh,,True
+Types/LightFlickeringDefinition,2019-05-02 20:26:10,1165,Types/LightFlickeringDefinition/zh,,True
+Types/LineStyleSpecification,2019-08-06 21:13:18,243,Types/LineStyleSpecification/zh,,True
+Types/LineTriggerItem,2021-03-26 14:16:42,654,Types/LineTriggerItem/zh,,True
+Types/ListBoxStyleSpecification,2019-08-06 21:13:51,378,Types/ListBoxStyleSpecification/zh,,True
+Types/LocalisedString,2021-11-11 16:14:10,2252,Types/LocalisedString/zh,,True
+Types/MapGenPreset,2021-10-08 15:01:38,4570,Types/MapGenPreset/zh,,True
+Types/MapGenSize,2019-12-13 21:37:09,715,Types/MapGenSize/zh,,True
+Types/MaterialAmountType,2018-05-19 17:43:19,29,Types/MaterialAmountType/zh,,True
+Types/MinableProperties,2020-04-09 12:46:43,1747,Types/MinableProperties/zh,,True
+Types/MinimapStyleSpecification,2019-08-06 21:00:29,191,Types/MinimapStyleSpecification/zh,,True
+Types/MiningDrillGraphicsSet,2021-03-25 15:05:35,3871,Types/MiningDrillGraphicsSet/zh,,True
+Types/ModifierPrototype,2021-06-08 15:49:54,7811,Types/ModifierPrototype/zh,,True
+Types/ModuleSpecification,2019-02-11 09:41:57,1021,Types/ModuleSpecification/zh,,True
+Types/NestedTriggerEffectItem,2018-08-24 15:40:18,168,Types/NestedTriggerEffectItem/zh,,True
+Types/NoiseExpression,2020-11-25 15:28:17,27377,Types/NoiseExpression/zh,,True
+Types/NothingModifierPrototype,2021-03-26 15:45:52,187,Types/NothingModifierPrototype/zh,,True
+Types/OrientedCliffPrototype,2018-09-22 21:01:26,229,Types/OrientedCliffPrototype/zh,,True
+Types/PipeConnectionDefinition,2021-11-04 18:57:35,904,Types/PipeConnectionDefinition/zh,,True
+Types/PlaceAsTile,2020-05-04 11:23:38,208,Types/PlaceAsTile/zh,,True
+Types/PlaySoundTriggerEffectItem,2020-09-08 11:45:38,778,Types/PlaySoundTriggerEffectItem/zh,,True
+Types/Position,2018-07-30 10:45:01,432,Types/Position/zh,,True
+Types/ProductPrototype,2021-12-10 11:27:00,823,Types/ProductPrototype/zh,,True
+Types/ProgressBarStyleSpecification,2020-04-30 16:09:20,977,Types/ProgressBarStyleSpecification/zh,,True
+Types/ProjectileAttackParameters,2020-09-08 11:46:36,561,Types/ProjectileAttackParameters/zh,,True
+Types/ProjectileTriggerDelivery,2021-08-11 19:14:49,982,Types/ProjectileTriggerDelivery/zh,,True
+Types/PumpConnectorGraphics,2020-05-04 12:36:35,3062,Types/PumpConnectorGraphics/zh,,True
+Types/PushBackTriggerEffectItem,2018-08-24 15:41:10,168,Types/PushBackTriggerEffectItem/zh,,True
+Types/RadioButtonStyleSpecification,2019-08-06 21:34:09,425,Types/RadioButtonStyleSpecification/zh,,True
+Types/RadiusVisualisationSpecification,2020-04-21 17:19:37,419,Types/RadiusVisualisationSpecification/zh,,True
+Types/RailPieceLayers,2019-06-15 17:02:28,1022,Types/RailPieceLayers/zh,,True
+Types/RealOrientation,2018-07-23 17:51:50,76,Types/RealOrientation/zh,,True
+Types/RenderLayer,2020-04-30 17:38:40,1047,Types/RenderLayer/zh,,True
+Types/Resistances,2020-04-29 15:08:00,994,Types/Resistances/zh,,True
+Types/RotatedAnimation,2022-01-17 14:14:17,6969,Types/RotatedAnimation/zh,,True
+Types/RotatedAnimation4Way,2020-04-30 17:49:45,816,Types/RotatedAnimation4Way/zh,,True
+Types/RotatedAnimationVariations,2019-12-04 11:39:41,94,Types/RotatedAnimationVariations/zh,,True
+Types/RotatedSprite,2021-06-11 11:48:15,8020,Types/RotatedSprite/zh,,True
+Types/ScriptTriggerEffectItem,2020-04-09 12:28:10,311,Types/ScriptTriggerEffectItem/zh,,True
+Types/ScrollBarStyleSpecification,2019-08-06 21:18:08,538,Types/ScrollBarStyleSpecification/zh,,True
+Types/ScrollPaneStyleSpecification,2020-04-30 16:12:39,2034,Types/ScrollPaneStyleSpecification/zh,,True
+Types/SetTileTriggerEffectItem,2020-09-04 12:57:29,375,Types/SetTileTriggerEffectItem/zh,,True
+Types/ShowExplosionOnChartTriggerEffectItem,2018-08-24 15:42:34,165,Types/ShowExplosionOnChartTriggerEffectItem/zh,,True
+Types/SignalColorMapping,2020-05-04 11:26:32,361,Types/SignalColorMapping/zh,,True
+Types/SignalIDConnector,2018-07-30 10:59:28,526,Types/SignalIDConnector/zh,,True
+Types/SimpleModifierPrototype,2021-03-26 15:45:54,244,Types/SimpleModifierPrototype/zh,,True
+Types/SimulationDefinition,2021-12-03 11:19:33,3968,Types/SimulationDefinition/zh,,True
+Types/SliderStyleSpecification,2020-04-30 17:04:19,877,Types/SliderStyleSpecification/zh,,True
+Types/SmokeSource,2020-04-30 17:56:06,1414,Types/SmokeSource/zh,,True
+Types/SpawnPoint,2018-08-22 13:45:04,382,Types/SpawnPoint/zh,,True
+Types/SpeechBubbleStyleSpecification,2020-04-30 16:15:33,622,Types/SpeechBubbleStyleSpecification/zh,,True
+Types/SpiderEnginePrototype,2022-01-21 19:26:12,589,Types/SpiderEnginePrototype/zh,,True
+Types/SpiderLegGraphicsSet,2020-08-19 11:33:25,739,Types/SpiderLegGraphicsSet/zh,,True
+Types/SpiderLegPart,2020-08-19 11:33:23,580,Types/SpiderLegPart/zh,,True
+Types/SpiderLegSpecification,2020-08-19 11:33:31,573,Types/SpiderLegSpecification/zh,,True
+Types/SpiderVehicleGraphicsSet,2022-01-21 00:56:28,1797,Types/SpiderVehicleGraphicsSet/zh,,True
+Types/Sprite,2021-06-11 11:50:46,5862,Types/Sprite/zh,,True
+Types/Sprite4Way,2018-08-24 09:00:14,843,Types/Sprite4Way/zh,,True
+Types/Sprite8Way,2019-01-09 11:16:06,760,Types/Sprite8Way/zh,,True
+Types/SpriteFlags,2021-07-29 12:15:20,2256,Types/SpriteFlags/zh,,True
+Types/SpriteNWaySheet,2021-06-11 11:48:08,4647,Types/SpriteNWaySheet/zh,,True
+Types/SpritePriority,2020-05-04 11:59:42,426,Types/SpritePriority/zh,,True
+Types/SpriteSizeType,2018-05-19 09:15:41,28,Types/SpriteSizeType/zh,,True
+Types/SpriteVariations,2020-09-08 12:50:40,1055,Types/SpriteVariations/zh,,True
+Types/StreamAttackParameters,2020-04-30 13:48:55,939,Types/StreamAttackParameters/zh,,True
+Types/StreamTriggerDelivery,2018-08-24 16:03:27,314,Types/StreamTriggerDelivery/zh,,True
+Types/StretchRule,2021-04-20 11:14:25,796,Types/StretchRule/zh,,True
+Types/Stripe,2020-07-06 10:07:51,566,Types/Stripe/zh,,True
+Types/StyleSpecification,2021-06-18 02:03:42,7268,Types/StyleSpecification/zh,,True
+Types/StyleWithClickableGraphicalSetSpecification,2020-04-30 16:17:55,1119,Types/StyleWithClickableGraphicalSetSpecification/zh,,True
+Types/SwitchStyleSpecification,2019-08-06 21:35:40,843,Types/SwitchStyleSpecification/zh,,True
+Types/TabStyleSpecification,2020-04-30 16:30:32,2065,Types/TabStyleSpecification/zh,,True
+Types/TabbedPaneStyleSpecification,2019-08-06 21:36:21,452,Types/TabbedPaneStyleSpecification/zh,,True
+Types/TableStyleSpecification,2020-04-30 16:27:07,3324,Types/TableStyleSpecification/zh,,True
+Types/TechnologySlotStyleSpecification,2020-04-30 16:20:43,2708,Types/TechnologySlotStyleSpecification/zh,,True
+Types/TextBoxStyleSpecification,2019-08-06 21:45:54,1276,Types/TextBoxStyleSpecification/zh,,True
+Types/ThrowCapsuleAction,2019-07-08 08:40:01,279,Types/ThrowCapsuleAction/zh,,True
+Types/TileSprite,2020-03-17 12:34:31,727,Types/TileSprite/zh,,True
+Types/TileTransitionSprite,2020-05-06 08:41:53,882,Types/TileTransitionSprite/zh,,True
+Types/TileTransitions,2020-05-29 04:55:08,3619,Types/TileTransitions/zh,,True
+Types/TipStatus,2021-06-09 18:46:26,864,Types/TipStatus/zh,,True
+Types/TipTrigger,2021-12-03 11:19:05,9886,Types/TipTrigger/zh,,True
+Types/TransportBeltConnectorFrame,2020-04-14 11:44:06,2006,Types/TransportBeltConnectorFrame/zh,,True
+Types/TreePrototypeVariation,2021-12-03 11:44:19,1336,Types/TreePrototypeVariation/zh,,True
+Types/Trigger,2020-10-22 13:35:49,726,Types/Trigger/zh,,True
+Types/TriggerDelivery,2018-08-24 15:55:24,1304,Types/TriggerDelivery/zh,,True
+Types/TriggerEffect,2020-09-04 12:57:36,3005,Types/TriggerEffect/zh,,True
+Types/TriggerEffectItem,2020-09-04 12:57:34,1575,Types/TriggerEffectItem/zh,,True
+Types/TriggerItem,2021-03-26 14:16:44,1120,Types/TriggerItem/zh,,True
+Types/TriggerTargetMask,2020-10-22 13:36:58,323,Types/TriggerTargetMask/zh,,True
+Types/TurretAttackModifierPrototype,2021-06-11 10:50:48,382,Types/TurretAttackModifierPrototype/zh,,True
+Types/UnitAISettings,2019-04-09 16:46:22,648,Types/UnitAISettings/zh,,True
+Types/UnitSpawnDefinition,2020-05-01 11:25:46,445,Types/UnitSpawnDefinition/zh,,True
+Types/UnlockRecipeModifierPrototype,2021-06-09 18:51:28,253,Types/UnlockRecipeModifierPrototype/zh,,True
+Types/UseOnSelfCapsuleAction,2019-07-08 08:40:50,279,Types/UseOnSelfCapsuleAction/zh,,True
+Types/Vector3D,2019-08-07 20:29:45,103,Types/Vector3D/zh,,True
+Types/VerticalFlowStyleSpecification,2019-08-06 21:46:17,244,Types/VerticalFlowStyleSpecification/zh,,True
+Types/VerticalScrollBarStyleSpecification,2019-08-06 21:19:29,198,Types/VerticalScrollBarStyleSpecification/zh,,True
+Types/WaterReflectionDefinition,2021-11-24 11:17:42,351,Types/WaterReflectionDefinition/zh,,True
+Types/WireConnectionPoint,2018-07-30 10:54:06,208,Types/WireConnectionPoint/zh,,True
+Types/WirePosition,2018-07-30 10:54:01,196,Types/WirePosition/zh,,True
+Types/WorkingSound,2020-04-06 11:48:27,2458,Types/WorkingSound/zh,,True
+Types/WorkingVisualisation,2021-10-08 15:05:36,3059,Types/WorkingVisualisation/zh,,True
+Types/double,2020-09-12 02:51:09,199,Types/double/zh,,True
+Types/string,2019-03-14 14:07:44,54,Types/string/zh,,True
+Types/uint16,2019-06-18 10:09:12,63,Types/uint16/zh,,True
+Types/uint32,2019-06-18 10:09:05,107,Types/uint32/zh,,True
+Types/uint64,2018-08-24 08:44:35,23,Types/uint64/zh,,True
+Types/vector,2020-03-16 12:47:37,313,Types/vector/zh,,True
+Underground belt,2020-09-12 23:32:42,935,Underground belt/zh,2019-11-21 04:05:18,True
+Underground belts,2017-09-02 17:03:29,181,Underground belts/zh,2018-06-23 08:55:52,False
+Units,2021-09-23 17:47:25,6075,Units/zh,2017-09-04 19:52:55,True
+Upcoming features,2021-03-01 11:54:31,963,Upcoming features/zh,2018-06-23 09:17:08,True
+Upgrade planner,2021-03-22 12:34:27,10398,Upgrade planner/zh,,True
+Uranium,2021-03-01 12:12:44,790,Uranium/zh,,True
+Uranium-235,2020-01-08 17:17:11,829,Uranium-235/zh,2018-07-17 10:17:57,True
+Uranium-238,2020-09-11 21:25:42,660,Uranium-238/zh,2019-01-25 20:08:31,True
+Uranium ammo (research),2020-09-25 03:39:28,333,Uranium ammo (research)/zh,2022-01-23 02:37:39,False
+Uranium cannon shell,2021-10-29 16:56:32,1229,Uranium cannon shell/zh,2018-07-19 02:07:44,True
+Uranium fuel cell,2018-10-07 14:49:05,711,Uranium fuel cell/zh,2018-07-17 14:18:18,True
+Uranium ore,2019-01-27 23:03:59,1325,Uranium ore/zh,2018-07-17 08:35:12,True
+Uranium processing,2021-04-20 06:26:52,2798,Uranium processing/zh,2018-07-18 02:36:10,True
+Uranium processing (research),2020-09-14 06:46:21,330,Uranium processing (research)/zh,2022-01-22 15:03:19,False
+Uranium rounds magazine,2021-10-29 16:56:30,374,Uranium rounds magazine/zh,2022-01-23 03:00:33,False
+Used up uranium fuel cell,2018-07-17 21:20:53,419,Used up uranium fuel cell/zh,2018-07-17 21:21:10,False
+Utility science pack,2020-09-17 18:17:27,3016,Utility science pack/zh,2019-02-26 17:26:31,True
+Utility science pack (research),2020-09-14 06:49:50,193,Utility science pack (research)/zh,2021-09-11 13:59:30,False
+Vehicle,2020-10-27 13:15:15,271,Vehicle/zh,2018-07-18 23:46:19,True
+Version history,2021-01-19 16:21:11,1341,Version history/zh,,True
+Version history/0.10.0,2017-06-22 15:10:08,42420,Version history/0.10.0/zh,,True
+Version history/0.11.0,2017-06-22 15:04:08,57926,Version history/0.11.0/zh,,True
+Version history/0.12.0,2021-11-08 09:38:52,102703,Version history/0.12.0/zh,,True
+Version history/0.13.0,2018-02-27 10:56:03,81843,Version history/0.13.0/zh,,True
+Version history/0.14.0,2017-06-22 15:43:10,42873,Version history/0.14.0/zh,,True
+Version history/0.15.0,2020-05-29 02:31:50,135486,Version history/0.15.0/zh,,True
+Version history/0.16.0,2018-12-13 21:17:19,124476,Version history/0.16.0/zh,,True
+Version history/0.17.0,2019-11-19 14:28:58,242724,Version history/0.17.0/zh,,True
+Version history/0.18.0,2020-08-11 10:42:36,91401,Version history/0.18.0/zh,,True
+Version string format,2018-03-20 20:26:21,762,Version string format/zh,,True
+Wagon,2017-12-24 14:31:19,260,Wagon/zh,2018-07-04 10:09:45,False
+Wall,2022-01-12 04:26:21,3412,Wall/zh,2019-02-26 17:26:50,True
+Water,2021-03-15 18:41:35,2466,Water/zh,2017-12-25 13:35:08,True
+Wave defense,2021-11-17 14:57:25,8149,Wave defense/zh,,True
+Weapon shooting speed (research),2019-04-12 14:42:48,2533,Weapon shooting speed (research)/zh,2019-12-24 04:36:41,False
+Weapons,2017-09-02 17:08:36,435,Weapons/zh,2018-07-18 23:49:47,False
+Wood,2020-12-11 19:06:12,775,Wood/zh,2019-02-26 17:23:56,True
+Wood (archived),2019-02-26 17:16:45,268,Wood (archived)/zh,2019-02-26 17:17:49,False
+Wooden chest,2019-02-27 10:02:19,608,Wooden chest/zh,2020-08-17 13:24:49,False
+Worker robot cargo size (research),2019-05-09 07:09:10,1350,Worker robot cargo size (research)/zh,2019-02-28 12:25:41,True
+Worker robot speed (research),2019-11-03 13:10:28,3518,Worker robot speed (research)/zh,2019-02-28 12:25:51,True
