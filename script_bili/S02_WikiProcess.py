@@ -4,19 +4,18 @@
 
     在输出wiki用的字符串之前，还输出有哪些页面没有完成。
 """
-from script_bili.S01_UpdateWantedPage import need_edit, pages_to_cat_dict
+from script_bili.BiliTool import get_items_dict
 from tool.wiki import get_bili_tool as get_tool
 
 
 def main():
     wiki = get_tool()
 
-    all_page = wiki.pages(use_cache=True)
-    all_page = [page for page in all_page if need_edit(wiki, page)]
+    pages: dict = get_items_dict(wiki)
 
-    pages: dict = pages_to_cat_dict(wiki, all_page)
+    page_number = sum([len(pages[x]) for x in pages])
 
-    page_number = sum([len(pages[x]) for x in pages])  # 这里应该是213，现在是212还不知道为啥少了谁。
+    print("all page:", page_number)
 
     # 计算每个类别完成的页面数量，输出未完成的页面
     done_page = 0
