@@ -31,6 +31,7 @@
 为所有物品添加相关物品 如：https://wiki.factorio.com/Fast_underground_belt
                        https://wiki.factorio.com/Light_oil/zh
 
+为所有物品添加请参阅，如文章，相关物品等等。
 
 
 ## wiki

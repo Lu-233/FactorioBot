@@ -6,7 +6,7 @@ import requests
 
 from script_bili.bili_session import login_bili_wiki
 from script_official.official_tool import login_official_wiki
-from tools import load_json
+from tool.tools import load_json
 
 
 def main():
@@ -173,6 +173,21 @@ class WikiTool:
             tested in wiki and bili
         """
         return self.session.get(self.api_url, params=params)
+
+    def update(self, pageid, content, summary, minor=False):
+        token = self.edit_token()
+        res = self.session.post(self.api_url, data={
+            'format': 'json',
+            'action': 'edit',
+            'pageid': pageid,
+            'text': content,
+            'summary': summary,
+            'minor': minor,
+            'bot': True,
+            'token': token,
+        })
+        print(json.dumps(res.json(), ensure_ascii=False))
+        self.page_info(pageid, use_cache=False)
 
     def get_linkshere(self, title):
         """

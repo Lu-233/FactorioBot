@@ -16,7 +16,7 @@ def main():
     for key, items in pages.items():
         # if key != "零件":
         for item in items:
-            data = wiki.page_info(item["pageid"], use_cache=True)
+            data = wiki.page_info(item["pageid"], use_cache=False)
             print(data)
 
 

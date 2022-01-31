@@ -21,6 +21,8 @@
   - exclude_page_list.json 排除的文章列表
   - category_pages 缓存每个分类的页面列表。
 
+
+
 ### bilibili factorio wiki : script_bili
 
 - bili_session.py 从浏览器的登录cookie获取登录session（biliwiki没有密码/邮件）
@@ -40,6 +42,13 @@
 - S04： 获取页面信息 【以前需要一堆代码，现在只要几行了】
 - S05：对比页面更新时间
 - S06：输出所有中文页面标题（用来检查翻译表是否需要增加）
+
+### 游戏数据读取：game_data
+
+- tech_data.py 读取所有科技
+- gen_tech_nav 生成科技导航条（用于 bili. fact. wiki）
+
+
 
 ## Plan
 

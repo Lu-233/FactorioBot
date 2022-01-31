@@ -4,6 +4,7 @@
     thanks https://github.com/YorkSu/bwt
 """
 from collections import defaultdict
+from pathlib import Path
 
 from tool.wiki import get_bili_tool as get_tool
 
@@ -18,11 +19,32 @@ def main():
     """
     wiki = get_tool()
 
-    pages = get_items(wiki)
+    pages = get_items_dict(wiki)  # 物流 零件 生产 武器
 
-    for key, value in pages.items():
-        print(key, value)
 
+    cat = "物流"
+    for page in pages[cat][:10]:
+        page_id = page["pageid"]
+        page_name = page["title"]
+        page_content = wiki.page_info(page_id)["*"]
+
+        page_content = process_page_content(page_content)
+
+        rst_content = f"{cat}_{page_id}_{page_name}\n" \
+                      f"=============================================\n\n" \
+                      f".. include:: ../_static/{cat}_{page_id}_{page_name}.txt\n" \
+                      f"    :literal:" \
+                      f"\n\n"
+
+        rst_file = Path(r"C:\Game\factorio_bili_wiki\source\page_content") / f"{cat}_{page_id}_{page_name}.rst"
+        rst_file.write_text(rst_content, encoding="UTF8")
+
+        txt_file = Path(r"C:\Game\factorio_bili_wiki\source\_static") / f"{cat}_{page_id}_{page_name}.txt"
+        txt_file.write_text(page_content, encoding="UTF8")
+
+def process_page_content(page_content: str):
+
+    return page_content
 
 def get_items(wiki, only_undone=False) -> list:
     """ all items page list """
