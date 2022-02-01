@@ -30,7 +30,7 @@ def main():
                 show_title = "4"
 
             if show_title:
-                tech_nav += "**[[科技-" + title + "|" + show_title + "]]" + "\n"
+                tech_nav += "**[[科技:" + title + "|" + show_title + "]]" + "\n"
             else:
                 # {{图标|科技-电能储存||科技:电能储存|16|frame=none}}
                 tech_nav += "*{{图标|科技-" + title + "||科技:" + title + "|16|frame=none}}"

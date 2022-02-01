@@ -152,32 +152,37 @@ def get_tech_dict():
 tech_dict = get_tech_dict()
 
 
-def tech2zh(name: str, pre_name="科技:") -> str:
-    for line in tech_list:
-        if name == line[2]:
-            return pre_name + line[1]
+def tech2zh(name: str, pre_name="科技:", techs: dict = None, with_tail_num=True) -> str:
+    """ tech inside name to zh name """
+    if techs is None:
+        techs = {line[2]: line[1] for line in tech_list}
 
-    # try xx-3 > xx and xx-3 > xx-1
-    names = name.split("-")
-    if names[-1].isnumeric():
-        name2 = name.replace(f"-{names[-1]}", "")
+    zh_name = ""
+    for n in tech_may_names(name):
+        if n in techs:
+            zh_name = techs[n]
+            break
 
-        # try xx
-        for line in tech_list:
-            if name2 == line[2]:
-                return pre_name + line[1] + names[-1]
+    if not zh_name:
+        raise ValueError(f"can not find name: {name}")
 
-        # try xx-1
-        name3 = name.replace(f"-{names[-1]}", "-1")
+    if with_tail_num and name.split("-")[-1].isnumeric():
+        if not zh_name[-1].isnumeric():
+            zh_name += str(name.split("-")[-1])
+        zh_name = zh_name.replace("1","")  # 避免科技结尾出现 1
 
-        for line in tech_list:
-            if name3 == line[2]:
-                return pre_name + line[1] + names[-1]
-    # try xx-1
-    name4 = name + "-1"
+    return pre_name + zh_name
 
-    for line in tech_list:
-        if name4 == line[2]:
-            return pre_name + line[1]
 
-    raise ValueError(f"未知的物品名 {name}")
+def tech_may_names(name):
+    """ tech name guess """
+    names = [name]
+
+    tail = name.split("-")[-1]
+    if tail.isnumeric():
+        names.append(name.replace(f"-{tail}", ""))  # xx-5 > xx
+        names.append(name.replace(f"-{tail}", "-1"))  # xx-5 > xx-1
+    else:
+        names.append(name + "-1")  # xx > xx-1
+
+    return names

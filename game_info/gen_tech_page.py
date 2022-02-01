@@ -1,71 +1,288 @@
-from game_info.tech_loader import load_tech
+import json
+from collections import defaultdict
+
+from game_info.tech_data import tech2zh, tech_list, tech_group_dict
+from game_info.tech_loader import load_tech, load_base_cfg
 
 
 def main():
-    """
-        icons, icon
-        name : str -数 结尾，本地化时，会忽略数字。
-        upgrade : 包含升级，wiki需要只写一个
-        unit : 研究点
-            count : uint64 : 需要多少个研究点，指定了count_formula则可能不指定它
-            count_formula : str : 公式，按BODMAS顺序执行
-            time : 每个研究点需要多少时间，秒
-            ingredients : 一个研究点需要的成分清单
-        max_level : 最高等级 infinite
-        prerequisites : 前置科技列表
-        effects : 技术效果列表
-
-        关注order，用于生成技术列表
-
-        ignore_tech_cost_multiplier 忽略难度乘数
-
-        localised_description 翻译时的解释
-        localised_name 翻译时的名字
-
-        upgrade：无参考意义，因为一些需要单独列出的科技也为true
-    """
+    """ 生成技术页面 """
 
     keys = ["unit", "effects", "", "", ""]
-    todo_ket = ["icon_mipmaps", "icon_size", "icons", "icon"]
-    dismiss = ["order", "upgrade", "order"]
+    dismiss = ["order", "upgrade", "icon_mipmaps", "icon_size", "icons", "icon"]
     done_keys = ["name", "max_level", "prerequisites", "ignore_tech_cost_multiplier", "", "", "", "", "", ""]
 
     tech_data = load_tech("1.1.53")
-    tech_names = [t["name"] for k, t in tech_data.items()]
-    print(len(tech_names))
-    for i, (key, data) in enumerate(tech_data.items()):
-        inside_name = data["name"]
-        name = data["name"]
-        if "localised_name" in data.keys():
-            name: str = data["localised_name"][0]
-            name = name.replace("technology-name.", "")
+    base_cfg = load_base_cfg()
 
-        count_formula = ""
-        infinite_level = False
-        if "max_level" in data:
-            assert data["max_level"] == "infinite"
-            infinite_level = True
-            count_formula = data["unit"]["count_formula"]
+    pages = []
+    after_tech = defaultdict(list)
 
-        prerequisites = data["prerequisites"] if "prerequisites" in data else []
-        from game_info.tech_data import tech2zh
-        prerequisites = [tech2zh(p) for p in prerequisites]
+    for i, (_, data) in enumerate(tech_data.items()):
+        inside_name: str = data["name"]
+        if inside_name in single_tech_page_black_list:
+            if inside_name not in merge_tech_page_white_list:
+                continue
+            builder = PageBuilder(tech_data, base_cfg, inside_name, False)
+            i = 1
+            while inside_name.replace("-1", f"-{i}") in single_tech_page_black_list:
+                tmp_builder = PageBuilder(tech_data, base_cfg, inside_name.replace("-1", f"-{i}"))
+                builder.buff_list.append(tmp_builder.buff)
+                builder.unit_list.append(tmp_builder.unit)
+                builder.prerequisites_list.append(tmp_builder.prerequisites)
+                # print(tmp_builder.prerequisites)
+                for tech in tmp_builder.prerequisites:
+                    after_tech[tech].append(tmp_builder.name)
+                i += 1
+        else:
+            builder = PageBuilder(tech_data, base_cfg, inside_name)
+            for tech in builder.prerequisites:
+                after_tech[tech].append(builder.name)
+        pages.append(builder)
 
-        ignore = "ignore_tech_cost_multiplier"
-        ignore = bool(data[ignore]) if ignore in data else False
+    for p in pages:
+        if p.name in after_tech:
+            p.after_tech = after_tech[p.name]
 
-        unit = data["unit"]
-        # count may
-        # count_formula may
-        # time
-        # ingredients
-        # if inside_name in single_tech_page_black_list and inside_name not in merge_tech_page_white_list:
+    from tool.wiki import get_bili_tool
+    wiki = get_bili_tool()
+    for p in pages:
+        if p.inside_name not in single_tech_page_black_list:
+            page_str = p.gen_page()
+            print("update page ", p.name)
+
+            token = wiki.edit_token()
+            res = wiki.session.post(wiki.api_url, data={
+                'format': 'json',
+                'action': 'edit',
+                'title': p.name,
+                'text': page_str,
+                'summary': 'bot: 添加技术页面：' + p.name,
+                'bot': True,
+                'token': token,
+            })
+            print(json.dumps(res.json(), ensure_ascii=False))
+
+
+
+class PageBuilder:
+    name: str
+    desc: str
+    ignore_tech_cost_multiplier: bool
+
+    unit: dict  # {count time ingredients}
+    prerequisites: list
+    buff: list  # list of desc
+    unlock: list  # list of zh name
+
+    after_tech: list
+
+    buff_list: list  # for multi level page
+    unit_list: list  # for multi level page
+    prerequisites_list: list  # for multi level page
+
+    after_tech_list: list
+
+    def __init__(self, tech_data, base_cfg, inside_name, single_page=True):
+        self.inside_name = inside_name
+        self.name = ""
+        self.en_name = ""
+        self.sub_cls = ""
+
+        self.page_data = tech_data[inside_name]
+        self.base_cfg = base_cfg
+
+        self.init_page_info(inside_name)
+
+        self.single_page = single_page
+        self.after_tech = []
+
+        if not single_page:
+            self.buff_list: list = []
+            self.unit_list: list = []
+            self.prerequisites_list: list = []
+            self.after_tech_list: list = []
+
+    def gen_page(s):
+        """
+            页面描述
+            前置科技
+            研究效果，和影响的具体内容，是谁的前置科技
+            研究成本
+        """
+        # head
+        page = "{{面包屑|科技}}" + "\n"
+        page += "{{科技信息" + "\n"
+        page += "|科技名称={{PAGENAME}}" + "\n"
+        page += f"|英文={s.en_name}" + "\n"
+        page += f"|内部名={s.inside_name}" + "\n"
+        page += f"|分类=科技" + "\n"
+        page += f"|子分类={s.sub_cls}" + "\n"
+        page += f"|数据版本=1.1.53" + "\n"
+        page += "}}" + "\n"
+        page += f"" + "\n"
+
+        # content
+        page += f"'''{s.name}'''：{s.desc}" + "\n"
+        page += f"" + "\n"
+        if len(s.unlock) > 0:
+            page += f"== 解锁: ==" + "\n"
+            page += f"" + "\n"
+            page += f"科技解锁了以下配方：" + "\n"
+            page += f"" + "\n"
+            for u in s.unlock:
+                page += "* {{图标|" + u + "|||32|frame=none}} [[" + u + "]]\n"
+
+            page += f"" + "\n"
+
+        if len(s.buff) > 0:
+            page += f"== 加成: ==" + "\n"
+            page += f"" + "\n"
+            for u in s.buff:
+                page += f"* {u}" + "\n"
+
+            page += f"" + "\n"
+
+        if s.unit:
+            page += f"== 研究成本: ==" + "\n"
+            page += f"" + "\n"
+            page += f"在研究中心没有加成的情况下，研究成本如下所示。"
+            if not s.ignore_tech_cost_multiplier:
+                page += f"如果你选择了自定义研究难度系数，还要在当前的成本上乘以系数。" + "\n"
+            else:
+                page += f"即使你选择了自定义研究难度系数，此研究的成本也不会变化。" + "\n"
+            page += f"" + "\n"
+            page += f'{s.name.replace("科技:","")}共需要{s.unit["count"]*s.unit["time"]}秒研究时间'
+            for it in s.unit["ingredients"]:
+                page += f'，{s.unit["count"]}瓶{it}'
+            page += f"。" + "\n"
+            page += f"" + "\n"
+            # page += "({{I|时间|" + str(s.unit["time"]) + "|64}}"
+            page += "研究成本 = ( {{图标|时间|" + str(s.unit["time"]) + "}}"
+            for it in s.unit["ingredients"]:
+                page += " + {{图标|" + it + "|frame=none}}"
+            page += ") ✖ " + str(s.unit["count"]) + "\n"
+            page += f"" + "\n"
+
+        if len(s.prerequisites) > 0:
+            page += f"== 前置科技 ==" + "\n"
+            page += f"" + "\n"
+            page += f"只有掌握了前置科技，才能研究本科技。" + "\n"
+            page += f"" + "\n"
+            for pre in s.prerequisites:
+                page += "* {{图标|" + pre.replace(":","-") + "||" + pre + "|48}} [[" + pre + "|" + pre.replace("科技:","") +"]]" + "\n"
+
+        if len(s.after_tech) > 0:
+            page += f"== 解锁科技 ==" + "\n"
+            page += f"" + "\n"
+            page += f"掌握{s.name}后，可以研究：" + "\n"
+            page += f"" + "\n"
+            for pre in s.after_tech:
+                page += "* {{图标|" + pre.replace(":","-") + "||" + pre + "|48}} [[" + pre + "|" + pre.replace("科技:","") +"]]" + "\n"
+
+        page += f"" + "\n"
+
+        # unit: dict  # {count time ingredients}
+        # prerequisites: list
+        # buff: list  # list of desc
+        # unlock: list  # list of zh name
         #
-        #     print(i, tech2zh(name), "\t", unit)
+        # after_tech: list
+        # end
+        page += "[[分类:科技]]" + "\n"
+        page += "{{科技导航}}" + "\n"
 
-def gen_single_page(tech_data):
+        return page
 
-    pass
+    def init_page_info(self, inside_name):
+
+        page = self.page_data
+
+        # name and desc
+        name_find_name = inside_name
+        desc_find_name = inside_name
+        if "localised_name" in page.keys():
+            name_find_name: str = page["localised_name"][0]
+            name_find_name = name_find_name.replace("technology-name.", "")
+        if "localised_description" in page.keys():
+            desc_find_name: str = page["localised_description"][0]
+            desc_find_name = desc_find_name.replace("technology-description.", "")
+
+        self.name = tech2zh(name_find_name, "科技:", self.base_cfg["technology-name"])
+        self.desc = tech2zh(desc_find_name, "", self.base_cfg["technology-description"], False)
+
+        for line in tech_list:
+            if inside_name == line[2]:
+                self.sub_cls = tech_group_dict[line[0]]
+                self.en_name = line[3]
+
+        u = page["unit"]
+        self.unit = {
+            "count": u["count"] if "count" in u else None,
+            "count_formula": u["count_formula"] if "count_formula" in u else None,
+            "time": u["time"],
+            "ingredients": [self.item2zh(k) for k in u["ingredients"].keys()],
+        }
+        self.ignore_tech_cost_multiplier = "ignore_tech_cost_multiplier" in page
+        self.prerequisites = [tech2zh(p, "科技:") for p in page["prerequisites"]] if "prerequisites" in page else []
+
+        self.buff = []
+        self.unlock = []
+        if "effects" in page:
+            for effects in page["effects"]:
+                if effects["type"] == "unlock-recipe":
+                    self.unlock.append(self.item2zh(effects['recipe']))
+                else:
+                    self.buff.append(self.get_effects_dict()[effects["type"]](effects))
+
+    def get_effects_dict(self):
+        ammo_category_dict = {
+            "bullet": "子弹", "laser": "激光", "beam": "能量束", "electric": "电击",
+            "shotgun-shell": "霰弹", "cannon-shell": "制式炮弹", "flamethrower": "火焰",
+            "grenade": "手雷", "landmine": "地雷", "rocket": "火箭弹", "artillery-shell": "重炮炮弹"
+        }
+        turret_id_dict = {
+            "gun-turret": "机枪炮塔射速",
+            "flamethrower-turret": "火焰炮塔伤害",
+        }
+        effects_dict = {
+            "ammo-damage": lambda e: ammo_category_dict[e["ammo_category"]] + f'伤害 +{int(e["modifier"] * 100)}%',
+            "gun-speed": lambda e: ammo_category_dict[e["ammo_category"]] + f'射速 +{int(e["modifier"] * 100)}%',
+            "worker-robot-storage": lambda e: f"作业机器人货物运量 +{e['modifier']}",
+            "worker-robot-speed": lambda e: f"作业机器人移动速度 +{int(e['modifier'] * 100)}%",
+            "artillery-range": lambda e: f"重炮炮弹射程 +{int(e['modifier'] * 100)}%",
+            "train-braking-force-bonus": lambda e: f"火车制动力 +{int(e['modifier'] * 100)}%",
+            "maximum-following-robots-count": lambda e: f"战斗无人机跟随上限 +{e['modifier']}",
+            "stack-inserter-capacity-bonus": lambda e: f"集装机械臂搬运量 +{e['modifier']}",
+            "inserter-stack-size-bonus": lambda e: f"常规机械臂搬运量 +{e['modifier']}",
+            "ghost-time-to-live": lambda e: f"设施规划重建时限 +{int(e['modifier'] / 216000)}h",
+            "character-logistic-requests": lambda e: f"解锁背包物流需求区",
+            "character-logistic-trash-slots": lambda e: f"背包物流回收区 +{e['modifier']}",
+            "mining-drill-productivity-bonus": lambda e: f"采矿产能 +{int(e['modifier'] * 100)}%",
+            "laboratory-speed": lambda e: f"研究中心研发速度 +{int(e['modifier'] * 100)}%",
+            "character-mining-speed": lambda e: f"人工采矿速度 +{int(e['modifier'] * 100)}%",
+            "character-inventory-slots-bonus": lambda e: f"背包容量 +{e['modifier']}",
+            "turret-attack": lambda e: turret_id_dict[e["turret_id"]] + f" +{e['modifier']}",
+        }
+        return effects_dict
+
+    def item2zh(self, in_name):
+        if in_name in ["solid-fuel-from-light-oil", "solid-fuel-from-heavy-oil", "solid-fuel-from-petroleum-gas"]:
+            in_name = "solid-fuel"
+        if in_name in self.base_cfg['item-name']:
+            return self.base_cfg['item-name'][in_name]
+        if in_name in self.base_cfg['entity-name']:
+            return self.base_cfg['entity-name'][in_name]
+        if in_name in self.base_cfg['recipe-name']:
+            return self.base_cfg['recipe-name'][in_name]
+        if in_name in self.base_cfg['equipment-name']:
+            return self.base_cfg['equipment-name'][in_name]
+        if in_name in self.base_cfg['fluid-name']:
+            return self.base_cfg['fluid-name'][in_name]
+        if in_name in self.base_cfg['recipe-name']:
+            return self.base_cfg['recipe-name'][in_name]
+        raise ValueError(f"can not find name {in_name}")
+
 
 def check_infinite(name: str, tech_names: list, tech_data):
     # tech_inside_names
@@ -74,7 +291,7 @@ def check_infinite(name: str, tech_names: list, tech_data):
         return False
 
     i = 1
-    while name.replace(names[-1], str(i+1)) in tech_names:
+    while name.replace(names[-1], str(i + 1)) in tech_names:
         i += 1
 
     end_name = name.replace(names[-1], str(i))
@@ -189,7 +406,6 @@ single_tech_page_black_list = [
     "worker-robots-storage-2",
     "worker-robots-storage-3",
 ]
-
 
 if __name__ == '__main__':
     main()
