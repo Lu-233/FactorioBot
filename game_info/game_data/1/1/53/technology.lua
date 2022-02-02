@@ -1,6 +1,3 @@
-
-
-
 local physical_projectile_damage_1_icon = "__base__/graphics/technology/physical-projectile-damage-1.png"
 local physical_projectile_damage_2_icon = "__base__/graphics/technology/physical-projectile-damage-2.png"
 local stronger_explosives_1_icon = "__base__/graphics/technology/stronger-explosives-1.png"
