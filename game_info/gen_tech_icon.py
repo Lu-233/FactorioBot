@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from game_info.tech_loader import load_tech
+from game_info.data_loader import load_tech
 from game_info.tech_data import tech2zh
 
 

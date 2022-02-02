@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 
 from game_info.tech_data import tech2zh, tech_list, tech_group_dict
-from game_info.tech_loader import load_tech, load_base_cfg
+from game_info.data_loader import load_tech, load_base_cfg
 
 
 def main():
@@ -47,9 +47,12 @@ def main():
     from tool.wiki import get_bili_tool
     wiki = get_bili_tool()
     for p in pages:
+        # if p.inside_name in merge_tech_page_white_list[:3]:
+        #     page_str = p.gen_merge_page()
+        #     print("update page ", p.name)
         if p.inside_name not in single_tech_page_black_list:
+            # print(p.name)
             page_str = p.gen_page()
-            print("update page ", p.name)
 
             token = wiki.edit_token()
             res = wiki.session.post(wiki.api_url, data={
@@ -57,13 +60,11 @@ def main():
                 'action': 'edit',
                 'title': p.name,
                 'text': page_str,
-                'summary': 'bot: 添加技术页面：' + p.name,
+                'summary': 'bot: 更新技术页面：' + p.name + " 现在迁至科技和解锁科技以表格形式呈现",
                 'bot': True,
                 'token': token,
             })
             print(json.dumps(res.json(), ensure_ascii=False))
-
-
 
 class PageBuilder:
     name: str
@@ -103,6 +104,89 @@ class PageBuilder:
             self.prerequisites_list: list = []
             self.after_tech_list: list = []
 
+    # noinspection DuplicatedCode
+    def gen_merge_page(s):
+        """ 生成多个等级的页面，buff页面 """
+        if s.single_page:
+            raise RuntimeError(" need use gen_page")
+        # head
+        page = "{{面包屑|科技}}" + "\n"
+        page += "{{科技信息" + "\n"
+        page += "|科技名称={{PAGENAME}}" + "\n"
+        page += f"|英文={s.en_name}" + "\n"
+        page += f"|内部名={s.inside_name}" + "\n"
+        page += f"|分类=科技" + "\n"
+        page += f"|子分类={s.sub_cls}" + "\n"
+        page += f"|数据版本=1.1.53" + "\n"
+        page += "}}" + "\n"
+        page += f"" + "\n"
+
+        # content
+
+        page += f"'''{s.name}'''：{s.desc}" + "\n"
+        page += f"" + "\n"
+        page += f'{s.name.replace("科技:","")}包含多个等级，如下表所示：' + "\n"
+        page += f"" + "\n"
+
+        # skip unlock all is empty
+
+        # 剩下的做一个大表
+        # print(p.name, len(p.buff_list), len(p.unit_list), p.prerequisites_list)
+        tech_names = [line[1] for line in tech_list]
+
+        page += '{| class="wikitable"' + "\n"
+        page += '! 科技 !! 成本 !! 加成 !! 前置科技' + "\n"
+        for i, (buff, unit, pre) in enumerate(zip(s.buff_list,s.unit_list,s.prerequisites_list)):
+            page += '|-' + "\n"
+
+            unit_str = ""
+            unit_str += "{{图标|时间|" + str(unit["time"]) + "||40}}"
+            for it in unit["ingredients"]:
+                unit_str += " {{图标|" + it + "|1||40}}"
+            if unit["count_formula"]:
+                unit_str += ' <br> <big> ✖ {{按键|' + unit["count_formula"] + '}}</big> 其中，{{按键|L}}为等级'
+            else:
+                unit_str += f' <big> ✖ {unit["count"]}</big>'
+
+            buff_str = ""
+            for it in buff:
+                buff_str += it + "<br>"
+            buff_str = buff_str.rstrip("<br>")
+
+            pre_str = ""
+            for it in pre:
+
+                if it.replace("科技:", "") in tech_names and it != s.name:
+                    pre_str += " [[" + it + "|" + it.replace("科技:", "") + "]]" + "<br>"
+                    # pre_str += "{{图标|" + it.replace(":", "-") + "||" + it.replace("科技:", "") + "|48}} "
+                else:
+                    pre_str += " " + it.replace("科技:", "") + "<br>"
+            pre_str = pre_str.rstrip("<br>")
+            if unit["count_formula"]:
+                level_str = f"{i+1}-&infin;"
+            else:
+                level_str = str(i+1)
+
+            page += '| ' \
+                    '<div style="text-align:center;">{{图标|' + s.name.replace(":","-") + '|' + level_str + '||48}}' \
+                    '<br>' + s.name.replace("科技:", "") + f'{level_str}</div>' \
+                    '||' \
+                    f'{unit_str}' \
+                    '|| ' \
+                    f'{buff_str}' \
+                    '|| ' \
+                    f'{pre_str}' \
+                    "\n"
+
+        page += '|}' + "\n"
+
+        page += f"" + "\n"
+
+        page += "[[分类:科技]]" + "\n"
+        page += "{{科技导航}}" + "\n"
+
+        return page
+
     def gen_page(s):
         """
             页面描述
@@ -110,6 +194,8 @@ class PageBuilder:
             研究效果，和影响的具体内容，是谁的前置科技
             研究成本
         """
+        if not s.single_page:
+            raise RuntimeError(" need use gen_merge_page")
         # head
         page = "{{面包屑|科技}}" + "\n"
         page += "{{科技信息" + "\n"
@@ -169,26 +255,44 @@ class PageBuilder:
             page += f"" + "\n"
             page += f"只有掌握了前置科技，才能研究本科技。" + "\n"
             page += f"" + "\n"
+            # for pre in s.prerequisites:
+            #     page += "* {{图标|" + pre.replace(":","-") + "||" + pre + "|48}} [[" + pre + "|" + pre.replace("科技:","") +"]]" + "\n"
+
+            page += '{| class="wikitable"' + "\n"
             for pre in s.prerequisites:
-                page += "* {{图标|" + pre.replace(":","-") + "||" + pre + "|48}} [[" + pre + "|" + pre.replace("科技:","") +"]]" + "\n"
+                page += '|'
+                page += ' <div style="text-align:center;">{{图标|' + pre.replace(":", "-") + "||" + pre + "|48}}</div>  ||"
+            page = page.rstrip("||")
+            page += "\n" + '|-' + "\n"
+            for pre in s.prerequisites:
+                page += '| '
+                page += ' <div style="text-align:center;">[[' + pre + "|" + pre.replace("科技:","") + "]]</div> ||"
+            page = page.rstrip("||")
+            page += '\n|}' + "\n"
+
+            page += f"" + "\n"
 
         if len(s.after_tech) > 0:
             page += f"== 解锁科技 ==" + "\n"
             page += f"" + "\n"
-            page += f"掌握{s.name}后，可以研究：" + "\n"
+            page += f"{s.name}是以下科技的前置科技，研究{s.name.replace('科技:','')}是它们的必要条件：" + "\n"
             page += f"" + "\n"
+            page += '{| class="wikitable"' + "\n"
+            page += '' + "\n"
+            page += '' + "\n"
             for pre in s.after_tech:
-                page += "* {{图标|" + pre.replace(":","-") + "||" + pre + "|48}} [[" + pre + "|" + pre.replace("科技:","") +"]]" + "\n"
+                page += '|'
+                page += ' <div style="text-align:center;">{{图标|' + pre.replace(":", "-") + "||" + pre + "|48}}</div>  ||"
+            page = page.rstrip("||")
+            page += "\n" + '|-' + "\n"
+            for pre in s.after_tech:
+                page += '| '
+                page += ' <div style="text-align:center;">[[' + pre + "|" + pre.replace("科技:","") + "]]</div> ||"
+            page = page.rstrip("||")
+            page += '\n|}' + "\n"
 
-        page += f"" + "\n"
+        page += '' + "\n"
 
-        # unit: dict  # {count time ingredients}
-        # prerequisites: list
-        # buff: list  # list of desc
-        # unlock: list  # list of zh name
-        #
-        # after_tech: list
-        # end
         page += "[[分类:科技]]" + "\n"
         page += "{{科技导航}}" + "\n"
 
