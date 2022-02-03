@@ -7,7 +7,10 @@
   * 游戏目录下的data文件夹。
 - github.com/wube/factorio-data
   * factorio-data项目保存了游戏所有版本的数据
-
+- 游戏中
+  * /c for name, _ in pairs(game.item_prototypes) do game.write_file("items.txt", name .. "\n", true) end
+  * /c for name, _ in pairs(game.item_prototypes) do game.write_file("items.txt", name .. "\n", true) end
+/c for name, recipe in pairs(game.player.force.recipes) do recipe.enabled = true end
 ## 汉化
 
 有两个文件，

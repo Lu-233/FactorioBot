@@ -37,9 +37,12 @@ def remove_num_tail(name: str):
     return name
 
 
-def load_base_cfg():
+def load_base_cfg(lang=None):
     config = configparser.ConfigParser()
-    config.read('trans/base.cfg', "UTF8")
+    if lang is None:
+        config.read('trans/base.cfg', "UTF8")
+    else:
+        config.read(f'trans/{lang}/base.cfg', "UTF8")
     return config
 
 
@@ -98,6 +101,32 @@ def load_item(ver="1.1.53", use_cache=True) -> OrderedDict:
 
     return data
 
+def load_entities(ver="1.1.53", use_cache=True) -> OrderedDict:
+    tech_cache = Path(f"game_data/{ver}.entities")
+
+    if use_cache and tech_cache.exists():
+        data: OrderedDict = pickle.loads(tech_cache.read_bytes())
+        return data
+
+    lua = LuaRuntime()
+
+    folder = ver.replace(".", "/")
+
+    # like require "game_data/1/1/53/technology"
+    get_data = lua.eval(f"""
+                    function()
+                        require "game_data/{folder}/dataloader"
+                        require "game_data/{folder}/util"
+                        require "game_data/{folder}/entities"
+                        return data
+                    end
+                """)
+    data: dict = get_data()["raw"]
+    data = OrderedDict(sorted(table2dict(data).items()))
+
+    tech_cache.write_bytes(pickle.dumps(data))
+
+    return data
 
 def table2dict(data):
     """ lupa._lupa._LuaTable to dict """

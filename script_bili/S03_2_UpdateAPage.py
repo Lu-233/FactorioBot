@@ -3,7 +3,7 @@ from tool.wiki import get_bili_tool
 
 def main():
     """ main func """
-    target_name = "绿图 (升级规划)"
+    target_name = "鲜鱼"
 
     wiki = get_bili_tool()
 

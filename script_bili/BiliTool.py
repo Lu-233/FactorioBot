@@ -63,10 +63,10 @@ def get_items(wiki, only_undone=False) -> list:
     return items
 
 
-def get_items_dict(wiki, only_undone=False) -> dict:
+def get_items_dict(wiki, use_cache=True, only_undone=False) -> dict:
     """ all items page dict, key=cat name, value = list of page """
     items = defaultdict(list)
-    for page in wiki.pages():
+    for page in wiki.pages(use_cache=use_cache):
         content: str = wiki.page_info(page["pageid"])["*"]
 
         if content.startswith("{{面包屑|物品信息"):

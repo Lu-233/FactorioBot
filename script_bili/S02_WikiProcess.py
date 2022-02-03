@@ -12,7 +12,10 @@ def main():
     wiki = get_tool()
 
     pages: dict = get_items_dict(wiki)
-
+    for _,v in pages.items():
+        for p in v:
+            print(p["title"])
+    return
     page_number = sum([len(pages[x]) for x in pages])
 
     print("all page:", page_number)

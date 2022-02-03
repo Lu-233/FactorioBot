@@ -11,7 +11,7 @@ def main():
 
     # for item pages
 
-    pages: dict = get_items_dict(wiki)
+    pages: dict = get_items_dict(wiki, use_cache=False)
 
     for key, items in pages.items():
         # if key != "零件":

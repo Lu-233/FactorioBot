@@ -54,17 +54,17 @@ def main():
             # print(p.name)
             page_str = p.gen_page()
 
-            token = wiki.edit_token()
-            res = wiki.session.post(wiki.api_url, data={
-                'format': 'json',
-                'action': 'edit',
-                'title': p.name,
-                'text': page_str,
-                'summary': 'bot: 更新技术页面：' + p.name + " 现在迁至科技和解锁科技以表格形式呈现",
-                'bot': True,
-                'token': token,
-            })
-            print(json.dumps(res.json(), ensure_ascii=False))
+            # token = wiki.edit_token()
+            # res = wiki.session.post(wiki.api_url, data={
+            #     'format': 'json',
+            #     'action': 'edit',
+            #     'title': p.name,
+            #     'text': page_str,
+            #     'summary': 'bot: 更新技术页面：' + p.name + " 现在迁至科技和解锁科技以表格形式呈现",
+            #     'bot': True,
+            #     'token': token,
+            # })
+            # print(json.dumps(res.json(), ensure_ascii=False))
 
 class PageBuilder:
     name: str
