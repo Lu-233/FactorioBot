@@ -3,6 +3,7 @@
     use lupa run lua code, load factorio data
 """
 import configparser
+import json
 import pickle
 from collections import OrderedDict
 from pathlib import Path
@@ -26,8 +27,29 @@ def main():
     # for k,v in data.items():
     #     print(k, v)
 
-    pass
+    lua = LuaRuntime()
+    ver = "1.1.53"
+    folder = ver.replace(".", "/")
+    data_path = Path(__file__).parent.parent / "game_info" / "game_data" / folder
 
+    data_path = str(data_path).replace("\\", "/")
+    get_data = lua.eval(f"""
+    function()
+        package.path = "{data_path}/?.lua;" .. package.path 
+        package.path = "{data_path}/core/lualib/?.lua;" .. package.path 
+
+        package.path = "{data_path}/core/?.lua;" .. package.path 
+        package.path = "{data_path}/__base__/?.lua;" .. package.path 
+    """ + """
+        require "dataloader"
+        require "util"
+        require "prototypes.technology"
+        return data
+    end
+    """)
+    data: dict = get_data()["raw"]["technology"]
+    data = OrderedDict(sorted(table2dict(data).items()))
+    print(json.dumps(data, ensure_ascii=False, indent=4))
 
 
 def remove_num_tail(name: str):
